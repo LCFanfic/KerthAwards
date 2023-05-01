@@ -289,6 +289,7 @@
 2023-04-30 22:47:48 <Bek>	Eep! Thank you all!
 2023-04-30 22:49:31 <Darth_Michael>	live speech 
 2023-04-30 22:49:33 <Darth_Michael>	live speech!
+2023-04-30 22:49:34 <Darth_Michael>	FIXED SPECIAL CHARACTERS IN AWARDS CHANNEL TRANSCRIPT
 2023-04-30 22:49:39 <KSaraSara>	Whew...
 2023-04-30 22:50:06 <AnnaBtG>	Yay Jerseygrl!!
 2023-04-30 22:50:19 <Doranwen>	Oh, it's the special apostrophe that's doing the weird chars for me.  Anyone else seeing it oddly too?
