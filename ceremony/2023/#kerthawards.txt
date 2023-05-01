@@ -1,0 +1,753 @@
+2023-04-30 20:14:41 *	Now talking on #kerthawards
+2023-04-30 21:48:15 <KathyB>	Welcome, everyone! We're at T-13 minutes and counting for the 2023 Kerth Awards -- our 25th Annual Kerth Awards!
+2023-04-30 21:48:27 <KathyB>	If you're not already in #kerthchat, please join us there. :) 
+2023-04-30 21:48:55 *	CRene (Mibbit@cloak-ABC2EF5A.nc.res.rr.com) has joined
+2023-04-30 21:55:03 *	Songbird (Mibbit@cloak-BE5DFB2A.socal.res.rr.com) has joined
+2023-04-30 22:01:20 *	Blueowl (Mibbit@496E62E.29FD92D1.E449F2C6.IP) has joined
+2023-04-30 22:01:24 <KathyB>	Hello everyone! Welcome to the 2023 Kerth Awards!
+2023-04-30 22:01:55 <KathyB>	Just a reminder that this channel will be for the ceremony only, but we have open chatting in #kerthchat
+2023-04-30 22:02:02 <KathyB>	Please join us in #kerthchat if you're not already there :) 
+2023-04-30 22:02:18 <KathyB>	We'll be getting started in just another minute or two, while we wait for any last minute attendees to log on
+2023-04-30 22:05:57 *	Blueowl has quit (Quit: Blueowl)
+2023-04-30 22:06:20 *	Blueowl (Mibbit@496E62E.29FD92D1.E449F2C6.IP) has joined
+2023-04-30 22:06:47 <KathyB>	Hello everyone, and welcome to the 25th Annual Lois & Clark Fanfic Kerth Awards! And a big thank you to the Kerth Committee for inviting me to act as Master of Ceremonies for tonight’s Jubilee celebration!
+2023-04-30 22:06:48 *	bakasi (Mibbit@cloak-6EBA0717.dip0.t-ipconnect.de) has joined
+2023-04-30 22:07:40 <KathyB>	Lois & Clark: The New Adventures of Superman debuted nearly 30 years ago (!) on September 12, 1993, and the online fandom began gathering very soon thereafter. To the best of my knowledge, the first L&C-specific fanfic was “Counter Clark-Wise”, written by Zoomway in the summer of 1994. The Lois & Clark Fanfic Archive now boasts 4,278 stories, and that’s not e
+2023-04-30 22:07:50 <KathyB>	and that’s not even counting all the recent stories that have not yet been uploaded or the many stories rated above PG-13 that are housed elsewhere. 
+2023-04-30 22:08:04 <KathyB>	The Kerth Awards have a similarly long and wonderful history. In the spring of 1998, Leanne Shawler mentioned that a previous fandom she’d been involved with had done fanfic awards. 
+2023-04-30 22:08:11 <KathyB>	FoLCs were immediately enthusiastic about the idea, and Leanne and Pam Jernigan came up with 28 categories to honor all the stories that had been posted from 1994-1997. 
+2023-04-30 22:08:22 <KathyB>	As you can imagine, competition was incredibly fierce, with hundreds of amazing stories up for nomination and voting! Once the votes were tallied, an award ceremony was held on IRC, with over 70 FoLCs in attendance.
+2023-04-30 22:08:28 *	Blueowl_ (Mibbit@496E62E.29FD92D1.E449F2C6.IP) has joined
+2023-04-30 22:08:48 <KathyB>	With the popularity of the Kerth Awards obvious, and with a desire to make it an annual event, a new Kerth Committee was formed for year two, with Erin Klingler taking the helm, joined by Pam and myself. 
+2023-04-30 22:08:54 <KathyB>	I cannot overstate how amazing this experience was, and over the next six years, from 1999-2005, we had a wonderful time celebrating all the high quality fanfic the fans of Lois & Clark have graced the fandom with.
+2023-04-30 22:09:05 <KathyB>	The committee has evolved over the years, with new coordinators, quiz masters, and presenters volunteering their time. 
+2023-04-30 22:09:24 <KathyB>	So please join me in giving a huge thank you to all of our past committee members who have helped over the years -- Erin, Pam, Annette, Helene, Yvonne, Wendy, Tricia, KathyM, Felicia, Vicki, and Val 
+2023-04-30 22:09:32 <KathyB>	– and a just as huge welcome to our newest KComm members – Sara, Michael, Sara, and Annie! Not to mention the many, many FoLCs who have presented awards, created videos and fanart, nominated stories, and of course, voted for their favorites.
+2023-04-30 22:09:45 <KathyB>	Thank you all for making the Lois & Clark fandom still a wonderful place to be, even after 30 years! :D
+2023-04-30 22:09:58 *	Toomi (Mibbit@cloak-71D871AA.cg.shawcable.net) has joined
+2023-04-30 22:10:20 *	lovetvfan_sock (Mibbit@cloak-86AFE57.cable.dynamic.surfer.at) has joined
+2023-04-30 22:10:20 <KathyB>	And in honor of this momentous occasion, let me just say …
+2023-04-30 22:10:30 <KathyB>	CONTRACTION!!!
+2023-04-30 22:10:48 <KathyB>	No, no, not this year! Fortunately my Kerth baby is all grown up – 22 years old this year! – and my concerns about going into labor will never disrupt another Kerth Awards. 😄
+2023-04-30 22:10:49 *	KSaraSara eyes Kathy warily...
+2023-04-30 22:11:13 <KathyB>	(Now watch, years from now, one of my kids will be having a kid, and they will go into labor on Kerth day. Ha!)
+2023-04-30 22:11:30 *	Blueowl has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 22:11:46 <KathyB>	So without further adieu, on with the show!
+2023-04-30 22:11:53 <KathyB>	Today we’ll be presenting Kerth awards in 16 categories. We will present 8 awards, then take a 15 minute intermission, before returning to present the remaining 8 awards.
+2023-04-30 22:12:04 <KathyB>	Hopefully you are all seeing this in #kerthawards, but only presenters will be able to speak here. All discussion will take place in #kerthchat, so if you haven’t already joined that channel, please do so now! It’s always a ton of fun to celebrate with your fellow FoLCs.  
+2023-04-30 22:12:06 <KathyB>	:)
+2023-04-30 22:12:21 <KathyB>	A special thank you to Doranwen, who will be our voice jockey for the ceremony. She will be muting and unmuting those who are “at the podium”, so presenters and award winners, please make sure you are unmuted before you start talking. 
+2023-04-30 22:12:38 *	Voice_Jockey gives channel operator status to AnnieM
+2023-04-30 22:12:46 <KathyB>	Also, presenters, please check for a private message from DarthMichael during your speech, as he will be passing you the envelope with the winner’s name!
+2023-04-30 22:13:07 <KathyB>	And now, to present our first category, Best Super-Short Story, is the wonderful AnnieM. Come on up, Annie!
+2023-04-30 22:13:19 <AnnieM>	Thank you, Kathy!
+2023-04-30 22:13:36 <AnnieM>	As an author known for her brevity, I was the obvious choice to present the Super-Short Story category
+2023-04-30 22:13:46 <AnnieM>	What's that? I can't hear over all the laughter....
+2023-04-30 22:14:14 <AnnieM>	Ok, seriously, as someone whose writing is anything but concise, I'm constantly amazed by how these authors can convey so much in these tiny bite-sized stories
+2023-04-30 22:14:55 <AnnieM>	These stories are only 1-10kb, they still manage to make us laugh, cry and awwwww
+2023-04-30 22:15:03 <AnnieM>	This year's nominees for the Super-Short category are...
+2023-04-30 22:15:18 <AnnieM>	Astrologically Challenged by Anna B the Greek 
+2023-04-30 22:15:24 <AnnieM>	A Family Tradition by lovetvfan 
+2023-04-30 22:15:31 <AnnieM>	Inside a Deranged Mind by bakasi
+2023-04-30 22:15:37 <AnnieM>	The Necklace by Folc4evernaday 
+2023-04-30 22:15:43 <AnnieM>	Playing Pretend by KSaraSara
+2023-04-30 22:15:54 <AnnieM>	And the winner is.....
+2023-04-30 22:16:08 <AnnieM>	The Necklace by Folc4evernaday
+2023-04-30 22:16:30 *	Voice_Jockey gives voice to AnnaBtG
+2023-04-30 22:17:04 <KathyB>	Congratulations Val!
+2023-04-30 22:17:39 <KathyB>	And now, to present the award for Best Original or Supporting Character, I give you our newest KComm Technical Coordinator, DarthMichael! 
+2023-04-30 22:18:07 *	Darth_Michael enters from the left and jogs up to the podium.
+2023-04-30 22:18:13 <Darth_Michael>	Thank you, Kathy, thank you!
+2023-04-30 22:18:18 <Darth_Michael>	It’s a pleasure to be back up here after…umm…yeah, let’s just say, it’s a pleasure to be back here now.
+2023-04-30 22:18:25 <Darth_Michael>	25 years of awards, can you imagine?
+2023-04-30 22:18:30 <Darth_Michael>	And 30 years of LnC entrancing this fandom.
+2023-04-30 22:18:36 <Darth_Michael>	Entrancing us before we even knew that there was a fandom.
+2023-04-30 22:18:42 <Darth_Michael>	Actually, before we even knew that there was an Internet to have a fandom in. 
+2023-04-30 22:18:48 <Darth_Michael>	Anyone watching Young Sheldon and its glorious throwbacks to the early nineties? 
+2023-04-30 22:18:53 <Darth_Michael>	Back then, you had to pen and paper everything unless you were really geeky and nerdy all rolled in one. 
+2023-04-30 22:19:05 *	Darth_Michael glances at thick stack of notes
+2023-04-30 22:19:11 <Darth_Michael>	Oh, okay, apparently, I’m not here to talk about best *long* story, just about the characters that make those stories go on and on and on.
+2023-04-30 22:19:21 *	Darth_Michael glances into audience room
+2023-04-30 22:19:25 <Darth_Michael>	Just kidding!
+2023-04-30 22:19:27 <Darth_Michael>	I did know why I was up here.
+2023-04-30 22:19:31 <Darth_Michael>	I may take just as long as GRRM to get the next story out, but I *am* still a bit younger.
+2023-04-30 22:19:34 <Darth_Michael>	And a lot less evil to my lead characters. 
+2023-04-30 22:19:38 <Darth_Michael>	No, really!
+2023-04-30 22:19:41 <Darth_Michael>	Mine always come back.
+2023-04-30 22:19:44 <Darth_Michael>	Alive, I mean. Not pre-deceased.
+2023-04-30 22:19:47 *	Darth_Michael ducks thrown Clarkie bear
+2023-04-30 22:19:49 <Darth_Michael>	Hey, no attacking the presenter. We’re not at the Oscars!
+2023-04-30 22:20:01 <Darth_Michael>	Where was I…
+2023-04-30 22:20:05 *	Darth_Michael flips through pages
+2023-04-30 22:20:09 <Darth_Michael>	Ah yes. The Best Original or Supporting Character in a Lois and Clark fic.
+2023-04-30 22:20:13 <Darth_Michael>	Which means this category is *not* about Clark. 
+2023-04-30 22:20:19 *	Darth_Michael glances back into audience
+2023-04-30 22:20:23 <Darth_Michael>	Usher, could you please help that irate Clois to the foyer?
+2023-04-30 22:20:25 <Darth_Michael>	Thanks.
+2023-04-30 22:20:33 <Darth_Michael>	Sorry for the interruption, guys.
+2023-04-30 22:20:36 <Darth_Michael>	As I was saying, this category is not about how Clark *and* Lois fare in their stories.
+2023-04-30 22:20:41 <Darth_Michael>	Instead, it’s about all the other speaking roles who make up the world where our hero and heroine struggle to find their happiness. 
+2023-04-30 22:20:47 *	Darth_Michael pulls out a doggie treat and throws it to the right of the audience chamber where Bakasi is sitting with her guest.
+2023-04-30 22:20:51 <Darth_Michael>	Yes, Houdini. You too. 
+2023-04-30 22:20:55 *	Darth_Michael gazes over crowd and waves at Selina sitting in the fourth row next to Bruce.
+2023-04-30 22:20:59 <Darth_Michael>	What?
+2023-04-30 22:20:59 <Darth_Michael>	No, I’m not really a dog person.
+2023-04-30 22:20:59 <Darth_Michael>	I know, right?
+2023-04-30 22:21:04 <Darth_Michael>	Still, I can apricate an adorably done dog like the next FoLC.
+2023-04-30 22:21:07 <Darth_Michael>	And Bakasi did a truly marvelous job.
+2023-04-30 22:21:11 <Darth_Michael>	She didn’t even need a Zelig Stone for it.
+2023-04-30 22:21:15 <Darth_Michael>	Speaking of dogs, who would have guessed that *Claude* would make the list?
+2023-04-30 22:21:18 *	Darth_Michael points back at audience
+2023-04-30 22:21:20 <Darth_Michael>	*Lois*, please stop hitting the Frenchman with your purse. You’ve seen what happened to Clois.
+2023-04-30 22:21:26 <Darth_Michael>	Sorry, again. Tonight’s audience is much more unruly than it was in the early years. 
+2023-04-30 22:21:31 <Darth_Michael>	At least no one’s gone into labor yet, though, right?
+2023-04-30 22:21:38 *	Darth_Michael waits for chuckling to die down
+2023-04-30 22:21:50 <Darth_Michael>	So, aside from various canines, both cute and stray ones, we also got characters of the feline persuasion this year.
+2023-04-30 22:21:57 *	Darth_Michael continues quickly before Cat can discuss with Selina how to best leave permanent markings on presenter’s hide
+2023-04-30 22:22:02 <Darth_Michael>	Speaking of cuteness…we also got the next generation of characters represented with Hannah, who doesn’t even have to pretend to be her mother’s favorite accomplishment.
+2023-04-30 22:22:08 <Darth_Michael>	Which leads us to Clark’s mom. 
+2023-04-30 22:22:11 <Darth_Michael>	Martha is such a Lois and Clark staple, that it’s both a wonder she’s not mentioned more often in this category and at the same time, a sign of just how supportive she was of Lois to make the list.
+2023-04-30 22:22:16 *	Darth_Michael takes a breath while checking the notes
+2023-04-30 22:22:22 <Darth_Michael>	Ah, yes, and who could forget Lana?
+2023-04-30 22:22:26 *	Darth_Michael watches as Clark catches the small tray sailing off from their table towards his high school sweetheart
+2023-04-30 22:22:31 *	Darth_Michael clears throat
+2023-04-30 22:22:37 <Darth_Michael>	Apparently, certainly not Lois.
+2023-04-30 22:22:41 <Darth_Michael>	Good thing we didn’t need Henderson to arrest our intrepid reporter for assault this early into the evening.
+2023-04-30 22:22:47 *	Darth_Michael gives an embarrassed smile
+2023-04-30 22:22:50 <Darth_Michael>	Whoever thought of actually inviting all those characters to the party would be a good idea, needs to have their good senses checked.
+2023-04-30 22:22:53 <Darth_Michael>	Too bad Dr. Deter isn’t here. 
+2023-04-30 22:22:56 <Darth_Michael>	Or Tempus.
+2023-04-30 22:22:58 <Darth_Michael>	Can you imagine his laughter at the irony of Lois getting hauled out of a Kerth ceremony, kicking and screaming, when she wasn’t even nominated herself?
+2023-04-30 22:23:09 <Darth_Michael>	Which brings us to the actual list of nominees:
+2023-04-30 22:23:17 <Darth_Michael>	Henderson: Aftershocks by Toomi8
+2023-04-30 22:23:17 <Darth_Michael>	Cat Grant: Bad Reputation by Deadly Chakram 
+2023-04-30 22:23:17 <Darth_Michael>	Claude and Lex: Federal Disaster by lovetvfan
+2023-04-30 22:23:17 <Darth_Michael>	Houdini: Houdini Unleashed by bakasi 
+2023-04-30 22:23:17 <Darth_Michael>	Hannah: Playing Pretend by KSaraSara 
+2023-04-30 22:23:17 <Darth_Michael>	Martha: So Far Away by KSaraSara
+2023-04-30 22:23:17 <Darth_Michael>	Lana Lang: What the Heart Wants by AnnieM and KathyB 
+2023-04-30 22:23:28 *	Darth_Michael reaches into breast pocket and pulls out envelope, carefully checking that it’s the right one
+2023-04-30 22:23:35 <Darth_Michael>	And the winner is…
+2023-04-30 22:23:40 *	Darth_Michael pulls at envelope, getting sheet out
+2023-04-30 22:23:49 <Darth_Michael>	Lana Lang: What the Heart Wants by AnnieM and KathyB
+2023-04-30 22:23:52 <Darth_Michael>	Congratulations you guys!
+2023-04-30 22:24:16 <AnnieM>	Awww, thank you so much, y'all!
+2023-04-30 22:24:53 <AnnieM>	I have to say, this Lana is one of my favorite characters I have ever written. I was nervous about how she'd be received by the fandom, since I know she's usually a character we love to hate.
+2023-04-30 22:25:08 <AnnieM>	So it means a lot that you gave her a chance and learned to love her as much as we do
+2023-04-30 22:26:02 <KathyB>	Yes, thank you, everyone! I give all the credit in the world to Annie, who did the vast majority of the writing, and gave me the wonderful gift of being the peanut gallery :)
+2023-04-30 22:26:36 <KathyB>	This was the most fun I've had working on a story since ... well, since the last time Annie and I wrote a story together, LOL!
+2023-04-30 22:26:54 <AnnieM>	LOL! I will absolutely second that. Working together is always a joy.
+2023-04-30 22:27:43 *	KathyB puts my MC hat back on
+2023-04-30 22:28:00 <KathyB>	And now, to present the award for Best Kiss, please welcome AnnaBtG!
+2023-04-30 22:28:02 *	KSaraSara has quit (Quit: Leaving)
+2023-04-30 22:29:33 <AnnaBtG>	Hello, FoLCs, and good evening. Please give me a moment while my Google docs act up... :P
+2023-04-30 22:29:42 *	KSaraSara (~sara@cloak-D8945C1D.hsd1.nm.comcast.net) has joined
+2023-04-30 22:29:48 *	Voice_Jockey gives channel operator status to KSaraSara
+2023-04-30 22:30:10 <AnnaBtG>	Well, then. Tonight, I’m going to talk to you about a problem most Lois and Clark writers have encountered.
+2023-04-30 22:30:37 <AnnaBtG>	https://www.irccloud.com/pastebin/jIwL0IT6
+2023-04-30 22:31:04 <AnnaBtG>	Hmm... *taps microphone*
+2023-04-30 22:31:12 <AnnaBtG>	This was not planned, I promise.
+2023-04-30 22:31:58 <AnnaBtG>	Also, this is not the problem I was referring to.
+2023-04-30 22:32:30 <AnnaBtG>	That problem is:
+2023-04-30 22:32:35 <AnnaBtG>	Lois and Clark are in love, as you very well know, no matter how hard Lois tries to deny it. And not only are they in love, but they are also super attracted to each other.
+2023-04-30 22:33:07 <AnnaBtG>	Which, good for them, but it causes a certain problem for the writer.
+2023-04-30 22:33:24 <AnnaBtG>	You see, they want to kiss. A lot.
+2023-04-30 22:33:37 <AnnaBtG>	Have you ever tried to write a kiss? It’s damn hard, let me tell you.
+2023-04-30 22:33:52 <AnnaBtG>	There are feelings and sensations and positions and body parts to consider.
+2023-04-30 22:34:07 <AnnaBtG>	And while Lois and Clark are having fun making out and most of the time not stopping for the world, on the other side of the page there’s a writer wanting to gouge their eyes out with cringe at their own words, or begging them to stop so they can get on with the plot.
+2023-04-30 22:34:37 <AnnaBtG>	They persist, though – and how happy are we that they do!
+2023-04-30 22:34:49 <AnnaBtG>	Because we get some great stories out of it! 
+2023-04-30 22:35:04 <AnnaBtG>	Whether a kiss is the whole point of the fic, or a small part in a longer journey, it definitely spices up a story and gives us some much-desired feels, which is precisely what we’re here for!
+2023-04-30 22:35:22 <AnnaBtG>	So here’s the list of the stories with the most memorable kisses of the year!
+2023-04-30 22:35:58 <AnnaBtG>	Kiss Me by SuperBek
+2023-04-30 22:36:10 <AnnaBtG>	Ficathon: Kiss Me (for Carrie Rene) by lovetvfan
+2023-04-30 22:36:21 <AnnaBtG>	This Is Not A Date by KSaraSara
+2023-04-30 22:36:35 <AnnaBtG>	What the Heart Wants by AnnieM and KathyB
+2023-04-30 22:36:49 <AnnaBtG>	Yours to Discover (for Queen of the Capes) by KSaraSara
+2023-04-30 22:37:02 <AnnaBtG>	And the winner is…
+2023-04-30 22:37:40 <AnnaBtG>	What the Heart Wants by AnnieM and KathyB!!! Congrats!!
+2023-04-30 22:39:25 *	Voice_Jockey removes voice from AnnaBtG
+2023-04-30 22:40:14 <AnnieM>	I don't even know what to say, given that I was just in the chat lamenting how hard it is to write kisses and how I'm always sure they are so bad no one will ever believe I've actually experienced a kiss. It just goes to show that these characters have such awesome chemistry, the kisses practically write themselves.
+2023-04-30 22:40:24 <AnnieM>	Thank you all so much!
+2023-04-30 22:40:53 <KathyB>	Thank you, everyone! As I just said in chat, I was already planning to reread the story this week, and now I have to pay special attention to those kisses. :D
+2023-04-30 22:41:39 *	KathyB stops Annie from leaving the stage
+2023-04-30 22:42:03 <KathyB>	Because in a perfect transition, up now to present the award for Best Short Story, please welcome back our newest KComm Volunteer Coordinator, the wonderful AnnieM!
+2023-04-30 22:42:20 <AnnieM>	Ah yes, Best Short Story...
+2023-04-30 22:42:26 <AnnieM>	As an author known for her brevity....
+2023-04-30 22:42:35 *	Meadowlark has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 22:42:36 <AnnieM>	Wait a minute, that sounds familiar ;)
+2023-04-30 22:42:49 <AnnieM>	The short story category is for stories that clock in at 11-50kb. That’s the perfect sweet spot for a story you can sink your teeth into but still read in a single sitting. 
+2023-04-30 22:43:02 <AnnieM>	As a reader, these are my favorite stories to return to again and again. The perfect pick-me-up after a long day or the perfect bedtime story after a long night. 
+2023-04-30 22:43:17 <AnnieM>	And as a writer, I’m endlessly impressed by authors who can tell a whole story and capture such an impressive depth of emotion in so few words. They are more than just a single scene – they manage to cram all the drama and angst and excitement of a full-length story into just 11-50kb.
+2023-04-30 22:43:36 <AnnieM>	This year’s nominees for Best Short Story are:
+2023-04-30 22:43:43 <AnnieM>	Drinks After Work by KSaraSara
+2023-04-30 22:43:50 <AnnieM>	Footprint Hotel by Blueowl
+2023-04-30 22:43:58 <AnnieM>	Pencil It In by SuperBek
+2023-04-30 22:44:06 <AnnieM>	Pheromone, My Love by KSaraSara
+2023-04-30 22:44:18 <AnnieM>	Rainfall by Morgana
+2023-04-30 22:44:22 <AnnieM>	And the winner is....
+2023-04-30 22:44:42 <AnnieM>	Pencil It In by SuperBek
+2023-04-30 22:44:46 *	Voice_Jockey gives voice to Bek
+2023-04-30 22:44:47 <AnnieM>	Congratulations!
+2023-04-30 22:45:07 *	Meadowlark (Mibbit@cloak-C85C35F7.mobile.att.net) has joined
+2023-04-30 22:45:13 <Bek>	Oh my, goodness! Um, thank you! 
+2023-04-30 22:47:08 <Bek>	I don't know what to say! I loved writing this story, even though writing the longer stories is really my favorite :) I'm so glad it was well received! Thank you all so much!
+2023-04-30 22:48:08 <KathyB>	Congratulations :)
+2023-04-30 22:48:20 <KathyB>	 And now, we have a special treat. In lieu of a Best New Author award, we’ve decided to highlight both authors that graced us with their first stories in 2022. To present the first of those highlights, please welcome our newest Kerth Coordinator, KSaraSara!
+2023-04-30 22:48:24 *	Voice_Jockey removes voice from Bek
+2023-04-30 22:49:18 *	KSaraSara steps up to the mic... knowing she's going to flub the pasting...
+2023-04-30 22:49:27 <KSaraSara>	As a 30-year-old fandom, I think it�s pretty phenomenal that, year after year, we keep gaining new authors! (Okay, so I didn�t fact check that there were new authors EVERY year...but I�m fairly certain.)
+2023-04-30 22:49:48 <KSaraSara>	Our first of two authors to celebrate tonight is Jerseygrl! Hailing to us from the Superman & Lois fandom, she debuted as a writer in our L&C fandom last year. 
+2023-04-30 22:50:08 <KSaraSara>	To give you a little taste of her writing and entice you to read her fantastic first L&C fic, here�s a spoiler-free excerpt from her story, �The Card�:
+2023-04-30 22:50:44 <KSaraSara>	(Summary: At the end of Tempus Fugitive, right before they return to their time and their memories are wiped, Lois writes herself a note on the back of Perry�s birthday card so she won�t forget that Clark is Superman...)
+2023-04-30 22:50:44 <KSaraSara>	(Summary: At the end of Tempus Fugitive, right before they return to their time and their memories are wiped, Lois writes herself a note on the back of Perry�s birthday card so she won�t forget that Clark is Superman...)
+2023-04-30 22:50:44 <KSaraSara>	(Summary: At the end of Tempus Fugitive, right before they return to their time and their memories are wiped, Lois writes herself a note on the back of Perry�s birthday card so she won�t forget that Clark is Superman...)
+2023-04-30 22:50:46 <KSaraSara>	Summary: At the end of Tempus Fugitive, right before they return to their time and their memories are wiped, Lois writes herself a note on the back of Perry�s birthday card so she won�t forget that Clark is Superman...
+2023-04-30 22:51:10 <KSaraSara>	***** �For god�s sake, Lois, wouldn�t hurt you to knock,� he said. 
+2023-04-30 22:51:10 <KSaraSara>	�No time, chief,� she replied, tossing the present at his desk. He picked it up, contemplating it for a moment. 
+2023-04-30 22:51:10 <KSaraSara>	***** �For god�s sake, Lois, wouldn�t hurt you to knock,� he said.
+2023-04-30 22:51:18 <KSaraSara>	�No time, chief,� she replied, tossing the present at his desk. He picked it up, contemplating it for a moment.
+2023-04-30 22:51:28 <KSaraSara>	�Oh, and here,� she added, dropping the card right beside it. �Happy birthday, or whatever��
+2023-04-30 22:51:49 <KSaraSara>	She saw Clark approaching from behind and she rolled her eyes, noticing Perry finally picking up the card as she started to turn away. He held it up, jamming his finger under the glued flap, and then he started to tear it open�
+2023-04-30 22:52:04 <KSaraSara>	And that�s when she saw it. 
+2023-04-30 22:52:04 <KSaraSara>	Or she thought she did�
+2023-04-30 22:52:04 <KSaraSara>	And that�s when she saw it.
+2023-04-30 22:52:10 <KSaraSara>	Or she thought she did�
+2023-04-30 22:52:18 <KSaraSara>	But it had to have been her imagination. It had to have said something else�
+2023-04-30 22:52:26 <KSaraSara>	She pivoted back around violently, smacking her shoulder into Clark in the process, and then she narrowed her eyes as Perry finally finished opening the envelope.
+2023-04-30 22:53:10 <KSaraSara>	�Well, isn�t this lovely,� he said as he pulled the card out. �An empty card! No signature or anything! Well thank you, Lois� I guess��
+2023-04-30 22:53:20 <KSaraSara>	�The present, chief, why don�t you open the present,� Clark said, trying to cover for her neglectful mishap.
+2023-04-30 22:53:28 <KSaraSara>	But Lois could barely hear what was going on around her. It was completely insignificant� especially in light of what she had just seen�
+2023-04-30 22:53:36 <KSaraSara>	Or thought she had seen.
+2023-04-30 22:53:45 <KSaraSara>	�Ah, good idea, Kent,� Perry said. �Now, Lois, I can�t wait to see what you bought this year. Your gifts are always so� thoughtful.�
+2023-04-30 22:53:55 <KSaraSara>	She had misread it. Clearly she had misread it. 
+2023-04-30 22:53:55 <KSaraSara>	The envelope was now flat on the desk, those pesky, mysterious words hidden from view.
+2023-04-30 22:54:02 <KSaraSara>	The words she had imagined, clearly. It was wishful thinking�  *****
+2023-04-30 22:54:22 <KSaraSara>	Ack!! She actually saw the envelope! What�s she going to do about it??
+2023-04-30 22:54:35 <KSaraSara>	You can check out the full story on the MBs, the archive, or AO3! While Jerseygrl has only given us one L&C story so far, we sure hope she�ll give us more in the time to come! Welcome to the fandom, Jerseygrl, and thank you for sharing your gift of 
+2023-04-30 22:54:35 <KSaraSara>	Writing!!
+2023-04-30 22:54:51 *	Voice_Jockey gives voice to AnnaBtG
+2023-04-30 22:55:09 <KathyB>	Thank you, Sara, and thank you, Jerseygrl, for joining the addictive world of L&C fanfic! 
+2023-04-30 22:55:15 <KathyB>	And now, to present the award for Best Challenge Response, we welcome back AnnaBtG.
+2023-04-30 22:55:58 <AnnaBtG>	This category, fellas.
+2023-04-30 22:56:14 <AnnaBtG>	The first thing I did after I submitted my vote was to go on Discord and complain that this category was *the worst* because I wanted to vote all of the stories!!!
+2023-04-30 22:56:47 <AnnaBtG>	Every single one of them is an absolute gem!
+2023-04-30 22:57:09 <AnnaBtG>	We have:
+2023-04-30 22:57:12 <AnnaBtG>	Ficathon: Beyond Closed Doors (for KSaraSara) by bakasi, in which we get the front seat on Lois’s regret after slamming the door on Clark’s face, and her growing anxiety and worry after she can’t find him at work or at home the next day. A fic full of feels!
+2023-04-30 22:57:31 <AnnaBtG>	Ficathon: Evening of Mishaps (for bakasi) by Toomi8, in which we discover that Clark without his powers is a klutz who can’t stop hurting himself! You can’t help but feel for him even as you laugh at his misfortune!
+2023-04-30 22:57:51 <AnnaBtG>	Footprint Hotel by Blueowl, in which pre-Superman Clark Kent leaves his literal mark at a small place and helps them in a different way than usual. A lovely exploration of what Superman means to and can do for the world!
+2023-04-30 22:58:10 <AnnaBtG>	Ficathon: Kiss Me (for Carrie Rene) by lovetvfan, in which Lois and Clark go to Smallville in pursuit of a human interest story… and an elusive date! A sweet, heartwarming story, with a hearty dose of small town quaintness and nostalgia!
+2023-04-30 22:58:31 <AnnaBtG>	Open All Night - 2022 Kerth Challenge #4 by lovetvfan, in which Lois navigates her fear of loss after losing Clark almost forever, and Clark tries to balance out his own fears with his need to love and comfort Lois. A beautiful, emotional post-TOGOM story to the tune of my beloved Bon Jovi!
+2023-04-30 22:58:51 <AnnaBtG>	Yours to Discover (for Queen of the Capes) by KSaraSara, in which we explore Canada with Lois and Clark when they travel there for a journalism conference, in a trip that turns out to pack more than Clark had predicted! Fun and lightheartedly
+2023-04-30 22:59:05 <AnnaBtG>	suspenseful at the same time!
+2023-04-30 22:59:20 <AnnaBtG>	A magnificent collection of stories, and believe me when I tell you, I will be equally happy no matter which one wins, because they’re all favorites!
+2023-04-30 22:59:33 <AnnaBtG>	Nevertheless, the winner is…
+2023-04-30 23:00:13 <AnnaBtG>	Footprint Hotel by Blueowl!! Congratulations!!!
+2023-04-30 23:00:17 *	Voice_Jockey gives voice to Blueowl_
+2023-04-30 23:00:30 *	Voice_Jockey removes voice from AnnaBtG
+2023-04-30 23:01:11 <Blueowl_>	Thank you! I loved writing this fic, especially since it was very different from what I typically write. I'm so glad everyone enjoyed it. Thank you!
+2023-04-30 23:01:46 *	Voice_Jockey gives voice to lovetvfan_sock
+2023-04-30 23:01:52 *	Voice_Jockey removes voice from Blueowl_
+2023-04-30 23:02:01 <KathyB>	Congratulations :)
+2023-04-30 23:02:17 <KathyB>	And now, to present the award for Best Revelation, please welcome our newest KComm Activities Coordinator, Sara aka lovetvfan, who sent us her speech ahead of time to paste for her.
+2023-04-30 23:02:52 <lovetvfan_sock>	Best Revelation Story – These are stories that focus on…well, the revelation of a secret.
+2023-04-30 23:02:56 <lovetvfan_sock>	A certain secret.
+2023-04-30 23:03:02 <lovetvfan_sock>	A specific one actually.
+2023-04-30 23:03:05 <lovetvfan_sock>	And I’ll be honest, it’s a pretty big secret.
+2023-04-30 23:03:10 <lovetvfan_sock>	Like…I dunno if anyone else knew this, but did you guys know that Clark Kent is actually…a Toronto Maple Leafs fan? 
+2023-04-30 23:03:17 <lovetvfan_sock>	I KNOW! I was floored! I mean, of all the hockey teams to root for, he goes and picks a team that hasn’t won a Stanley Cup since 1967!
+2023-04-30 23:03:25 <lovetvfan_sock>	I mean he was only a year old for crying out loud! Now I can’t wrap my head around why this revelation garners this much fanfic but I…
+2023-04-30 23:03:29 <lovetvfan_sock>	*checks notes* 
+2023-04-30 23:03:34 <lovetvfan_sock>	No, wait, sorry my bad. 
+2023-04-30 23:03:39 <lovetvfan_sock>	Best Revelation is a category that focuses on the various ways in which Clark Kent reveals to Lois Lane that he is Superman!
+2023-04-30 23:03:42 <lovetvfan_sock>	Whoops!
+2023-04-30 23:03:46 <lovetvfan_sock>	Sorry about that.
+2023-04-30 23:03:49 <lovetvfan_sock>	It’s playoff season.
+2023-04-30 23:03:51 <lovetvfan_sock>	Easy mistake to make, right? 
+2023-04-30 23:04:01 <lovetvfan_sock>	Either way…the nominees are: 
+2023-04-30 23:04:06 <lovetvfan_sock>	Drinks After Work by KSaraSara
+2023-04-30 23:04:12 <lovetvfan_sock>	Kiss Me by SuperBek 
+2023-04-30 23:04:15 <lovetvfan_sock>	Pencil It In by SuperBek
+2023-04-30 23:04:18 <lovetvfan_sock>	What the Heart Wants by AnnieM and KathyB
+2023-04-30 23:04:21 <lovetvfan_sock>	Yours to Discover (for Queen of the Capes) by KSaraSara 
+2023-04-30 23:04:25 <lovetvfan_sock>	And the winner is…
+2023-04-30 23:04:29 <lovetvfan_sock>	What the Heart Wants by AnnieM and KathyB
+2023-04-30 23:04:41 <lovetvfan_sock>	Congratulations you two!
+2023-04-30 23:04:54 *	Voice_Jockey removes voice from lovetvfan_sock
+2023-04-30 23:05:13 <AnnieM>	Thanks so much, everyone! This revelation was truly a new one for me -- how do you write a revelation in a world where there is no Superman?
+2023-04-30 23:06:02 <AnnieM>	It was so different from any of the other dozens of revelations I've written over the decades, and I'm so glad the readers appreciated it!
+2023-04-30 23:07:52 <KathyB>	Yes, thank you everyone. I have to admit, as much as I love everything about this story, the revelation -- both of them -- is the section that is my ultimate favorite in the whole story.
+2023-04-30 23:07:54 <KathyB>	So thank you!
+2023-04-30 23:08:22 <KathyB>	And now, to present the award for Best Mid-Length Story, welcome back Michael!
+2023-04-30 23:08:29 *	Darth_Michael comes back up to the stage
+2023-04-30 23:08:34 <Darth_Michael>	Wow, can you believe that? 
+2023-04-30 23:08:36 <Darth_Michael>	Clark Kent is Superman!
+2023-04-30 23:08:39 <Darth_Michael>	Judas Priest…
+2023-04-30 23:08:41 <Darth_Michael>	Next thing you’ll tell me, Lois Lane is actually Ultra Woman!
+2023-04-30 23:08:43 <Darth_Michael>	Then again, it would explain her stout refusal to die no matter how many nefarious plots and dangerous haircuts she was subjected to over the years.
+2023-04-30 23:08:54 <Darth_Michael>	Aaaanyhow, speaking on the subject of Lois’s love affair with dangerous situations, I just realized something:
+2023-04-30 23:08:58 <Darth_Michael>	This category, which is so graciously called “Best Mid-Length Story”, should really be called “Best Date Story” this year.
+2023-04-30 23:09:02 <Darth_Michael>	No, seriously, there’s four stories that are literally just a date and one that’s basically a date and its consequences.
+2023-04-30 23:09:08 <Darth_Michael>	You can’t make that stuff up if you tried.
+2023-04-30 23:09:14 <Darth_Michael>	And in years past, FoLCs did try to make that stuff up.
+2023-04-30 23:09:17 <Darth_Michael>	A lot.
+2023-04-30 23:09:23 <Darth_Michael>	So, Best Mid-Length Story, that’s anything from what KSaraSara calls a vignette to what the rest of us old timers…
+2023-04-30 23:09:28 *	Darth_Michael eyes registration date
+2023-04-30 23:09:31 <Darth_Michael>	(Yes, I’ll stick with “us”.)
+2023-04-30 23:09:34 <Darth_Michael>	…calls one post a week for a month.
+2023-04-30 23:09:39 <Darth_Michael>	Man, those were the times when an entire plot was done as a tragedy in four parts. 
+2023-04-30 23:09:41 *	Darth_Michael listens to earwig
+2023-04-30 23:09:44 <Darth_Michael>	Oh, yeah, sorry, we also had “date” stories in years past, too.
+2023-04-30 23:09:48 <Darth_Michael>	There was one where Lois helped Clark get ready for a date with a mystery woman.
+2023-04-30 23:09:52 <Darth_Michael>	Lucy playing a matchmaking Santa.
+2023-04-30 23:09:55 <Darth_Michael>	Does Lois and Clark kissing for three parts straight on the top of her future Jeep’s hood count as a date?
+2023-04-30 23:10:02 <Darth_Michael>	But we’re not here to honor those stories of Kerths past.
+2023-04-30 23:10:08 <Darth_Michael>	Noooo…
+2023-04-30 23:10:12 <Darth_Michael>	We’re here to honor this latest crop of stories about Lois and Clark being horny reporters working up the nerve to share a kiss, cause WAFFy feelings, and general comedic merriment.
+2023-04-30 23:10:18 *	Darth_Michael listens again to earwig
+2023-04-30 23:10:21 <Darth_Michael>	Okay, fine, I do realize that these are their own categories.
+2023-04-30 23:10:25 <Darth_Michael>	I do pay attention, you know?
+2023-04-30 23:10:29 <Darth_Michael>	Sorry about that, guys. 
+2023-04-30 23:10:35 <Darth_Michael>	I’m sure you’ve all had this happen to you, plotting along, and then your friendly neighborhood Beta interjects with “they wouldn’t do that” or “you can’t do that”.
+2023-04-30 23:10:41 <Darth_Michael>	And…surprise…the Beta is usually right, too.
+2023-04-30 23:10:52 <Darth_Michael>	So, without much fanfare and in order to prevent the ushers from dragging me off the stage for going way too far off script, I give you this year’s nominees for the Best Mid-Length Story!
+2023-04-30 23:11:01 <Darth_Michael>	Frankly My Dear, I Don't Like Pearl Jam by lovetvfan and KSaraSara
+2023-04-30 23:11:01 <Darth_Michael>	In the Right Now by AnnieM
+2023-04-30 23:11:01 <Darth_Michael>	Ficathon: Kiss Me (for Carrie Rene) by lovetvfan
+2023-04-30 23:11:01 <Darth_Michael>	This Is Not A Date by KSaraSara
+2023-04-30 23:11:01 <Darth_Michael>	Yours to Discover (for Queen of the Capes) by KSaraSara
+2023-04-30 23:11:05 *	Darth_Michael waits for audience to erupt in applause
+2023-04-30 23:11:10 <Darth_Michael>	What?
+2023-04-30 23:11:12 <Darth_Michael>	Why are you not surprised?
+2023-04-30 23:11:23 *	Darth_Michael listens once again to earwig
+2023-04-30 23:11:26 <Darth_Michael>	Oh, yeah, sorry. 
+2023-04-30 23:11:29 <Darth_Michael>	My bad. 
+2023-04-30 23:11:32 <Darth_Michael>	The nominees are already very well known to everyone in attendance.
+2023-04-30 23:11:36 <Darth_Michael>	Which means you’re all waiting for me to pull out another envelope, right?
+2023-04-30 23:11:41 *	Darth_Michael pulls out another envelope
+2023-04-30 23:11:45 <Darth_Michael>	And now, with very much fanfare…
+2023-04-30 23:11:48 *	Darth_Michael slips open the envelope and peeks inside
+2023-04-30 23:11:51 <Darth_Michael>	Yep.
+2023-04-30 23:11:54 <Darth_Michael>	The winners are a tie! The first TIE of the evening!
+2023-04-30 23:11:57 *	Darth_Michael ducks from strafing run
+2023-04-30 23:12:03 <Darth_Michael>	Ahem, sorry about that... 
+2023-04-30 23:12:07 <Darth_Michael>	Wrong fandom...
+2023-04-30 23:12:11 <Darth_Michael>	So, I'm happy to congratulate...
+2023-04-30 23:12:16 <Darth_Michael>	Frankly My Dear, I Don't Like Pearl Jam by lovetvfan and KSaraSara
+2023-04-30 23:12:16 <Darth_Michael>	In the Right Now by AnnieM
+2023-04-30 23:12:22 <Darth_Michael>	Congratulations! You've written such wonderful stories.
+2023-04-30 23:12:47 *	Darth_Michael steps back to welcome back Annie & Sara
+2023-04-30 23:13:06 <KSaraSara>	Uh... Annie can go first! lol
+2023-04-30 23:13:16 <AnnieM>	LOL
+2023-04-30 23:13:20 <AnnieM>	Well, first, it's such an honor to share this award with a story I loved so much! 
+2023-04-30 23:14:00 <AnnieM>	And second, I'm so thrilled for this little abandoned cabin story! I wrote 90% of it, abandoned it for WTHW and forgot all about it, languishing on my harddrive
+2023-04-30 23:14:34 <AnnieM>	Then I finally finished it, and by the time Kerth season rolled around, I had forgotten all about it again. Well, not forgotten really, but I thought it had been eligible last year and totally wasn't thinking about it at all
+2023-04-30 23:15:14 <AnnieM>	I was shocked to see it nominated for awards, and I'm so thrilled for it to have won honor. It's my little story that could. It just refused to give up. So thanks everyone for remembering it!
+2023-04-30 23:16:45 <KSaraSara>	Gahhh okay... my turn, I think!
+2023-04-30 23:16:53 <KSaraSara>	Oh wow! I love that my first Kerth and Sara's first Kerth is for something we wrote together!! And I'm know she's wishing she could be here now! When we wrote our first story together (Love Me Back To Life), we never dreamed we'd write so well together and have so much fun! So when she approached me about a second idea... it went something like this...
+2023-04-30 23:17:28 <KSaraSara>	Sara: I have an idea for our next story. We write the first date as if they actually went to the Pearl Jam concert.
+2023-04-30 23:17:28 <KSaraSara>	Me: ... I don't like Pearl Jam and that sounds boring.
+2023-04-30 23:17:45 <KSaraSara>	Sara: But... it'll be fun, trust me! Just think...
+2023-04-30 23:18:14 <KSaraSara>	And it went on and on... she spent probably a good straight 10 mins in chat trying to convince me. And I RELUCTANTLY agreed!
+2023-04-30 23:18:51 <KSaraSara>	But oh boy was I wrong because this was so amazing and such a joy to write! (Other than the Pearl Jam I made myself listen to lol)
+2023-04-30 23:19:43 <KSaraSara>	Thank you to my Twinnie and partner in crime for being right and not giving up! And thank you to everyone who read and commented and enjoyed!! Thank you so much!!
+2023-04-30 23:20:28 <KathyB>	Congratulations to all three authors in our first (only??) tie of the evening!
+2023-04-30 23:20:56 <KathyB>	And now, for our last award before Intermission, to present the award for Best Episode Adaptation, welcome back AnnieM to the stage.
+2023-04-30 23:21:26 <AnnieM>	Let’s be real for a minute….we all know the writers in this fandom can write circles around the actual show writers. 
+2023-04-30 23:21:39 <AnnieM>	As much as we love the show – and clearly we do, since we are still here reading and writing about these characters 25 years later! – there are times we love to hate it too. 
+2023-04-30 23:21:49 <AnnieM>	 Or even just times we know we could have taken a great idea and made it so much better.
+2023-04-30 23:22:00 <AnnieM>	This category honors the stories that do exactly that – improve on the work of the original writers. 
+2023-04-30 23:22:10 <AnnieM>	Sometimes an episode was ALMOST perfect, and the author gives it that final push by adding one little missing scene. 
+2023-04-30 23:22:19 <AnnieM>	And sometimes the set up is perfect, but the author takes the story in a whole new, surprising direction. 
+2023-04-30 23:22:29 <AnnieM>	These types of stories have always been among my favorite because they take those familiar moments from the screen and reimagine them on the page.
+2023-04-30 23:22:39 <AnnieM>	Whether it’s a single scene or an epic tale, these stories start during a specific episode of the show and insert a scene, fix the episode, or veer off into a new universe of the author’s creation.
+2023-04-30 23:22:46 <AnnieM>	This year’s nominees are…
+2023-04-30 23:22:52 <AnnieM>	Aftershocks by Toomi8
+2023-04-30 23:23:12 <AnnieM>	Coffee With Clark by KSaraSara 
+2023-04-30 23:23:20 <AnnieM>	Fade to Black: Seasons Feelings by lovetvfan
+2023-04-30 23:23:28 <AnnieM>	Frankly My Dear, I Don't Like Pearl Jam by lovetvfan and KSaraSara
+2023-04-30 23:23:33 <AnnieM>	And the winner is....
+2023-04-30 23:23:46 <AnnieM>	Best Adaption: Aftershocks by Toomi8
+2023-04-30 23:23:50 *	Voice_Jockey gives voice to Toomi
+2023-04-30 23:24:10 <Toomi>	Wow!!!!!
+2023-04-30 23:24:12 <Toomi>	Thank you!
+2023-04-30 23:24:41 <Toomi>	This story started in a scribbler while I was at work, avoiding the snow. 
+2023-04-30 23:25:26 <Toomi>	It was supposed to be a few chapters, but kept growing and growing, and I fell even more in love with the Henderson character as I wrote it.
+2023-04-30 23:25:38 <Toomi>	I'm so glad you all enjoyed it :)
+2023-04-30 23:26:28 *	Voice_Jockey removes voice from Toomi
+2023-04-30 23:26:36 <KathyB>	Great job, Toomi, and congratulations to all the winners in the first 8 categories!
+2023-04-30 23:26:40 <KathyB>	Now it's time for a brief intermission
+2023-04-30 23:27:29 <KathyB>	We're going to break for 10 minutes, so whatever your time zone, add 10 minutes to the clock. So in Eastern US time, it's 5:27 pm, so we'll be back at X:37
+2023-04-30 23:27:41 <KathyB>	But don’t go too far! 
+2023-04-30 23:27:51 <KathyB>	Because guess what I have? 
+2023-04-30 23:28:02 <KathyB>	(For you to catch up on when you return)
+2023-04-30 23:28:10 <KathyB>	RETRO COMMERCIALS! AND A SONG!
+2023-04-30 23:28:25 <KathyB>	When Sara asked me if I’d act as MC for tonight, I went back into my hard drive to see if I had any old Kerth ceremony files. 
+2023-04-30 23:28:34 <KathyB>	And boy did I hit paydirt! 
+2023-04-30 23:28:44 <KathyB>	I found a script for the 2001 Kerth Awards, and FoLCs that year wrote a variety of fun commercials for us, as well a “Filk”, a song with lyrics changed to an L&C theme.
+2023-04-30 23:28:54 <KathyB>	So whether or not you head to the kitchen or restroom during our break, be sure to enjoy this blast from the past!
+2023-04-30 23:29:45 <KathyB>	* Commercial Break *
+2023-04-30 23:29:50 <KathyB>	Have a bad day at work? The world getting you down? Come to  NELL'S DEATH RAY EMPORIUM! At NELL'S DEATH RAY EMPORIUM  we have death rays to meet your every need. They vaporize, they  atomize, they blow people up in hundreds of different ways. 
+2023-04-30 23:29:59 <KathyB>	We  have everything from small death rays for the upset individual to  large death rays for those government organizations planning a  conspiracy. Listen to the testimony of our satisfied customers: 
+2023-04-30 23:30:07 <KathyB>	"The death ray that I got from NELL'S DEATH RAY EMPORIUM let  me implement my evil scheme, and I almost killed Superman! Too  bad that Lois Lane intervened...." -Eric Press 
+2023-04-30 23:30:15 <KathyB>	"The death ray I purchased from NELL'S DEATH RAY EMPORIUM  was top of the line. I used to take it out target shooting all the time.  It's a shame that I never got to use it in real life thanks to my lame  brain son, but it was a lovely death ray to be sure." -Mrs. Johnson 
+2023-04-30 23:30:26 <KathyB>	"Hi. I'm Nell. Throughout the years, me death rays have helped  villains everywhere, and now I want to help you. I'm not just the  owner, I'm also a client. Here at NELL'S DEATH RAY EMPORIUM  we make our death rays from scratch, tailored just for you.  So come on down!" 
+2023-04-30 23:30:33 <KathyB>	That's NELL'S DEATH RAY EMPORIUM, located in a lead-lined  underground shelter near you! 
+2023-04-30 23:30:52 <KathyB>	(commercial written by Cindy Leuch ... in 2001!)
+2023-04-30 23:31:20 <KathyB>	* Commercial Break *
+2023-04-30 23:31:27 <KathyB>	Have you every wished for a remote control with a  BABBLE MODE OFF setting? 
+2023-04-30 23:31:32 <KathyB>	YOUR PRAYERS HAVE BEEN ANSWERED! 
+2023-04-30 23:31:39 <KathyB>	Introducing Dr. L's BABBLE-B-GONE! After years of extensive  research Dr. L has perfected the perfect silencer for those  times when your spouse or partner just can't shut up. 
+2023-04-30 23:31:48 <KathyB>	It's perfect for parties or hostage situations. 
+2023-04-30 23:32:01 <KathyB>	No spouse or investigative reporter should be without  BABBLE-B-GONE! 
+2023-04-30 23:32:06 <KathyB>	Fits on any standard key-ring! Just point and click. 
+2023-04-30 23:32:14 <KathyB>	Available for only 12 simple payments of $9.99.  And if you order right now we'll throw in at no extra charge a bottle of  Dr. L's ABS-IN-A-BOTTLE. 
+2023-04-30 23:32:19 <KathyB>	Residents of New Troy subject to state taxes. 
+2023-04-30 23:32:29 <KathyB>	(commercial written by James Tull ... in 2001!)
+2023-04-30 23:32:43 <KathyB>	And now a word from our sponsor...
+2023-04-30 23:32:50 <KathyB>	Is your computer too slow? Tired of waiting forever for things to process?  Save microseconds of time with NEW NK Tech microcircuits! From the  company that brought you the floating pleasure palace and amazing  flying men, NK Tech now brings you the newest revolution in supercomputing. 
+2023-04-30 23:32:57 <KathyB>	Tired of going to class? NK Tech microcircuits can make a projection of you  that’s so real, the teacher will never know it’s not you! 
+2023-04-30 23:33:03 <KathyB>	Want to be the life of the party? Bring a NK Tech microcircuit, and  you can be beside yourself, literally! 
+2023-04-30 23:33:09 <KathyB>	You can customize your NK Tech microcircuit, as well. Nothing says,  "I love you" like your sweetie's name spelled out at the subatomic level! 
+2023-04-30 23:33:17 <KathyB>	Order today, operators are standing by! WARNING: LONG distance call required. Get parent’s permission.
+2023-04-30 23:33:30 <KathyB>	(commercial written by Cindy Leuch, in 2001)
+2023-04-30 23:34:23 <KathyB>	And to give you an ear worm for the rest of the break ... we have a FILK
+2023-04-30 23:34:49 <KathyB>	Sing along to the tune of "Cat's in the Cradle" by Harry Chapin.  And now ... "Kerths in the Cradle", by our very own Hazel :)
+2023-04-30 23:35:05 <KathyB>	I logged online just the other day 
+2023-04-30 23:35:16 <KathyB>	Checked my mail in the usual way 
+2023-04-30 23:35:16 <KathyB>	There was a note from Erin that was on display
+2023-04-30 23:35:25 <KathyB>	The Kerths were coming up without delay
+2023-04-30 23:35:29 <KathyB>	And I was reading 'fore I knew it
+2023-04-30 23:35:37 <KathyB>	My favorite picks
+2023-04-30 23:35:44 <KathyB>	And I've got to nominate fics, yeah,
+2023-04-30 23:35:50 <KathyB>	I've got to nominate some fics
+2023-04-30 23:35:53 <KathyB>	.
+2023-04-30 23:35:58 <KathyB>	And the fics are mounting and my time is short
+2023-04-30 23:36:03 <KathyB>	A pin and closed eyes are my last resort
+2023-04-30 23:36:07 <KathyB>	When you gonna nominate?
+2023-04-30 23:36:12 <KathyB>	I don't know when
+2023-04-30 23:36:17 <KathyB>	But I'll write to Erin then
+2023-04-30 23:36:22 <KathyB>	You know I'll write to Erin then
+2023-04-30 23:36:25 <KathyB>	.
+2023-04-30 23:36:30 <KathyB>	I checked the quizzes just the other day
+2023-04-30 23:36:35 <KathyB>	So much still to read and I'm not halfway
+2023-04-30 23:36:40 <KathyB>	Nominations opened, I'm filled with dismay
+2023-04-30 23:36:44 <KathyB>	My thoughts are all in great disarray
+2023-04-30 23:36:49 <KathyB>	But I've got to get together
+2023-04-30 23:36:54 <KathyB>	And choose the best picks
+2023-04-30 23:36:58 <KathyB>	I've got to nominate fics, yeah,
+2023-04-30 23:37:04 <KathyB>	I've got to nominate some fics
+2023-04-30 23:37:06 <KathyB>	.
+2023-04-30 23:37:13 <KathyB>	And the fics are mounting and my time is short
+2023-04-30 23:37:20 <KathyB>	A pin and closed eyes are my last resort
+2023-04-30 23:37:26 <KathyB>	When you gonna nominate?
+2023-04-30 23:37:31 <KathyB>	I don't know when
+2023-04-30 23:37:36 <KathyB>	But I'll write to Erin then
+2023-04-30 23:37:41 <KathyB>	You know I'll write to Erin then
+2023-04-30 23:37:46 <KathyB>	.
+2023-04-30 23:37:52 <KathyB>	They posted nominees the other day
+2023-04-30 23:37:57 <KathyB>	Such fabulous fics, might be time to pray
+2023-04-30 23:38:01 <KathyB>	How to choose just one when they're all so good?
+2023-04-30 23:38:06 <KathyB>	It doesn't seem like anyone could!
+2023-04-30 23:38:11 <KathyB>	But the rules are clear, nothing else to be done,
+2023-04-30 23:38:15 <KathyB>	I've got to vote for just one, yeah,
+2023-04-30 23:38:19 <KathyB>	I'm gonna have to vote for just one
+2023-04-30 23:38:21 <KathyB>	.
+2023-04-30 23:38:27 <KathyB>	And the fics are mounting and my time is short
+2023-04-30 23:38:34 <KathyB>	A pin and closed eyes are my last resort
+2023-04-30 23:38:39 <KathyB>	When you gonna vote, FoLC?
+2023-04-30 23:38:43 <KathyB>	I don't know when
+2023-04-30 23:38:48 <KathyB>	But I'll fill the form out then
+2023-04-30 23:38:52 <KathyB>	You know that I'll be voting then
+2023-04-30 23:38:53 <KathyB>	.
+2023-04-30 23:39:01 <KathyB>	Well, the Kerths are over and the fun's gone away
+2023-04-30 23:39:07 <KathyB>	I logged back on just the other day
+2023-04-30 23:39:12 <KathyB>	I was glad to see the archive going strong
+2023-04-30 23:39:17 <KathyB>	With lots of new fics just humming along
+2023-04-30 23:39:22 <KathyB>	And a warm'n'fuzzy feeling made me grin from ear to ear
+2023-04-30 23:39:28 <KathyB>	Cause there'll still be Kerths next year, yeah
+2023-04-30 23:39:33 <KathyB>	There's gonna be the Kerths next year
+2023-04-30 23:39:40 <KathyB>	.
+2023-04-30 23:39:41 <KathyB>	And as I turned off the modem it occurred to me
+2023-04-30 23:39:46 <KathyB>	FoLCs are the best there can be
+2023-04-30 23:39:51 <KathyB>	The very best fans to be
+2023-04-30 23:39:58 <KathyB>	.
+2023-04-30 23:40:03 <KathyB>	And the fics are mounting and my time is short
+2023-04-30 23:40:08 <KathyB>	A pin and closed eyes are my last resort
+2023-04-30 23:40:12 <KathyB>	When you gonna vote, FoLC?
+2023-04-30 23:40:16 <KathyB>	I don't know when
+2023-04-30 23:40:20 <KathyB>	But I'll fill the form out then
+2023-04-30 23:40:25 <KathyB>	You know that I'll be voting then!
+2023-04-30 23:40:42 <KathyB>	.
+2023-04-30 23:40:51 <KathyB>	Whew! Sorry, I had to paste that line by line, LOL
+2023-04-30 23:41:21 <KathyB>	Wild applause for that song and the retro commercials! I love how applicable the song, especially, still is ... TWENTY FIVE YEARS LATER!!
+2023-04-30 23:42:22 <KathyB>	Welcome back, everyone! We’re excited to move on with the second half of our ceremony.
+2023-04-30 23:42:39 <KathyB>	To present the award for Best Elseworlds/AU Story, come on up, KSaraSara!
+2023-04-30 23:43:23 <KSaraSara>	Anyone who knows me (and even some who don�t, lol) knows that I�m a sucker for altClark. Yeah, yeah, there�s quite a list of things that make me go GAHHHH! But I have a special place in my heart for altClark. There�s just something about a Clark that doesn�t get his Lois in the same �easy� way as our canonClark does.
+2023-04-30 23:43:47 <KSaraSara>	Best Elseworlds/AU honors those authors who have expanded on the alternate universe we saw on the show as well as those who have gifted us with their ability to build an entirely different universe�an elseworld. 
+2023-04-30 23:44:08 <KSaraSara>	This year, our nominated stories include: altClark in yet a different universe, a Clark who is a pragmatic P.I. (in addition to Superman), a Clark who stayed in Smallville to teach English and coach football, a Clark who was abducted by Trask at a young age, and a Clark who was abducted by Trask at a young age.
+2023-04-30 23:44:22 *	KSaraSara cries... Trask is so evil!
+2023-04-30 23:44:31 <KSaraSara>	Needless to say, we all seem to be suckers for an alternate Clark who needs to overcome extraordinary circumstances to find his place in the world. 
+2023-04-30 23:44:54 <KSaraSara>	The nominees for Best Elseworlds/AU Story are:
+2023-04-30 23:45:01 <KSaraSara>	Anchor: Part 1 - Clark Kent by SuperBek
+2023-04-30 23:45:06 <KSaraSara>	Investigate: Keeper by Blueowl
+2023-04-30 23:47:46 <KathyB>	License to Love by bakasi
+2023-04-30 23:47:54 <KathyB>	Savior by SuperBek
+2023-04-30 23:48:02 <KathyB>	What the Heart Wants by AnnieM and KathyB
+2023-04-30 23:48:11 <KathyB>	And the winner is…
+2023-04-30 23:48:13 *	KSaraSara has quit (Quit: Leaving)
+2023-04-30 23:48:43 *	KSaraSara (~sara@cloak-D8945C1D.hsd1.nm.comcast.net) has joined
+2023-04-30 23:48:51 *	Voice_Jockey gives channel operator status to KSaraSara
+2023-04-30 23:48:53 <KSaraSara>	Best Elseworld: What the Heart Wants by AnnieM and KathyB
+2023-04-30 23:49:00 <KSaraSara>	Congrats!!!!
+2023-04-30 23:49:20 <AnnieM>	Way to swoop in with the big reveal! Amping up the drama ;)
+2023-04-30 23:50:03 <KathyB>	LOL yes, and I noticed that no one actually sent me the winner, so I had no idea who it was going to be. Sara returned just in time!
+2023-04-30 23:50:09 <AnnieM>	Thanks so much, everyone. This is really my favorite category for fic in general. I love love love and AU. There's something so special about taking the characters out of their element and keeping them the same. 
+2023-04-30 23:50:33 <AnnieM>	Especially in this fandom, where AUs reincarnation/soulmates are canon
+2023-04-30 23:51:42 <AnnieM>	I've written a few short AUs in the distant past, but this was my first attempt at a true full-length AU, and creating this world was the most fun I've had in ages. I wish you all could be privvy to the hours and hours and hours of brainstorming that Kathy and I did, all the backstory that never made it into the story
+2023-04-30 23:52:35 <AnnieM>	It was truly a joy to dream up this world, and we said over and over that even if no one else ever read it, we were writing it for ourselves and that was enough. But we're really really glad you all loved it too!
+2023-04-30 23:52:52 *	Songbird has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 23:52:58 <KathyB>	Thank you so much, everyone! We are so honored! This story was a labor of love ... to the point that "labor" probably isn't even the right term. Those hours of brainstorming were a joy. Thank you so much!
+2023-04-30 23:53:16 <KathyB>	And now, to present the award for Best Long Story, we welcome Bakasi!
+2023-04-30 23:53:23 *	KSaraSara whisper reminds Kathy not to say "labor" in the Kerth chats...
+2023-04-30 23:53:28 *	Voice_Jockey gives voice to bakasi
+2023-04-30 23:53:41 *	bakasi tries to work her way to the stage
+2023-04-30 23:54:03 <bakasi>	Houdini tags along and tries to find DarthMichael to get another treat
+2023-04-30 23:54:36 *	bakasi clears her throat and adjusts the mikrophone
+2023-04-30 23:54:41 <bakasi>	Long stories can keep you company for weeks, if you read them as they’re posted – or you can get lost in them for hours on end. This year we had a lot of stories that had you feel with the characters, left you at the edge of your seat while the story unfold. 
+2023-04-30 23:55:05 <bakasi>	The nominees are “Aftershocks” by Toomie8, a story in which Clark was more severely injured by his stay in Luthor’s cage. We got to see Clark dealing with the physical, but also the emotional fallout. But not only he was affected by the events.
+2023-04-30 23:55:10 *	Songbird (Mibbit@cloak-BE5DFB2A.socal.res.rr.com) has joined
+2023-04-30 23:55:17 <bakasi>	In Federal Disaster by lovetvfan, Lois had to work with Claude again and some long suppressed emotions bubbled up that wreaked havoc in the lives of our favorite couple. 
+2023-04-30 23:55:27 <bakasi>	In Savior SuperBek had Lois rescue a damaged Clark, who’d been held by Trask for years and we were witnesses to Clark’s healing process.
+2023-04-30 23:55:40 <bakasi>	The next nominee is KSaraSara’s So Far Away, a sequel to the fic “wherever you will go,” which she wrote years ago. Now, Clark has returned from New Krypton, but he carries a lot of scars on his soul that only Lois can help him heal.
+2023-04-30 23:55:57 <bakasi>	Finally, there is “What the Heart wants by AnnieM and KathyB. The two authors explore an elseworld, in which Clark didn’t leave Smallville. When he and Lois meet by chance, sparks fly, but how could they make a long distance relationship work? 
+2023-04-30 23:56:26 <bakasi>	Well, it was really hard to decide on this category, because all of them are so great.
+2023-04-30 23:56:50 <bakasi>	And I'm sure that most readers found it equally challenging to pick the best
+2023-04-30 23:57:13 <bakasi>	And the winner is...
+2023-04-30 23:57:29 <bakasi>	Best long Stroy: What the Heart Wants by AnnieM and KathyB
+2023-04-30 23:57:39 <bakasi>	Congrats you two!
+2023-04-30 23:57:45 *	Voice_Jockey removes voice from bakasi
+2023-04-30 23:58:10 <AnnieM>	y'all, I really don't know what to say at this point except thank you! We're totally overwhelmed by all the love.
+2023-04-30 23:58:32 <KathyB>	Yes, we feel so honored by your support. We're so glad you loved the story as much as we do. <3
+2023-04-30 23:59:24 <KathyB>	me hooks Annie with a crook to keep her on the stage
+2023-04-30 23:59:32 <KathyB>	To present the award for Best Comedy, welcome back AnnieM!
+2023-04-30 23:59:41 <AnnieM>	Ahh...Best Comedy
+2023-04-30 23:59:45 <AnnieM>	What can we say?
+2023-04-30 23:59:47 <AnnieM>	They make you laugh
+2023-04-30 23:59:49 *	Demi_ (Mibbit@2BF9ACBE.E912E3C6.87CBF28.IP) has joined
+2023-04-30 23:59:49 *	Demi2 (Mibbit@cloak-6C230D3E.dynamic.kabel-deutschland.de) has joined
+2023-04-30 23:59:49 <AnnieM>	They make you cry
+2023-04-30 23:59:52 <AnnieM>	Wait
+2023-04-30 23:59:57 <AnnieM>	That's not right. They just make you laught.
+2023-05-01 00:00:05 <AnnieM>	Although sometimes they make you laugh until you cry
+2023-05-01 00:00:19 <AnnieM>	Comedy is an incredibly delicate art
+2023-05-01 00:00:37 <AnnieM>	It takes true talent to find that sweet spot of hilarity that still rings true and genuine
+2023-05-01 00:00:49 <AnnieM>	And doing it while keeping the characters true to themselves is an even bigger challenge
+2023-05-01 00:01:14 <AnnieM>	This year we have fine hilarious contenders for the Best Comedy award. The nominees are...
+2023-05-01 00:01:24 <AnnieM>	Astrologically Challenged by Anna B the Greek
+2023-05-01 00:01:30 <AnnieM>	Conned by SuperBek
+2023-05-01 00:01:32 *	Demi2 (Mibbit@cloak-6C230D3E.dynamic.kabel-deutschland.de) has left
+2023-05-01 00:01:36 <AnnieM>	Frankly My Dear, I Don't Like Pearl Jam by lovetvfan and KSaraSara
+2023-05-01 00:01:43 <AnnieM>	Inside A Fury's Mind by bakasi 
+2023-05-01 00:01:44 *	Demi has quit (Quit: https://mibbit.com Online IRC Client)
+2023-05-01 00:01:51 <AnnieM>	Kryptonite Coffee by Toomi8 
+2023-05-01 00:02:03 <AnnieM>	And the winner of Best Comedy goes to....
+2023-05-01 00:02:36 <AnnieM>	It's another tie!
+2023-05-01 00:03:11 <AnnieM>	The award goes to... Frankly My Dear, I Don't Like Pearl Jam by lovetvfan and KSaraSara AND Kryptonite Coffee by Toomi8
+2023-05-01 00:03:16 *	Voice_Jockey gives voice to Toomi
+2023-05-01 00:03:43 <Toomi>	Whoa! Thank you! 
+2023-05-01 00:04:00 <Toomi>	And what a wonderful fic to share the award with :)
+2023-05-01 00:04:54 <Toomi>	I love to make people laugh and if I managed to make you snort a little of your own, non Kryptonite flavored, coffee out of your nose, then I've succeeded :)
+2023-05-01 00:05:11 <Toomi>	*hands mic to KSaraSara*
+2023-05-01 00:05:17 *	Voice_Jockey removes voice from Toomi
+2023-05-01 00:05:20 <KSaraSara>	Thanks, Toomi!!
+2023-05-01 00:05:53 <KSaraSara>	And yes, delighted to share the award with Kryptonite Coffee! Such a fun story to read over and over for a quick laugh!
+2023-05-01 00:06:55 <KSaraSara>	And gahhhh, thank you! Since I was so wrong about this fic in the first place, it doesn't surprised me that... I was a little surprised to find it in the comedy category! LOL! I'll bet Sara wasn't surprised at all! 
+2023-05-01 00:08:18 <KSaraSara>	I love inserting a bit of comedy into the WAFFY stuff, and ... well, this one was just so easy to write when I think back on it! The humo(u)rous bits just wrote themselves! 
+2023-05-01 00:08:40 <KSaraSara>	Thank you all so much! We're thrilled that you enjoyed the story!! 
+2023-05-01 00:08:48 *	KSaraSara hands the mic back to Kathy
+2023-05-01 00:09:10 <KathyB>	Thanks, Sara, and Congratulations to all three authors in our second TIE!
+2023-05-01 00:09:33 <KathyB>	(After all, we all know Clark loves ties! *ba dum ching!*)
+2023-05-01 00:09:42 <KathyB>	But don't go far, Sara ...
+2023-05-01 00:10:05 <KathyB>	Because it's now time to highlight our next New Author, SuperBek!
+2023-05-01 00:10:23 <KSaraSara>	What�s that in the sky? Is it a bird? A plane? A Superman? Nope... it�s our second and final new author to celebrate tonight � SuperBek! Prolific right out of the gate, SuperBek has given us TWELVE stories in her debut year! Poignant, WaFFy, humorous, dramatic, romantic, and angsty...it seems that SuperBek can do it all! 
+2023-05-01 00:10:40 <KSaraSara>	Helping to pioneer Ficlet Friday, she gave us �Conned� (along with the �Absolutely Not� challenge prompt) and had us LOL�ing when... well, I won�t spoil it for you; I�ll just tease you with the prompt:
+2023-05-01 00:10:57 *	lovetvfan (Mibbit@cloak-283982CF.cpe.teksavvy.com) has joined
+2023-05-01 00:10:57 <KSaraSara>	***** �Absolutely not. No way, Lois. Not a chance. We�re not going to��
+2023-05-01 00:10:57 <KSaraSara>	�Oh come on, Clark, you promised. You said��
+2023-05-01 00:11:07 <KSaraSara>	�What I said is that I�d think about it. I never promised!�
+2023-05-01 00:11:07 <KSaraSara>	Lois turned toward him, scowling, and settled her hands on her hips. She had that look about her�that look that said she wasn�t going to give in.
+2023-05-01 00:11:15 <KSaraSara>	Clark hung his head in defeat and held out his hand.
+2023-05-01 00:11:15 <KSaraSara>	�Okay, well, give it to me then, and let�s get this over with.� 
+2023-05-01 00:11:15 <KSaraSara>	�That�s what I thought,� she gloated. *****
+2023-05-01 00:11:32 <KSaraSara>	SuperBek can pack heartbreaking and wistful and poignant into a short ficlet, giving you just enough feels for a little appetizer. And yet she can also make a longer (really, really longer) story compelling all the way through with angst and feeeeels for days! 
+2023-05-01 00:11:46 <KSaraSara>	She had us all crying for altClark in �Anchor: Part I � Clark Kent�:
+2023-05-01 00:11:46 <KSaraSara>	***** Wells furrows his brow for a moment and drums his fingers on the table. He seems to be studying me intently.
+2023-05-01 00:11:54 <KSaraSara>	An image of a beautiful face�hers, but not as I�ve ever known it�flashes in my mind. Her smile is bright and carefree, and her long dark hair drapes down around her shoulders, curling softly at the ends. Her deep brown eyes meet mine, and my heart stops. I feel his love for her, stronger than any emotion I�ve ever felt before. The air is sucked out of my lungs again.
+2023-05-01 00:12:05 <KSaraSara>	�Wells, please tell me she is okay,� I beg.
+2023-05-01 00:12:05 <KSaraSara>	�Oh, sorry, yes, my boy.� He nods quickly. �When I met with her, she was in good health and unharmed, although quite distraught, understandably.�
+2023-05-01 00:12:17 <KSaraSara>	Relief washes over me, and I cross my arms over my chest and close my eyes.
+2023-05-01 00:12:17 <KSaraSara>	�However,� he says hesitantly, the word sticking to his tongue, �this brings me to the real reason I am here, Clark. You see, this Lois�her world is on the brink of destruction.� I open my eyes and meet his gaze. He is troubled again, worry lines appearing on his forehead and in the wrinkles around his eyes. �When Superman left three months ago, the world quickly fell into chaos. Hope was lost around the globe. Allianc
+2023-05-01 00:12:17 <KSaraSara>	es that had been steady and strong for decades began to fall apart. I fear nuclear war may be imminent. And Utopia�it has disappeared from the future.�
+2023-05-01 00:12:38 <KSaraSara>	He raises his chin slightly toward me, and I understand what he wants. I absently wonder if he has any other Clarks like me, whom he transports around the multiverse whenever a problem needs fixing. But the image of her face, filled with life and promise, flickers in my mind again, and with a sigh, I resign myself to being Wells�s personal multidimensional handyman.
+2023-05-01 00:12:38 <KSaraSara>	�How long will I need to be gone this time?� *****
+2023-05-01 00:13:00 *	KSaraSara takes a min to cry for altClark... and pets altClark... it'll be okay!!
+2023-05-01 00:13:07 <KSaraSara>	You can check out the full story on the MBs, the archive (soon), or AO3! Welcome to the (non-lurking side of the) fandom, SuperBek, and thank you for sharing your gift of writing!!
+2023-05-01 00:13:16 *	KSaraSara hands mic back to Kathy
+2023-05-01 00:13:42 <KathyB>	Thank you, Sara, and thank you SuperBek, for joining us in this wonderful fandom!
+2023-05-01 00:13:50 <KathyB>	And now, please welcome up Toomi, who will be presenting the award for Best WAFFy Story.
+2023-05-01 00:13:58 *	Voice_Jockey gives voice to Toomi
+2023-05-01 00:14:31 <Toomi>	The Best Waffy Story category is tied with the most nominations at seven, indicating how much FoLC's love our warm and fuzzy stories.
+2023-05-01 00:14:39 <Toomi>	The nominees are:
+2023-05-01 00:14:50 <Toomi>	Fade to Black: Seasons Feelings by lovetvfan
+2023-05-01 00:15:00 <Toomi>	Frankly My Dear, I don’t like Pearl Jam by lovetvfan and KSaraSara
+2023-05-01 00:15:09 <Toomi>	In the Right Now by AnnieM
+2023-05-01 00:15:17 <Toomi>	Rainfall by Morgana
+2023-05-01 00:15:27 <Toomi>	This Is Not A Date by KSaraSara
+2023-05-01 00:15:36 <Toomi>	What the Heart Wants by AnnieM and KathyB
+2023-05-01 00:15:37 <Toomi>	and
+2023-05-01 00:15:50 <Toomi>	Yours to Discover (for Queen of the Capes) by KSaraSara
+2023-05-01 00:16:04 <Toomi>	And the winner is:
+2023-05-01 00:16:40 <Toomi>	Another tie! Clark is getting quite the collection tonight!
+2023-05-01 00:17:03 <Toomi>	In the Right Now by AnnieM
+2023-05-01 00:17:04 <Toomi>	and
+2023-05-01 00:17:17 <Toomi>	What the Heart Wants by AnnieM and KathyB
+2023-05-01 00:18:03 <AnnieM>	I don't even know what to say to that. I'm literally speechless. Y'all broke me.
+2023-05-01 00:18:05 *	Voice_Jockey removes voice from Toomi
+2023-05-01 00:19:23 <AnnieM>	I genuinely don't know what to say. Again, I'm really excited to see In the Right Now getting this love. I feel a little bit like it's the oft-forgotten younger siblings, so I love to see it tie here
+2023-05-01 00:19:34 <AnnieM>	Thanks so much to everyone for reading and loving both these stories
+2023-05-01 00:20:12 *	KathyB points to Annie and encourages double applause. Thank you, everyone.
+2023-05-01 00:20:29 <KathyB>	Please welcome Bakasi back to the stage to present the award for Best Dramatic Story.
+2023-05-01 00:20:31 *	Voice_Jockey gives voice to bakasi
+2023-05-01 00:21:02 <bakasi>	Thank you
+2023-05-01 00:21:24 <bakasi>	Dramatic tales have in common that they send you on an emotional roller coaster ride. But even though all our nominated stories are dramatic, they also couldn’t be more different.
+2023-05-01 00:21:40 <bakasi>	There’s a Clark who’s suffering from flashbacks and physical injuries after escaping Luthor’s kryptonite cage
+2023-05-01 00:22:37 <bakasi>	An Alt-Clark gets a chance to live his life free of the burden that everyone knows his secret, but who has to deal with a grieving Lois who has lost her Clark. 
+2023-05-01 00:23:45 <bakasi>	There's jealousy and a lot of turmoil as Lois encountes a past lover
+2023-05-01 00:24:00 <bakasi>	There’s a Clark suffering after what he’d had to do on New Krypton and who can’t quite reconnect with his family. And finally, there are a Lois and a Clark who learn to love and trust each other. 
+2023-05-01 00:24:05 *	Demi_ has quit (Quit: https://mibbit.com Online IRC Client)
+2023-05-01 00:24:37 <bakasi>	The nominees for best dramatic stories are:
+2023-05-01 00:24:48 <bakasi>	 Aftershocks by Toomie
+2023-05-01 00:24:57 <bakasi>	Anchor Part 1, Clark Kent by SuperBek
+2023-05-01 00:25:09 <bakasi>	Federal Disaster by lovetvfan
+2023-05-01 00:25:23 <bakasi>	So Far Away by KSaraSara
+2023-05-01 00:25:36 <bakasi>	What the Heart Wants by AnnieM and Kathy B
+2023-05-01 00:25:58 <bakasi>	And the winner of Best Dramatic story is...
+2023-05-01 00:26:13 <bakasi>	We've got another tie
+2023-05-01 00:26:41 <bakasi>	But this one's not for you, Clark. It's waaaay too modest
+2023-05-01 00:26:43 *	Demi2 (Mibbit@cloak-6C230D3E.dynamic.kabel-deutschland.de) has joined
+2023-05-01 00:26:58 <bakasi>	"So Far Away by KSaraSara
+2023-05-01 00:27:01 <bakasi>	and
+2023-05-01 00:27:06 *	Demi2 (Mibbit@cloak-6C230D3E.dynamic.kabel-deutschland.de) has left
+2023-05-01 00:27:14 <bakasi>	What the Heart Wants by AnnieM and KathyB"
+2023-05-01 00:27:22 <bakasi>	Congratulations you two
+2023-05-01 00:27:22 *	Demi2 (Mibbit@cloak-6C230D3E.dynamic.kabel-deutschland.de) has joined
+2023-05-01 00:27:30 <bakasi>	Or three, to be more precise
+2023-05-01 00:27:58 <KSaraSara>	I just... I... 
+2023-05-01 00:28:10 *	Voice_Jockey removes voice from bakasi
+2023-05-01 00:28:23 *	Demi (Mibbit@2BF9ACBE.E912E3C6.87CBF28.IP) has joined
+2023-05-01 00:28:34 <KSaraSara>	So honestly... I wrote a TON last year... 18/100 stories this year... so it's... I had a train of thought and lost it. 
+2023-05-01 00:29:04 *	Demi2 (Mibbit@cloak-6C230D3E.dynamic.kabel-deutschland.de) has left
+2023-05-01 00:29:17 *	bakasi has quit (Quit: https://mibbit.com Online IRC Client)
+2023-05-01 00:29:31 <KSaraSara>	GAH... while I really love so many of the stories that I had nominated this year in other categories, and I'm a little sad I didn't win in some... (It's hard to be sad when the competition WAS SOOOOO GOOOD). 
+2023-05-01 00:29:57 <KSaraSara>	I'm just really, really... touched that THIS story won something.
+2023-05-01 00:30:53 <KSaraSara>	I... honestly don't know what to say... which... I know Michael is going to give me crap about because I usually talk forever...so I guess... read my author's note. That says it all... well, most of it. 
+2023-05-01 00:31:32 <KSaraSara>	This story was very personal--very much therapy for me--and it's even more special now to have other people recognize it. So thank you!!! 
+2023-05-01 00:31:43 *	KSaraSara cries a bit as she hands the mic to Annie and Kathy
+2023-05-01 00:32:32 <AnnieM>	Thank you all so much. Truly it's an honor. And it's especially an honor to share the honor with such a wonderful story.
+2023-05-01 00:32:36 *	Demi has quit (Quit: Demi)
+2023-05-01 00:33:19 *	KathyB hugs KSaraSara ... well deserved!
+2023-05-01 00:33:34 <KathyB>	But don't go too far, my friend ....
+2023-05-01 00:33:44 <KathyB>	Please welcome KSaraSara back to the stage to present our newest award, for Best Original Fanart!
+2023-05-01 00:34:10 *	KSaraSara hastily wipes eyes
+2023-05-01 00:34:43 <KSaraSara>	We�re really thrilled to introduce fanart to the Kerths this year! While fanfic really is the lifeblood of our fandom, FoLC talent doesn�t stop there! 
+2023-05-01 00:35:00 <KSaraSara>	Our creativity and skill as a fandom is boundless. Whether it�s stunning graphical images or evocative videos, we�re so lucky to be gifted with a visual medium as well as the textual. This year, we have four pieces of fanart that made it to our short list. They are...
+2023-05-01 00:35:22 <KSaraSara>	2022 Blue Christmas graphic banner by Folc4evernaday
+2023-05-01 00:35:22 <KSaraSara>	Graphic banner 4 by Carrie Rene
+2023-05-01 00:35:22 <KSaraSara>	Hungry Eyes by Eric Carmen music video by lovetvfan
+2023-05-01 00:35:22 <KSaraSara>	On Your Shore by Charlotte Martin music video by lovetvfan
+2023-05-01 00:35:52 <KSaraSara>	And the winner is...
+2023-05-01 00:36:21 <KSaraSara>	Hungry Eyes by Eric Carmen music video by lovetvfan
+2023-05-01 00:36:24 *	Voice_Jockey gives channel operator status to lovetvfan
+2023-05-01 00:36:27 <KSaraSara>	Congrats, Twinnie!!!!!
+2023-05-01 00:36:46 <lovetvfan>	Oh wow I came on just in time!!
+2023-05-01 00:37:36 <lovetvfan>	Thank you! I only taught myself to make videos a couple years ago after seeing all the talent that existed in this fandom. Thank you!!
+2023-05-01 00:38:52 <KathyB>	Congratulations, Sara!
+2023-05-01 00:38:57 <KathyB>	And now, to present another new category, Best Commenter/Feedback Giver, we have AnnaBtG.
+2023-05-01 00:39:00 *	Voice_Jockey gives voice to AnnaBtG
+2023-05-01 00:39:24 <AnnaBtG>	This one right here is my favorite category in the awards, hands down.
+2023-05-01 00:39:42 <AnnaBtG>	Because, as a writer, I know that we all write because we want to, because there’s this need in us to create and play with words. And we enjoy doing it, even if it can give us a hard time.
+2023-05-01 00:40:06 <AnnaBtG>	But the thing is, fandom is more than just writing. None of the stories we are celebrating here would have seen the light of day if it weren’t for the people who leave comments.
+2023-05-01 00:40:24 <AnnaBtG>	Those people who may or may not be writers, but who read what we share, who tell us what our stories made them feel, who shower us with love and praise, who give us feedback and suggestions, who encourage us to write more.
+2023-05-01 00:40:46 <AnnaBtG>	They turn writing from a solitary hobby to a group experience; they are the literal backbone of fandom, offering this much needed support to all the writers and becoming the glue that binds us all together.
+2023-05-01 00:41:13 <AnnaBtG>	Therefore, it’s only fair that they should get a share of the spotlight tonight!
+2023-05-01 00:41:29 <AnnaBtG>	It goes without saying that every little comment counts and that everyone who has ever left a comment is a winner in my books, but here’s hoping that even the shyer people and the lurkers might want to follow the example of the lovely people on this list next year!
+2023-05-01 00:41:44 <AnnaBtG>	Our beloved nominees are:
+2023-05-01 00:42:07 <AnnaBtG>	Darth Michael
+2023-05-01 00:42:11 <AnnaBtG>	KSaraSara
+2023-05-01 00:42:22 <AnnaBtG>	Lynn S.M.
+2023-05-01 00:42:31 <AnnaBtG>	Penny_Lane
+2023-05-01 00:42:37 <AnnaBtG>	Queen of the Capes
+2023-05-01 00:42:45 <AnnaBtG>	SuperBek
+2023-05-01 00:43:00 <AnnaBtG>	And the winner is...
+2023-05-01 00:43:33 <AnnaBtG>	KSaraSara!!! Congrats, girl!!
+2023-05-01 00:43:44 *	Voice_Jockey removes voice from AnnaBtG
+2023-05-01 00:44:26 *	lovetvfan has quit (Quit: https://mibbit.com Online IRC Client)
+2023-05-01 00:45:15 <KSaraSara>	Heck! I am... speechless(wish) in a different way! And maybe it's just because when voting, I automatically discounted myself! I mean... I'm my own worst critic sometimes, so... 
+2023-05-01 00:46:23 <KSaraSara>	(golly... I just typed a bunch and lost it... bahhh... hang with me)
+2023-05-01 00:47:46 <KSaraSara>	But really, like Anna said, it was so hard to vote here because feedback is so important! And I'm just really honored to have this award...especially since I've come back, I'm just grateful to have my fandom still here and I'm feeling a bit maternal about it lately, so if I've made people feel happy with participating in this way, then that makes it so much more rewarding!
+2023-05-01 00:48:49 <KSaraSara>	So... thank you! I honestly just want to share this award with ALLLL the people who leave fdk, whether it's just a kudos or an "aww" or it's miles long feedback line by line... 
+2023-05-01 00:48:59 <KSaraSara>	Thank you!
+2023-05-01 00:49:05 *	KSaraSara hands mic back to Kathy
+2023-05-01 00:49:19 <KathyB>	Thanks, Sara. And congratulations to all of the winners so far! What an exciting day!
+2023-05-01 00:49:26 <KathyB>	Now before we get to our final award, we have one final announcement to share with you all, concerning the future of the L&C Fanfic Message Boards. 
+2023-05-01 00:49:33 <KathyB>	Thank you, everyone, for all you do for the Lois & Clark fandom! It’s such a testament to the amazing FoLC community that we’re still going strong after 30 years. And I know that with your support, we’ll continue well into the future. Should we shoot for 30 more? I hope so!
+2023-05-01 00:49:54 <KathyB>	Right now, we are already funded for 2024 and most of 2025 even before we could do a major fundraiser. 
+2023-05-01 00:50:08 <KathyB>	And that’s awesome! Since so many of us also love swag and because there is no such thing as being overfunded, we are in the process of mapping out another fundraiser. 
+2023-05-01 00:50:14 <KathyB>	The last one was in 2014 and we got to auction off everything from little works of art you could take with you to labors of love done in word and picture. 
+2023-05-01 00:50:21 <KathyB>	We will be announcing the details in a bit, this was just to give you guys a head’s up and get the creative juices flowing!
+2023-05-01 00:50:50 <KathyB>	And now, what you’ve all been waiting for …
+2023-05-01 00:50:55 <KathyB>	To present the award for Best Overall Story for 2022, please welcome Toomi to the stage!
+2023-05-01 00:50:57 *	Voice_Jockey gives voice to Toomi
+2023-05-01 00:51:03 <Toomi>	It's amazing how much time and effort, along with questionable browser histories, are poured into a story.
+2023-05-01 00:51:17 <Toomi>	The one hundred stories that were eligible for this year's Kerth Awards represent hours, days, weeks, months, and even years - you know who you are - of work.
+2023-05-01 00:51:27 <Toomi>	Of these one hundred, five were nominated for the Best Overall category.
+2023-05-01 00:51:35 <Toomi>	And the nominees are:
+2023-05-01 00:51:46 <Toomi>	Federal Disaster by lovetvfan
+2023-05-01 00:51:53 <Toomi>	In the Right Now by AnnieM
+2023-05-01 00:51:59 <Toomi>	Savior by SuperBek
+2023-05-01 00:52:06 <Toomi>	So Far Away by KSaraSara
+2023-05-01 00:52:08 <Toomi>	and
+2023-05-01 00:52:15 <Toomi>	What the Heart Wants by AnnieM and KathyB
+2023-05-01 00:52:21 <Toomi>	And the winner is.....
+2023-05-01 00:52:37 <Toomi>	What the Heart Wants by AnnieM and KathyB!
+2023-05-01 00:53:31 *	Voice_Jockey removes voice from Toomi
+2023-05-01 00:53:57 <AnnieM>	 I'm overwhelmed by all the love for this story tonight. Thank you all so much. To be completely honest, this has been a rough couple of years for me and this story was very much my happy place. This was where I went when I needed to escape into a world that happy and hopeful.
+2023-05-01 00:54:40 <AnnieM>	When I was first plotting it out, I was thinking about all the trauma the characters went through on the show. All the near death experiences and derailed weddings. 
+2023-05-01 00:55:00 <AnnieM>	I had just finished writing Come to Me, which tried to deal with those traumas and the fallout from them in a realistic way
+2023-05-01 00:55:27 *	Toomi (Mibbit@cloak-71D871AA.cg.shawcable.net) has left
+2023-05-01 00:55:28 <AnnieM>	And I wanted to do something entirely different. I wanted a world where they never had to face those traumas at all. Where they could fall in love as just normal people.
+2023-05-01 00:56:13 <AnnieM>	Now, clearly there was drama along the way ;) but I did manage to give them all the happiness I thought they deserved. And I'm so glad the readers enjoyed that ride as much as I enjoyed writing it.
+2023-05-01 00:57:15 *	KathyB hugs Annie really hard
+2023-05-01 00:57:37 <AnnieM>	And finally, a huge thanks to Kathy. Who got dragged into this project as a beta reader and then conscripted into the role of co-author. She went above and beyond, as she always does.
+2023-05-01 00:57:46 <AnnieM>	 And I will never be able to put into words how happy it makes to me wake up in the morning from a message from her that starts "I was up in the middle of the night thinking about that scene where...."
+2023-05-01 00:58:08 <AnnieM>	This whole process was a joy, and this award means the world to us! Thank you all!
+2023-05-01 00:58:23 <KathyB>	Thank you, to everyone who voted, and especially thank you to Annie, who let me tag along on this incredible journey. And yes, this was literally a story that made me wake up at 3 am, grab my phone, and text her my thoughts in the middle of the night, LOL!
+2023-05-01 00:58:46 <KathyB>	Thank you, all, from the bottom of our hearts!
+2023-05-01 00:59:06 <KathyB>	And with that, I can't believe the 2023 Kerths are in the books!
+2023-05-01 00:59:07 <KathyB>	What an exciting night! We’re so delighted you could all join us today, and we can’t wait to see what 2023 will bring for L&C fanfic. One final announcement before we wrap up the ceremony, the 25th Annual Kerth Awards.
+2023-05-01 00:59:20 <KathyB>	Our website kerthawards.com is going to be moving to a new home during the first week of May. While we will try to keep the move interruption free, it’s the first move done in years. 
+2023-05-01 00:59:26 <KathyB>	This means it is possible that the Kerth website might be unreachable for a day or so until the Internet name system catches up with the new address. So, if you notice anything, please don’t panic, it’s all part of a scheduled maintenance operation.
+2023-05-01 00:59:41 <KathyB>	And with that, we're done! Please stick around in #kerthchat to congratulate the winners and enjoy chatting with your fellow FoLCs. Have a wonderful rest of your day, everyone! See you next year!
+2023-05-01 01:00:22 <KSaraSara>	(Or... if Discord is more comfortable... heh...)
+2023-05-01 01:00:39 <KathyB>	Or Discord! Ha!
+2023-05-01 01:01:10 *	Songbird has quit (Quit: https://mibbit.com Online IRC Client)
+2023-05-01 01:02:13 *	Voice_Jockey has quit (Quit: Leaving)
+2023-05-01 01:05:12 *	lovetvfan_sock has quit (Quit: https://mibbit.com Online IRC Client)
+2023-05-01 01:08:02 *	KSaraSara has quit (Quit: Leaving)
+2023-05-01 01:08:10 *	CRene has quit (Quit: https://mibbit.com Online IRC Client)
+2023-05-01 01:09:09 *	Meadowlark (Mibbit@cloak-C85C35F7.mobile.att.net) has left
+2023-05-01 01:12:52 *	KathyB has quit (Quit: https://mibbit.com Online IRC Client)
+2023-05-01 01:15:33 *	AnnieM has quit (Quit: https://mibbit.com Online IRC Client)
+2023-05-01 01:23:28 *	Bek (~Bek3@D4E09ECA.9C2451E.9403BAE5.IP) has left
+2023-05-01 02:10:46 *	Disconnected ()
