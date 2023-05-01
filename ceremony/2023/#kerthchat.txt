@@ -1,881 +1,881 @@
-2023-04-30 20:14:41 *	Now talking on #kerthchat
-2023-04-30 21:41:57 <Meadowlark>	Hi!  I am new to Mibbit.  Could someone please tell me how to start a Log of this?
-2023-04-30 21:46:34 <KathyB>	Hello everyone! We're so glad to see you here!
-2023-04-30 21:47:01 <KSaraSara>	I'm not sure how to start a log on Mibbit! But we do have two people logging and will have a side-by-side transcript available after the ceremony!
-2023-04-30 21:47:17 <KathyB>	Meadowlark, hopefully someone will figure it out! This is a blast from the past, alright!
-2023-04-30 21:48:06 <AnnieM>	T-13 minutes until the ceremony starts! Does everyone have their drink/snack/etc ready?!
-2023-04-30 21:48:10 <Meadowlark>	Ok, a Transcript would great.  
-2023-04-30 21:49:01 <AnnieM>	The side by side transcripts are great because you can see the chat room reactions along with the ceremony
-2023-04-30 21:49:15 <KSaraSara>	... I'm still drinking my coffee... thanks to my thermal mug... it's still got a touch of warmth to it lol
-2023-04-30 21:49:17 *	CRene (Mibbit@cloak-ABC2EF5A.nc.res.rr.com) has joined
-2023-04-30 21:51:18 <Meadowlark>	Think I found part of the logging.  If you are logged in, at the top right open "Prefs", then General tab, there is a check box. The opt to Save must be somewhere else.
-2023-04-30 21:53:41 <Meadowlark>	It's nice to have this back on IRC.  I haven't been here is a long time.
-2023-04-30 21:54:00 <KSaraSara>	Same here! It's a blast from the past! 
-2023-04-30 21:54:05 <Doranwen>	I love IRC. :D
-2023-04-30 21:54:05 <KathyB>	Ah, that's probably why I don't see it. I'm not logged in. Gosh, this really takes me back!
-2023-04-30 21:54:34 <Doranwen>	I'm on it a lot these days keeping an eye on ArchiveTeam stuff, but most of fandom has sadly moved to other pastures.
-2023-04-30 21:54:52 <AnnieM>	It's been a solid 20 years since I was on IRC. Definitely a blast from the past.
-2023-04-30 21:55:27 <KSaraSara>	But surely we're not that old?? LOL
-2023-04-30 21:56:13 <AnnaBtG>	@KSaraSara: we definitely don't look it! 😁
-2023-04-30 21:56:25 <AnnaBtG>	(speaking of which, how does my emoji look?)
-2023-04-30 21:56:31 <Doranwen>	AnnaBtG: Super tiny and hard to read.
-2023-04-30 21:56:54 <AnnaBtG>	I took it from the keyboard 
-2023-04-30 21:57:03 <Meadowlark>	So some of you have been around here for a long time.  Before this starts, can I share some sad news?  Don't want to be a downner.
-2023-04-30 21:57:07 <Doranwen>	It's too small to show the amount of detail necessary to identify.  I'd recommend sticking with the text-based emoticons.
-2023-04-30 21:57:55 <AnnaBtG>	@Meadowlark: sounds like something we'd be interested in hearing nevertheless 
-2023-04-30 21:58:01 <Meadowlark>	If you don't already know this, we lost ChrisPat in December of 2022.
-2023-04-30 21:58:18 <Meadowlark>	This was posted on the older MBs.
-2023-04-30 21:58:30 *	SB (Mibbit@cloak-BE5DFB2A.socal.res.rr.com) has joined
-2023-04-30 21:59:21 *	SB has quit (Quit: SB)
-2023-04-30 21:59:22 <AnnaBtG>	I didn't know! So sorry to hear it :(
-2023-04-30 22:00:24 *	Demi2 has quit (Quit: https://mibbit.com Online IRC Client)
-2023-04-30 22:01:01 <KSaraSara>	Oh no! I remember I actually got to meet her in... 2002, the only LAFF I went to
-2023-04-30 22:01:20 <AnnieM>	Oh, I remember ChrisPat. That's too bad. Thanks for letting us know.
-2023-04-30 22:01:20 *	Blueowl (Mibbit@496E62E.29FD92D1.E449F2C6.IP) has joined
-2023-04-30 22:01:22 *	Songbird2 (Mibbit@cloak-BE5DFB2A.socal.res.rr.com) has joined
-2023-04-30 22:02:44 <Meadowlark>	Think the news was posted by Widget aka Lori Lane
-2023-04-30 22:02:48 <Doranwen>	It looks like the only nick that's in #kerthawards but not here is Demi.
-2023-04-30 22:03:57 <Darth_Michael>	IMPORTANT SERVICE ANNOUNCEMENT: Please don't drink while I do my presentations. I will not be once again held accountable for coffeedamaged phones and laptops.
-2023-04-30 22:04:08 <Doranwen>	ROFL
-2023-04-30 22:04:09 <KSaraSara>	HAHA!!
-2023-04-30 22:04:29 <Songbird2>	LOL
-2023-04-30 22:04:44 <Bek>	LOL!
-2023-04-30 22:04:57 <KSaraSara>	@Meadowlark--thanks for letting us know. Sorry to hear the news. :(
-2023-04-30 22:04:57 <Doranwen>	<g>  Duly noted.
-2023-04-30 22:05:26 <Meadowlark>	Guess things have changed.  Drinking used to be a major activity during the Kerths.  
-2023-04-30 22:05:57 <KSaraSara>	Oh, we'll still drink... just... beware you may do a spittake while Michael is presenting lol
-2023-04-30 22:05:57 *	Blueowl has quit (Quit: Blueowl)
-2023-04-30 22:06:05 <Doranwen>	I only drink water, but water damage is not a great thing either, lol.
-2023-04-30 22:06:19 <KathyB>	Alright, here we go!
-2023-04-30 22:06:22 *	Blueowl (Mibbit@496E62E.29FD92D1.E449F2C6.IP) has joined
-2023-04-30 22:06:36 <KathyB>	If you're not in #kerthawards, this is the time to join )
-2023-04-30 22:06:58 <Darth_Michael>	Thanks @Meadowlark. We actually have an In Memoriam page on the Archive: http://www.lcfanfic.com/memoriam.html If you mail Lauren via the official mail, I'm sure she'll add a note :/
-2023-04-30 22:07:08 <Doranwen>	Everyone here is in #kerthawards, though the converse isn't true.
-2023-04-30 22:07:47 *	bakasi (Mibbit@cloak-6EBA0717.dip0.t-ipconnect.de) has joined
-2023-04-30 22:07:49 <AnnaBtG>	Maybe someone could private message those who aren't?
-2023-04-30 22:08:02 <AnnaBtG>	Though maybe they just don't want to get overwhelmed 
-2023-04-30 22:08:28 *	Blueowl_ (Mibbit@496E62E.29FD92D1.E449F2C6.IP) has joined
-2023-04-30 22:09:43 *	Doranwen applauds all past and present committee members
-2023-04-30 22:09:49 <AnnaBtG>	Thank you everyone!!!
-2023-04-30 22:09:54 *	KSaraSara claps
-2023-04-30 22:09:58 *	Toomi (Mibbit@cloak-71D871AA.cg.shawcable.net) has joined
-2023-04-30 22:10:08 <AnnieM>	I still can't believe this is our 25th anniversary! 
-2023-04-30 22:10:10 <Blueowl_>	^_^
-2023-04-30 22:10:21 <KSaraSara>	Right? I love this fandom so much!
-2023-04-30 22:10:25 *	Meadowlark Applauds KathyB's intro!
-2023-04-30 22:10:29 <Songbird2>	Thank you everyone! 25 years is amazing!
-2023-04-30 22:10:37 <KSaraSara>	LOL OMG Kathy...
-2023-04-30 22:10:56 <AnnieM>	LOL. No more Kerth babies!
-2023-04-30 22:11:01 <KSaraSara>	Hahaha 
-2023-04-30 22:11:04 <Bek>	Oh my...!
-2023-04-30 22:11:16 <AnnaBtG>	Not for Kathy, at least ;)
-2023-04-30 22:11:27 <Doranwen>	Lol, I'd almost forgotten about that one…
-2023-04-30 22:11:30 *	Blueowl has quit (Quit: https://mibbit.com Online IRC Client)
-2023-04-30 22:11:34 *	KSaraSara giggles
-2023-04-30 22:12:09 <Blueowl_>	Certainly memorable I imagine.
-2023-04-30 22:12:26 *	Voice_Jockey gives channel operator status to AnnieM
-2023-04-30 22:13:07 <Doranwen>	Well, by the time I was around it was just an in-joke I learned about.
-2023-04-30 22:13:12 <Doranwen>	I think I wasn't there for the actual experience.
-2023-04-30 22:13:13 <KSaraSara>	I think Erin... or was it Pam had one too??
-2023-04-30 22:13:34 <Toomi>	Was there something about the Kerth's that induced labour?
-2023-04-30 22:13:37 *	Demi2 (Mibbit@cloak-6C230D3E.dynamic.kabel-deutschland.de) has joined
-2023-04-30 22:13:48 <Doranwen>	Rofl
-2023-04-30 22:13:49 <Bek>	LOL
-2023-04-30 22:13:53 <KathyB>	LOL!
-2023-04-30 22:13:57 <Songbird2>	LOL!
-2023-04-30 22:13:59 <KSaraSara>	@Toomi, that was the joke considering the coincidences lol
-2023-04-30 22:14:14 <KSaraSara>	LOL @Annie!
-2023-04-30 22:14:18 <KathyB>	Yes, all three of us on the committee had multiple babies all in March/April, right during Kerth season
-2023-04-30 22:14:22 <KathyB>	It was WILD!
-2023-04-30 22:14:34 <Blueowl_>	Something in the fics?
-2023-04-30 22:14:39 <KSaraSara>	Hahaha!
-2023-04-30 22:15:19 <Meadowlark>	Nah.  Something in the nfics  ;-)
-2023-04-30 22:15:26 <Doranwen>	Lol
-2023-04-30 22:15:27 <KathyB>	LOL!
-2023-04-30 22:15:31 <KSaraSara>	LOL!
-2023-04-30 22:16:04 <bakasi>	Maybe we should check which were posted nine months prior. They're bound to be good
-2023-04-30 22:16:14 <KSaraSara>	Haha!
-2023-04-30 22:16:29 <KSaraSara>	CONGRATS, Val!! 
-2023-04-30 22:16:30 <Darth_Michael>	Congratulations, Val!
-2023-04-30 22:16:33 <KathyB>	Yay, congratulations!
-2023-04-30 22:16:38 <Bek>	Congrats!
-2023-04-30 22:16:40 <Doranwen>	Are they in here?
-2023-04-30 22:16:40 <KathyB>	Such a great story!
-2023-04-30 22:16:42 <AnnaBtG>	Congratulations Val! Too bad she's not here
-2023-04-30 22:16:45 <Blueowl_>	Congrats!
-2023-04-30 22:16:46 <Demi2>	Congrats Val
-2023-04-30 22:16:47 <KathyB>	I do'nt believe so
-2023-04-30 22:16:57 <Songbird2>	Congrats Val!
-2023-04-30 22:17:00 <Doranwen>	OK, good, if someone has a wildly different nick you'll have to let me know, I'll be like who???? lol
-2023-04-30 22:17:00 <KSaraSara>	But she can read the transcript! So congratulate away!
-2023-04-30 22:17:16 <CRene>	Congrats, Val.
-2023-04-30 22:17:45 <AnnieM>	Congrats, Val!
-2023-04-30 22:17:45 <Doranwen>	Also, whoops, sorry AnnaBtG, I'm getting ahead of myself.  Got distracted and forgot where we were. <sg>
-2023-04-30 22:18:14 *	Demi (Mibbit@cloak-6C230D3E.dynamic.kabel-deutschland.de) has joined
-2023-04-30 22:18:23 <bakasi>	Congrats, Val
-2023-04-30 22:18:33 <Doranwen>	25 years is a long time in fandom…
-2023-04-30 22:18:41 <KSaraSara>	Totally! 
-2023-04-30 22:18:50 <Doranwen>	There are fandoms that have completely imploded after far less time than that.
-2023-04-30 22:19:13 <KSaraSara>	Haha... oh... I remember printing reams worth of fic...
-2023-04-30 22:19:27 <Bek>	Ack, me too!
-2023-04-30 22:19:30 <Doranwen>	I printed fic too!  Mostly LOTR, but some for Misty and Tamora Pierce, I recall.
-2023-04-30 22:19:31 <KathyB>	Oh gosh yes! 
-2023-04-30 22:19:31 <AnnieM>	saaaame!
-2023-04-30 22:19:34 <KathyB>	So much paper!!
-2023-04-30 22:19:40 <KathyB>	so I could take it with me on the road
-2023-04-30 22:19:41 <KSaraSara>	Hahah I think I still have some!
-2023-04-30 22:19:41 *	Doranwen still has her fic binders stashed on a shelf somewhere.
-2023-04-30 22:19:59 <Doranwen>	One of the ones up to my right somewhere.
-2023-04-30 22:20:05 *	KSaraSara throws more Clarkie bears...
-2023-04-30 22:20:10 <AnnieM>	There was a brief period where I had no internet in my apartment, and I used to go to the library computer lab at my university and print of stacks of fic to read every night
-2023-04-30 22:20:21 <KathyB>	omg I love that
-2023-04-30 22:20:31 <Bek>	LOL
-2023-04-30 22:20:40 <KathyB>	poor university printer paper supplier. They had no idea why it kept disappearing overnight 
-2023-04-30 22:20:43 <KSaraSara>	LOL
-2023-04-30 22:20:45 <AnnieM>	The day I finally got my internet hooked up in my apartment, I think I stayed up all night binge reading
-2023-04-30 22:20:56 <Toomi>	I was in junior high when this show was on. We had to write a short story placing us as the main character and one girl in my English class wrote about Superman saving her and then had to read it in class.
-2023-04-30 22:21:00 <AnnaBtG>	@KathyB: lol!
-2023-04-30 22:21:04 <KSaraSara>	Good boy, Houdini!
-2023-04-30 22:21:07 <CRene>	Once I printed up a series of stories I wrote and sent them to a friend for Christmas.  
-2023-04-30 22:21:09 <KathyB>	LOL, love that Houdini! Glad he made it ;) 
-2023-04-30 22:21:27 <KSaraSara>	HAHA nice segue to Claude! LOL
-2023-04-30 22:21:28 <Doranwen>	Lol
-2023-04-30 22:21:38 *	Doranwen snickers at the labor jokes
-2023-04-30 22:21:42 <KathyB>	LOL
-2023-04-30 22:21:45 <KSaraSara>	LOL!
-2023-04-30 22:22:28 <KSaraSara>	Awww lovely segues! And lol
-2023-04-30 22:22:31 <Doranwen>	Hehe
-2023-04-30 22:22:47 <KathyB>	LOL, at least our Lana is nice, right Annie?
-2023-04-30 22:22:56 <KathyB>	Not like that OTHER Lana ;) 
-2023-04-30 22:23:05 *	Doranwen snerks
-2023-04-30 22:23:17 <KSaraSara>	OMG Bek and I almost ... hate how much you made us love Lana! lol
-2023-04-30 22:23:21 <Bek>	The ONLY Lana I've ever liked....
-2023-04-30 22:23:30 <KathyB>	LOL Sara
-2023-04-30 22:23:36 <bakasi>	Houdini quite enjoys the treat. Thanks
-2023-04-30 22:23:57 <KathyB>	oh wow1
-2023-04-30 22:23:58 <KSaraSara>	YAY!!!!
-2023-04-30 22:23:59 <KathyB>	!!
-2023-04-30 22:24:08 <KSaraSara>	Congrats, you two!!!
-2023-04-30 22:24:10 <Bek>	Congrats!!
-2023-04-30 22:24:12 *	Doranwen applauds after giggling at the envelope delay
-2023-04-30 22:24:12 <bakasi>	Congrats!
-2023-04-30 22:24:20 <Blueowl_>	Congrats :)
-2023-04-30 22:24:27 <AnnaBtG>	Congratulations Annie and Kathy!!!
-2023-04-30 22:24:40 <Songbird2>	Yay! Congrats Annie and Kathy!
-2023-04-30 22:24:47 <CRene>	Congratulations, ladies.
-2023-04-30 22:25:03 <Meadowlark>	That is a great version of Lana.
-2023-04-30 22:25:28 <Songbird2>	I love this version of Lana!
-2023-04-30 22:25:31 <KSaraSara>	Totally! This Lana is so amazing!
-2023-04-30 22:25:43 <bakasi>	Better than the show's Lana, that's for sure
-2023-04-30 22:26:06 <Demi2>	Congrats
-2023-04-30 22:26:34 *	Songbird2 has quit (Quit: https://mibbit.com Online IRC Client)
-2023-04-30 22:26:47 <Darth_Michael>	LOL
-2023-04-30 22:27:03 <KathyB>	cough Tea Totaled cough
-2023-04-30 22:27:05 <KathyB>	;)
-2023-04-30 22:27:13 <Doranwen>	Lol
-2023-04-30 22:28:02 *	KSaraSara has quit (Quit: Leaving)
-2023-04-30 22:28:39 <Doranwen>	AnnaBtG:  You should be good to speak. :)
-2023-04-30 22:28:55 <altSara>	Oh good grief… that was NOT the x to hit…
-2023-04-30 22:29:04 <Bek>	Yikes!
-2023-04-30 22:29:06 <AnnieM>	hahaha whoops
-2023-04-30 22:29:07 <Doranwen>	Lol, I did wonder what happened…
-2023-04-30 22:29:25 <KathyB>	LOL
-2023-04-30 22:29:31 <KathyB>	hopefully we haven't lost Anna in the same way?
-2023-04-30 22:29:44 <KathyB>	oh good! There she is!
-2023-04-30 22:29:44 <Doranwen>	Ah, Google docs, gotta love them...
-2023-04-30 22:29:52 *	KSaraSara (~sara@cloak-D8945C1D.hsd1.nm.comcast.net) has joined
-2023-04-30 22:30:04 *	Voice_Jockey gives channel operator status to KSaraSara
-2023-04-30 22:30:17 <KSaraSara>	oy... lol
-2023-04-30 22:30:21 <Doranwen>	LOL
-2023-04-30 22:30:25 <Bek>	LOL
-2023-04-30 22:30:53 *	Songbird2 (Mibbit@cloak-BE5DFB2A.socal.res.rr.com) has joined
-2023-04-30 22:30:55 <Doranwen>	LOL, I'm betting that wasn't the combo you wanted to hit either.
-2023-04-30 22:31:08 <Doranwen>	The joys of better living through technology.
-2023-04-30 22:31:50 <Meadowlark>	It wouldn't be a Kerths without technical difficulties.
-2023-04-30 22:31:54 <Doranwen>	Precisely!
-2023-04-30 22:32:02 <KathyB>	LOL very true!
-2023-04-30 22:32:05 <KSaraSara>	Haha nope, especially since it's been decades for all of us!
-2023-04-30 22:32:13 <KathyB>	LOL Anna
-2023-04-30 22:32:34 <KSaraSara>	Lol, nice save ;)
-2023-04-30 22:32:53 <KathyB>	yes, as if the nerves of doing a LIVE ceremony aren't enough, we have to deal with our IRC nostalgia 
-2023-04-30 22:32:56 <AnnieM>	very smooth ;)
-2023-04-30 22:33:02 <KSaraSara>	haha
-2023-04-30 22:33:10 *	Darth_Michael must make sure to experience technical difficulties. Otherwise, I seem old...
-2023-04-30 22:33:13 <AnnieM>	Ah yes, this is the IRC I remember. Glitchy and confusing ;)
-2023-04-30 22:33:32 <KSaraSara>	@Michael... nah... you're the tech guy ;)
-2023-04-30 22:33:38 <KSaraSara>	Lol Annie!
-2023-04-30 22:33:39 <KathyB>	LOL! They do tend to kiss ... a lot ... hahhaha
-2023-04-30 22:33:41 <Darth_Michael>	There's entire fics written about them kissing
-2023-04-30 22:33:42 <AnnieM>	Do they ever!
-2023-04-30 22:33:43 <Darth_Michael>	just kissing
-2023-04-30 22:33:50 <KSaraSara>	Omg writing kissing is SOOOO HARD!
-2023-04-30 22:34:02 <AnnieM>	SO MANY BODY PARTS
-2023-04-30 22:34:07 <Doranwen>	Eh, it wasn't too hard in my one fic - but it was a lot of quick kisses, and the focus was on the different languages.  I don't write long in-depth kisses, period.
-2023-04-30 22:34:09 <KSaraSara>	LOL! Yes!
-2023-04-30 22:34:10 <KathyB>	So MANY!!!
-2023-04-30 22:34:12 <Blueowl_>	:* ;*
-2023-04-30 22:34:14 *	Darth_Michael eyes nKerths
-2023-04-30 22:34:23 <AnnieM>	So much cringing
-2023-04-30 22:34:23 <KathyB>	And then trying to keep it PG, ahem 
-2023-04-30 22:34:24 <KSaraSara>	Hahaha Michael
-2023-04-30 22:34:42 *	KSaraSara digs around for the fire emoji...
-2023-04-30 22:34:42 <Doranwen>	I can't imagine how hard it would be for anyone who does.
-2023-04-30 22:34:54 <AnnieM>	So much me messaging Kathy being like "This is so awkward, the readers will think I've never actually kissed anyone!"
-2023-04-30 22:35:05 <KSaraSara>	^ yup
-2023-04-30 22:35:28 <Darth_Michael>	just have Lois kiss Claude. that way, any cringe is due to the subject matter, not the presentaiton!
-2023-04-30 22:35:34 <Doranwen>	LOL
-2023-04-30 22:35:36 <Bek>	Ewwww
-2023-04-30 22:35:40 <KathyB>	LOL
-2023-04-30 22:35:49 <AnnieM>	noooooooo
-2023-04-30 22:35:51 <Blueowl_>	Writing romance is already hard for me, so kissing scenes.... I'm always so impressed when I read fics with great romance
-2023-04-30 22:36:01 <KSaraSara>	Noooooo boooo Claude
-2023-04-30 22:36:25 <AnnieM>	I love how many of these literally have Kiss in the title ;)
-2023-04-30 22:36:35 <KSaraSara>	haha
-2023-04-30 22:36:54 <bakasi>	Also, if you have many kisses, you can't use the same words all the time
-2023-04-30 22:36:59 <AnnieM>	YES
-2023-04-30 22:37:11 <Bek>	That's the real problem!
-2023-04-30 22:37:16 <AnnieM>	it's hard enough writing ONE kiss, let alone a story full of kisses that can't all be cut/paste
-2023-04-30 22:37:18 <Blueowl_>	yeah, very repetitive
-2023-04-30 22:37:47 <KathyB>	oh wow!!!
-2023-04-30 22:37:52 <Darth_Michael>	Congratulations you guys!
-2023-04-30 22:37:54 <KSaraSara>	Yay!!! SOOOOO many kisses in that one! lol
-2023-04-30 22:37:57 <KSaraSara>	Congrats!!!!
-2023-04-30 22:37:58 <Bek>	Congrats!
-2023-04-30 22:38:11 <Blueowl_>	Congrats!
-2023-04-30 22:38:12 <KSaraSara>	All that pining makes for good kissing later!!
-2023-04-30 22:38:14 *	bakasi applauds the winners
-2023-04-30 22:38:23 <Songbird2>	Congrats Annie & Kathy!!
-2023-04-30 22:38:46 <Demi2>	Congrats
-2023-04-30 22:39:05 <Meadowlark>	Congrats!  Am I the only one wondering which kiss won in this story?  Maybe it was all of them?
-2023-04-30 22:39:18 *	Doranwen applauds the winners
-2023-04-30 22:39:43 <KathyB>	LOL I was already planning to reread the story this week, and now I'm going to be paying extra attention to the kisses. Not that I can fully rmember which ones I wrote and which ones Annie did, haha
-2023-04-30 22:39:50 <Doranwen>	Lol
-2023-04-30 22:39:52 <KSaraSara>	ALL the kisses, I'm sure! LOL
-2023-04-30 22:40:10 <KSaraSara>	Speech!! ;)
-2023-04-30 22:40:17 <bakasi>	Yeah, the whole story was so great, it'd be hard to choose
-2023-04-30 22:40:24 <Blueowl_>	😙
-2023-04-30 22:40:47 <KSaraSara>	Gahhh! Yes, the chemistry is... off the charts!
-2023-04-30 22:41:41 <AnnaBtG>	Thanks for your patience, guys! And congrats Annie and Kathy!!
-2023-04-30 22:41:51 <Darth_Michael>	LOL
-2023-04-30 22:41:57 <Doranwen>	Lol
-2023-04-30 22:41:57 <Darth_Michael>	not so fast, missy!
-2023-04-30 22:42:04 <KSaraSara>	LOL!
-2023-04-30 22:42:20 *	Darth_Michael applauds
-2023-04-30 22:42:21 <AnnaBtG>	Believe me, writing a speech about the best kiss was about as hard as writing a kiss, lol xD
-2023-04-30 22:42:28 <Doranwen>	Haha
-2023-04-30 22:42:30 <KathyB>	Great speech Anna!
-2023-04-30 22:42:35 *	Meadowlark has quit (Quit: https://mibbit.com Online IRC Client)
-2023-04-30 22:42:42 *	Meadowlark (Mibbit@cloak-C85C35F7.mobile.att.net) has joined
-2023-04-30 22:42:51 *	Doranwen laughs
-2023-04-30 22:42:58 <KSaraSara>	Good job, Anna!!
-2023-04-30 22:43:09 <AnnaBtG>	Thank you!
-2023-04-30 22:43:33 <Darth_Michael>	you can read them as bedtime story for the little ones and grow the next gen of FoLC!
-2023-04-30 22:44:19 <AnnaBtG>	Short stories are the best! Much love!
-2023-04-30 22:44:56 <KathyB>	Congratulations, Bek!!
-2023-04-30 22:45:01 <Blueowl_>	Congrats Bek!
-2023-04-30 22:45:03 <Songbird2>	Congrats Bek!!!
-2023-04-30 22:45:03 <Darth_Michael>	Congratulations, Bek
-2023-04-30 22:45:09 <CRene>	Congrats, Bek
-2023-04-30 22:45:16 <AnnieM>	Congratulations, Bek! I loved this story
-2023-04-30 22:45:17 <KSaraSara>	CONGRATS, BEK!!! WOOO!
-2023-04-30 22:45:20 <bakasi>	Congratulations @Bek
-2023-04-30 22:45:26 <AnnaBtG>	Congrats Bek!! Such a great story!!
-2023-04-30 22:45:27 <Doranwen>	Congrats!
-2023-04-30 22:45:41 <KSaraSara>	SUCH a good revelation too and who can resist a snooping Lois? LOL
-2023-04-30 22:46:01 <Blueowl_>	No one.
-2023-04-30 22:46:24 <AnnieM>	yes! I love a good snoop
-2023-04-30 22:46:28 <Demi2>	Congrats
-2023-04-30 22:47:34 <Toomi>	*Catching up on the scroll* Woohoo! Congrats!
-2023-04-30 22:47:48 <Bek>	Eep! Thank you all!
-2023-04-30 22:49:31 <Darth_Michael>	live speech 
-2023-04-30 22:49:33 <Darth_Michael>	live speech!
-2023-04-30 22:49:34 <Darth_Michael>	FIXED SPECIAL CHARACTERS IN AWARDS CHANNEL TRANSCRIPT
-2023-04-30 22:49:39 <KSaraSara>	Whew...
-2023-04-30 22:50:06 <AnnaBtG>	Yay Jerseygrl!!
-2023-04-30 22:50:19 <Doranwen>	Oh, it's the special apostrophe that's doing the weird chars for me.  Anyone else seeing it oddly too?
-2023-04-30 22:50:43 <bakasi>	Me too
-2023-04-30 22:50:43 <AnnaBtG>	No?
-2023-04-30 22:50:50 <AnnaBtG>	But I'm on an app
-2023-04-30 22:50:55 <Darth_Michael>	yep, it's broken, even in the log
-2023-04-30 22:51:00 <Doranwen>	The curly apostrophe and quote marks don't show up right on my IRC, either.
-2023-04-30 22:51:01 <Darth_Michael>	need to fix that later on
-2023-04-30 22:51:03 <Demi2>	Me too
-2023-04-30 22:51:20 <AnnieM>	yeah, it's broken for me too. Weird. That seems like a pretty basic symbol that should translate
-2023-04-30 22:51:24 <Doranwen>	Guess that's a warning to all presenters - make sure whatever you're typing it in doesn't autoformat them.  We didn't test that…  Oops.
-2023-04-30 22:51:43 <Doranwen>	It's a specialty character, it's not the default one.  IRC has a more limited symbol set I think?  Not sure.
-2023-04-30 22:52:11 <AnnaBtG>	I wonder if that repeated pasting is Tempus messing with the timeline...
-2023-04-30 22:52:22 <Doranwen>	It does seem a likely explanation…
-2023-04-30 22:52:34 <KathyB>	LOL
-2023-04-30 22:52:53 <KathyB>	Luckily ,we can fix it in the transcript!
-2023-04-30 22:53:05 <KSaraSara>	... it's me... I mean.. yes...Tempus
-2023-04-30 22:53:13 <Doranwen>	Rofl
-2023-04-30 22:53:18 <bakasi>	Or there's a cat pounding on the laptop?
-2023-04-30 22:53:34 <bakasi>	In case I fail, I will claim Houdini is responsible
-2023-04-30 22:53:44 *	Darth_Michael eyes script
-2023-04-30 22:54:01 <Darth_Michael>	no, Cat is not pounding on the laptop. she's boffing on the copier
-2023-04-30 22:54:21 <Songbird2>	My cat disconnected me from the chat earlier. He's so helpful. 
-2023-04-30 22:54:29 <Doranwen>	Yeah, even the triple dot ellipsis doesn't show up right.  With IRC it's definitely best to avoid those specialty punctuation characters, I guess!  Now we know.
-2023-04-30 22:54:31 <Doranwen>	LOL bad kitty
-2023-04-30 22:54:48 <Songbird2>	Yes! 
-2023-04-30 22:55:17 <KSaraSara>	Yeah.... New interface for me... lol
-2023-04-30 22:55:23 <KSaraSara>	I didn't practice *hides* lol
-2023-04-30 22:55:47 <Bek>	Jerseygrl also writes a bunch of Superman and Lois fic too, on AO3 if anyone is interested!
-2023-04-30 22:56:02 <Darth_Michael>	actually a bunch of characters does work: “…”
-2023-04-30 22:56:11 <Doranwen>	Yeah, that's the funny thing, I've typed them before.
-2023-04-30 22:56:14 <KathyB>	That wasn't your fault, Sara ... none of us realized the smart quotes wouldn't paste right. 
-2023-04-30 22:56:18 <Doranwen>	So I wonder what happened with the pasting there?
-2023-04-30 22:56:31 <KSaraSara>	Oh, the pasting was totally my fault
-2023-04-30 22:56:34 <AnnieM>	I wonder if it's a specific font that is the problem
-2023-04-30 22:56:42 <Doranwen>	AnnieM: That's what I was thinking.
-2023-04-30 22:56:51 <Darth_Michael>	that's what Labby's pins are for
-2023-04-30 22:56:53 <KSaraSara>	The extra hard return at the end made it seem like my pasted hadn't made it to the text box... so... yep. 
-2023-04-30 22:57:23 <AnnieM>	SO many good challenge response stories this year! So many awesome challenges
-2023-04-30 22:57:23 <Doranwen>	Might be just that one font.  Either way, it isn't too hard to avoid now that we know it can behave problematically.
-2023-04-30 22:57:32 <Doranwen>	We just didn't know before this.
-2023-04-30 22:57:45 <KSaraSara>	I love that basaki wrote this for me and I'd been writing a rewrite of the same scene! LOL
-2023-04-30 22:57:53 <KathyB>	LOL
-2023-04-30 22:59:02 <AnnieM>	I can't even remember who I voted for in this category. I love them all.
-2023-04-30 22:59:20 <Bek>	All of these stories are amazing!
-2023-04-30 22:59:31 <KSaraSara>	Yes, they are!!
-2023-04-30 22:59:44 <Songbird2>	Yes, they are!
-2023-04-30 22:59:56 <bakasi>	I thought you deserved a nice story after reading my other WIP ;=
-2023-04-30 23:00:08 <KSaraSara>	Haha yes, so much angst there!!
-2023-04-30 23:00:24 <Blueowl_>	!!!
-2023-04-30 23:00:26 <Bek>	Congrats!!
-2023-04-30 23:00:29 <KathyB>	Congratulations!! I loved this story! So clever!
-2023-04-30 23:00:33 <KSaraSara>	Woooo!!! Congrats, Jess!!!
-2023-04-30 23:00:36 <bakasi>	Congrats Bluowl
-2023-04-30 23:00:42 <Toomi>	Yay! Congrats.
-2023-04-30 23:00:49 <Doranwen>	Congrats!
-2023-04-30 23:00:49 <KSaraSara>	I love the peek into the world through eyes of strangers! 
-2023-04-30 23:00:52 <AnnieM>	Congrats, Jess!
-2023-04-30 23:00:57 <Songbird2>	Congrats, Blueowl!
-2023-04-30 23:00:57 <KSaraSara>	So creative!!
-2023-04-30 23:01:23 <Blueowl_>	Thanks ^_^
-2023-04-30 23:01:40 <Meadowlark>	Truely a unique and fun story!  Even after 30 years.
-2023-04-30 23:01:46 <Demi2>	Congratulations 
-2023-04-30 23:02:03 <AnnieM>	yes, I love that we are still getting truly unique ideas after all this time!
-2023-04-30 23:02:10 <KSaraSara>	Yes, I love that we ... jinx to Annie lol
-2023-04-30 23:02:11 <AnnaBtG>	Congrats Jess!! I was so intrigued by this story!!
-2023-04-30 23:02:28 <Darth_Michael>	Congrats, BLueowl!
-2023-04-30 23:02:36 <KSaraSara>	Glad Sara's sock could show up! lol
-2023-04-30 23:02:49 <Doranwen>	Lol
-2023-04-30 23:03:10 <KathyB>	Now I'm wondering what color the sock is ... is it blue? is it red? It is argyle???
-2023-04-30 23:03:16 <Doranwen>	Rofl
-2023-04-30 23:03:21 <Bek>	LOL
-2023-04-30 23:03:34 <KathyB>	Oh wait, silly me ... it's blue AND red, with a superman crest on the ankle!
-2023-04-30 23:03:36 <KSaraSara>	LOL 
-2023-04-30 23:03:39 <Blueowl_>	Is it a knitted sock?
-2023-04-30 23:03:40 <AnnaBtG>	It's blue with an S, obviously!
-2023-04-30 23:03:42 <AnnieM>	I love how Sara managed to make her speech about Canada/Hockey. 
-2023-04-30 23:03:47 <AnnieM>	In true Sara fashion ;)
-2023-04-30 23:03:50 <Doranwen>	AnnieM: Saaaaame…
-2023-04-30 23:04:01 <KSaraSara>	Oh, Canadians ;)
-2023-04-30 23:04:15 <KathyB>	LOL yes
-2023-04-30 23:04:41 <KathyB>	It's her thing! The way mine used to be working a bathroom scene into every nfic LOL
-2023-04-30 23:04:46 <Bek>	Congrats!
-2023-04-30 23:04:50 <KSaraSara>	Yay!!!!! Gahhh! It was SUUUUUUUCH a good revelation!!
-2023-04-30 23:04:53 <AnnaBtG>	Go girls!! Sweeping the awards tonight!!
-2023-04-30 23:04:58 <KathyB>	oh wow oh wow
-2023-04-30 23:05:06 <Toomi>	What's that about Canadians?
-2023-04-30 23:05:07 <Demi2>	Congrats again
-2023-04-30 23:05:09 <Darth_Michael>	Congratulations to the Trouble Twins!
-2023-04-30 23:05:11 <Doranwen>	Congrats!
-2023-04-30 23:05:11 <KSaraSara>	Kathy: LOL! I didn't realize that was a thing for you lol
-2023-04-30 23:05:13 <Doranwen>	Toomi: LOL
-2023-04-30 23:05:14 <bakasi>	No surprise there. Congrats you two
-2023-04-30 23:05:20 <Blueowl_>	Congrats! 
-2023-04-30 23:05:23 <Toomi>	We're not *all* Maple Leafs fans...
-2023-04-30 23:05:29 <KSaraSara>	Toomi: all the love, that's what lol
-2023-04-30 23:06:02 <Toomi>	All the love back :)
-2023-04-30 23:06:46 <AnnieM>	omg yes, the bathroom scenes. I'm cracking up.
-2023-04-30 23:07:04 <KathyB>	OMG did I not do it in WTHW????
-2023-04-30 23:07:13 <KathyB>	See, we have to write the third part, just so I can do that 
-2023-04-30 23:07:40 <Songbird2>	Yes, the third part! I can't wait!
-2023-04-30 23:07:46 <Bek>	There definitely does need to be a third part!
-2023-04-30 23:07:59 <Meadowlark>	KathyB, that is a great idea!
-2023-04-30 23:08:11 <KSaraSara>	Gah, my brain cannot even... I mean...I can't remember! So I'll just have to reread all Kathy's nfic. Woe is me.
-2023-04-30 23:08:12 *	bakasi agrees with Bek
-2023-04-30 23:08:13 <AnnieM>	Uh, there definitely is a bathroom scene in WTHW
-2023-04-30 23:08:37 <Songbird2>	Did I miss something? Did WTHW win best revelation?
-2023-04-30 23:08:47 <Doranwen>	Rofl
-2023-04-30 23:08:48 <KSaraSara>	Songbird: yep!
-2023-04-30 23:08:54 <AnnaBtG>	It did!
-2023-04-30 23:08:58 <KathyB>	LOL is there really? See, I REALLY need to reread this story!! hahaha
-2023-04-30 23:09:07 <KSaraSara>	LOL Michael!!
-2023-04-30 23:09:11 <Bek>	LOL
-2023-04-30 23:09:18 <AnnaBtG>	Are we playing Judas Priest???
-2023-04-30 23:09:20 <Doranwen>	Rofl
-2023-04-30 23:09:30 <KathyB>	Also, can I just say, the Lana revelation in WTHW is so dear to my heart ... I'm totally verklempt over this honor 
-2023-04-30 23:09:31 <AnnieM>	LOL Michael
-2023-04-30 23:09:33 <KathyB>	<3
-2023-04-30 23:09:43 <KSaraSara>	Hey now, one is decidedly called This is Not a Date... LOL
-2023-04-30 23:09:43 <Songbird2>	Were the nominations listed? If so, I'm having a problem because they didn't appear on my scree?
-2023-04-30 23:09:45 <AnnaBtG>	No, wait, I think only Pearl Jam tonight ...
-2023-04-30 23:09:58 <Songbird2>	Congrats Annie & Kathy!
-2023-04-30 23:10:02 <KSaraSara>	HAHA thrown under the bus for my wordiness lol
-2023-04-30 23:10:51 <KSaraSara>	OMG The Kiss Off by CC and Erin!! Loved that one!
-2023-04-30 23:11:57 <KathyB>	LOL Michael is killing it with his speeches
-2023-04-30 23:11:58 <KSaraSara>	OOH
-2023-04-30 23:12:05 <KathyB>	a TIE!!
-2023-04-30 23:12:13 <AnnieM>	ooh, a tie! Fun!
-2023-04-30 23:12:25 <KathyB>	YAY!!!
-2023-04-30 23:12:32 <Bek>	Yay!! Congrats!!!
-2023-04-30 23:12:33 <KSaraSara>	GAHH!!!
-2023-04-30 23:12:38 <KathyB>	Both outstanding choices!!
-2023-04-30 23:12:55 <AnnaBtG>	Congrats girls!! Sara and Sara and Annie!!
-2023-04-30 23:13:00 <bakasi>	Congrats!
-2023-04-30 23:13:01 *	Doranwen gestures towards stage to the winners
-2023-04-30 23:13:08 <Blueowl_>	Ooo tie! Congrats!
-2023-04-30 23:13:23 <KathyB>	LOL Sara is speechless. Literally 
-2023-04-30 23:13:28 <Songbird2>	Yay! Congrats to Sara and Sara and Annie! 
-2023-04-30 23:13:28 <Doranwen>	Lol
-2023-04-30 23:15:00 <Demi2>	Yay, congratulations 
-2023-04-30 23:15:03 <KathyB>	Oh, little abandoned cabin story! You deserve this honor!
-2023-04-30 23:15:24 <KSaraSara>	Yay!! So good!!
-2023-04-30 23:15:33 <KSaraSara>	And Yeah... I'm panic typing a speech now lol
-2023-04-30 23:15:48 <Songbird2>	Ties
-2023-04-30 23:16:00 *	Doranwen applauds the winners
-2023-04-30 23:16:07 <Songbird2>	Ties are fun! 
-2023-04-30 23:16:16 <KathyB>	you can type it in the window ... we won't mind :) 
-2023-04-30 23:17:13 <Meadowlark>	Ties are fun.  Especially the ones Clark wears.
-2023-04-30 23:17:18 <Doranwen>	Lol
-2023-04-30 23:17:43 <KathyB>	hahahahaha
-2023-04-30 23:17:47 <Songbird2>	LOL!
-2023-04-30 23:18:02 <Darth_Michael>	yes, it's sure fun!
-2023-04-30 23:18:07 <Songbird2>	Good one Meadowlark!
-2023-04-30 23:18:14 *	Darth_Michael points at FDK
-2023-04-30 23:18:47 <AnnaBtG>	@Meadowlark: hah I was just wishing for a tie in the next category I'm presenting so I could make that joke xD
-2023-04-30 23:18:47 <KathyB>	I'm so glad SaraM didn't give up and SaraO finally buckled under the pressure!!
-2023-04-30 23:18:51 <Darth_Michael>	LOL, like the actor needing to get pushed to take the Oscar role
-2023-04-30 23:19:34 <Blueowl_>	That's hilarious 😂
-2023-04-30 23:19:54 <Doranwen>	I think of Viggo Mortensen asking his son if he should take the role of Aragorn in LOTR, knowing it'd mean a big time commitment…  (Fortunately for all of us his son was like YES, Dad, DOOOOOOO ITTTTTTT)
-2023-04-30 23:20:28 *	Bek applauds all the winners so far
-2023-04-30 23:20:57 *	Darth_Michael has no idea how many ties there are. only my excel sheet knows
-2023-04-30 23:21:36 <Doranwen>	Uh, yeah they can, lol
-2023-04-30 23:21:46 *	Doranwen points to the ARGH
-2023-04-30 23:21:56 <Doranwen>	Fic is *way* better.
-2023-04-30 23:21:57 <KSaraSara>	OMG let's not talk about the ARGH lol
-2023-04-30 23:23:09 <Doranwen>	Yeah, I think it was your font only, Sara - Annie's paste has curly apostrophes and they're not showing up weird.
-2023-04-30 23:23:25 <KSaraSara>	Yess! Toomi finally explains the Kryptonite cage's disappearance to us!
-2023-04-30 23:23:56 <Bek>	Congrats Toomi!
-2023-04-30 23:23:57 <KathyB>	Congratulations, Toomi!!!
-2023-04-30 23:24:00 <AnnaBtG>	Oooh congrats Toomi!!!
-2023-04-30 23:24:02 <Doranwen>	Congrats Toomi!
-2023-04-30 23:24:05 <KSaraSara>	Omg I didn't know she was the winner! LOL! I just was excited it was there!
-2023-04-30 23:24:14 <Darth_Michael>	Congratulations, Toomi!
-2023-04-30 23:24:20 <KSaraSara>	YAY TOOMI! Such a great way to make the end of HoL realistic!!
-2023-04-30 23:24:21 <Songbird2>	Congrats Toomi!!
-2023-04-30 23:24:38 <AnnieM>	Congrats, Toomi!
-2023-04-30 23:24:55 <bakasi>	Congrats Toomi. It was really a great story
-2023-04-30 23:24:59 <Demi2>	Yay, great story, congrats Toomi
-2023-04-30 23:25:22 <Doranwen>	"A/n:  Thank you, weather"
-2023-04-30 23:25:27 <KSaraSara>	LOL!
-2023-04-30 23:25:34 <KathyB>	LOL Doranwen
-2023-04-30 23:25:44 <KSaraSara>	Yes, I loved Henderson here!
-2023-04-30 23:26:19 <Toomi>	I think far too many of my stories get a good start in the winter when I'm hiding from the weather :)
-2023-04-30 23:26:48 *	KSaraSara is waiting patiently for her snowbound story from Toomi lol
-2023-04-30 23:26:53 <Doranwen>	Lol
-2023-04-30 23:27:20 <Toomi>	I told you.... an A plot took hold and ran off with it. You'll get it, eventually... but it'll be bigger.
-2023-04-30 23:27:48 <AnnaBtG>	Time for my eye drops!
-2023-04-30 23:28:50 <Darth_Michael>	Snowbound? LOL, there's a fascinating amount of stories where LnC are stuck in snow and ...stuff happens
-2023-04-30 23:29:22 <Doranwen>	It's a classic fic trope :D
-2023-04-30 23:31:03 <Toomi>	Yes. I thought I'd take a shot at a 'snowbound' fic. It was supposed to be a shorty but then I had a duel with my muse and lost. However, I did put my foot down when pirates were brought into it.
-2023-04-30 23:31:13 <Doranwen>	LOL
-2023-04-30 23:31:53 <AnnaBtG>	Hahaha
-2023-04-30 23:33:12 <KSaraSara>	lol!
-2023-04-30 23:33:21 <KSaraSara>	And LOL at the commercials!
-2023-04-30 23:34:21 <AnnaBtG>	You can be beside yourself, literally!
-2023-04-30 23:34:25 <AnnaBtG>	Lol!
-2023-04-30 23:35:09 <KSaraSara>	OMG "It's perfect for parties or hostage situations!" *dies laughing*
-2023-04-30 23:36:56 <AnnieM>	 OMG this song
-2023-04-30 23:37:34 <Doranwen>	I've never actually listened to this song enough to know it.  Maybe I've heard it once?  But don't remember how it goes.
-2023-04-30 23:38:18 <AnnaBtG>	Me neither, but the lyrics are awesome!! I'm going to listen to it as soon as I get an opportunity!
-2023-04-30 23:39:02 <Doranwen>	I know I've heard it once, now that I think about it.  But I'll have to listen to it again to hear how the lyrics fit to it because I don't remember the melody at all.
-2023-04-30 23:39:35 <Blueowl_>	Catching up. Congrats Toomi 😀
-2023-04-30 23:41:48 <KSaraSara>	Thanks for being a digital packrat, Kathy!! (You're not alone in that lol)
-2023-04-30 23:41:59 <Darth_Michael>	hear hear
-2023-04-30 23:42:13 <Doranwen>	Digital packrat?  I resemble that remark XD
-2023-04-30 23:42:19 <Darth_Michael>	the true reason why computer storage goes up an order of magnitude every couple of years
-2023-04-30 23:42:26 <KSaraSara>	HAHA TRUTH
-2023-04-30 23:42:26 <Darth_Michael>	nerds are horders
-2023-04-30 23:42:35 *	Doranwen eyes her many hdds stuffed full of data from years and years ago.
-2023-04-30 23:42:35 <KSaraSara>	^
-2023-04-30 23:42:38 <AnnieM>	Thank goodness for Kathy and Sara and their digital packrat natures, because I personally save nothing and they have gifted me many gems I had long forgotten
-2023-04-30 23:42:52 <KSaraSara>	Ack! I'm presenting again... bear with me lol
-2023-04-30 23:42:57 <KathyB>	Unfortunately, sometimes in the wrong fandom, hahahha
-2023-04-30 23:43:07 <Doranwen>	Lol
-2023-04-30 23:43:07 <CRene>	I have lost so much stuff online because I didn't save it on other places.  Now I love the cloud.  
-2023-04-30 23:43:37 <Blueowl_>	Yeah, I HATE losing electronic stuff so much, especially pics or vids
-2023-04-30 23:43:37 *	Darth_Michael loves that contradictory statement by CarrieRene
-2023-04-30 23:43:40 <Doranwen>	I have double backups now.  One stored here, one stored elsewhere.  I have too much data to put in the cloud.
-2023-04-30 23:43:49 <Doranwen>	But I do store a few things up on Mega to make it easy to share.
-2023-04-30 23:43:53 <AnnieM>	LOL true. Her packrat gifts derailed me into another fandom. BUT she also had saved all our old chatlogs from when we wrote Tea Totaled. And those were a joy to behold.
-2023-04-30 23:44:18 <Doranwen>	I love AUs and elseworlds!  In pretty much any fandom
-2023-04-30 23:44:32 <Doranwen>	He really is
-2023-04-30 23:45:12 <AnnieM>	AUs are always my favorite categories. I love seeing the characters in a totally different scenario yet still themselves
-2023-04-30 23:45:23 <Doranwen>	Yup
-2023-04-30 23:45:33 <CRene>	I had a desktop that was built for me.  It had 3 drives on it.  I even had it moved to a external drive, but lost the drive.  So bye the first 4 years of pictures of my oldest child, plus stories, videos, and more.
-2023-04-30 23:45:41 <Blueowl_>	Yeah, there can never be too many of them
-2023-04-30 23:45:44 <KSaraSara>	Oh heck... the envelope made me lose the awards chat...
-2023-04-30 23:45:48 <KathyB>	OMG, the chat logs from Tea Totaled were a joy to behold. Especially since you couldn't tell the difference in how we talk to each other from 20 years ago and today hahahah
-2023-04-30 23:45:54 <KSaraSara>	The epic envelope fumble...
-2023-04-30 23:46:09 <Darth_Michael>	oops
-2023-04-30 23:46:19 <KathyB>	do you need me to paste?
-2023-04-30 23:46:28 <Darth_Michael>	I thought it would just open in the back and be ready
-2023-04-30 23:46:35 <Doranwen>	Lol, who needs to invent envelope fumbles?  They happen naturally easily enough! <g>
-2023-04-30 23:47:17 <Darth_Michael>	@Kathy so, basically, you didn't learn anything to write better fics in the time since then?
-2023-04-30 23:47:23 <KSaraSara>	Haha yes, paste the rest of the nominees, please! :D
-2023-04-30 23:47:24 *	Darth_Michael eyes currents stats
-2023-04-30 23:47:34 <Darth_Michael>	then again, why improve on percfection
-2023-04-30 23:47:56 <Doranwen>	A much better response, lol
-2023-04-30 23:48:13 *	KSaraSara has quit (Quit: Leaving)
-2023-04-30 23:48:18 <Darth_Michael>	LOL
-2023-04-30 23:48:27 <Darth_Michael>	should I?
-2023-04-30 23:48:33 <Doranwen>	Poor Sara
-2023-04-30 23:48:34 <Blueowl_>	The suspense XD
-2023-04-30 23:48:41 <Doranwen>	Blueowl_: LOL yes!
-2023-04-30 23:48:41 <AnnaBtG>	Sara amping up the suspense!
-2023-04-30 23:48:45 <Doranwen>	It's perfect XD
-2023-04-30 23:49:08 <Blueowl_>	Congrats!
-2023-04-30 23:49:15 <Bek>	Congrats!!
-2023-04-30 23:49:21 <bakasi>	Congrats!!!
-2023-04-30 23:49:21 <Darth_Michael>	Congrats you perfect examples of authors!
-2023-04-30 23:49:24 *	KSaraSara (~sara@cloak-D8945C1D.hsd1.nm.comcast.net) has joined
-2023-04-30 23:49:30 <Demi2>	Congrats! 
-2023-04-30 23:49:35 <KSaraSara>	LOL! Oh good grief...
-2023-04-30 23:49:42 <AnnaBtG>	Go girls!!! Congrats Annie and Kathy!!
-2023-04-30 23:49:43 <KSaraSara>	And CONGRATS to WTHW!!!
-2023-04-30 23:49:48 <Blueowl_>	I'm rereading this story now :D
-2023-04-30 23:50:16 <Doranwen>	Congrats
-2023-04-30 23:50:19 <Doranwen>	!
-2023-04-30 23:50:48 <Songbird2>	For some reason I'm not getting everything that is typed on the awards channel. Congrats to Annie and Kathy!
-2023-04-30 23:51:01 <Doranwen>	Songbird2: You're logged in there as Songbird, without the 2.
-2023-04-30 23:51:16 <Doranwen>	Do you have a separate browser window open for that one?
-2023-04-30 23:51:35 <Songbird2>	Yes. I'm actually using two tablets
-2023-04-30 23:51:42 <Doranwen>	Ah, OK, I do see you in there.
-2023-04-30 23:52:07 <Doranwen>	You could try closing the Songbird one and re-joining it to see if that fixes whatever you're experiencing?
-2023-04-30 23:52:13 <Doranwen>	Sometimes the close-and-restart method really does work, lol.
-2023-04-30 23:52:31 <Songbird2>	Okay. I'll try that. Thanks! 
-2023-04-30 23:52:37 <KSaraSara>	I actually got to be privy to a portion of that and gahhhhh!!
-2023-04-30 23:52:59 <Darth_Michael>	oh, actually, @Doranwen, can you log in twice with the same name on the same server? or maybe just when you're using an authenicated user?
-2023-04-30 23:53:10 <Doranwen>	No, you have to have different nicks.
-2023-04-30 23:53:34 <Meadowlark>	There is backstory???  Maybe that is for Part 3/
-2023-04-30 23:53:38 <Doranwen>	You can join two channels with both but with Mibbit you can't actually see them at the same time.
-2023-04-30 23:53:40 <Darth_Michael>	hey, guys, the author name alone is reason to put this on the must-read list. 
-2023-04-30 23:53:45 <AnnaBtG>	Hahahaha @KSaraSara !
-2023-04-30 23:53:48 *	Darth_Michael eyes loooong list
-2023-04-30 23:54:07 <Doranwen>	So the guide suggested opening two separate browsers - with separate nicks so the dual connection can happen.  Two different tablets/phones/etc. also would do the trick that way.
-2023-04-30 23:54:27 <Doranwen>	Or even two different actual apps - there are IRC apps for phones after all, but not all are free and some can be tricky to work.
-2023-04-30 23:54:33 <KSaraSara>	@Michael... better get those treats ready!
-2023-04-30 23:54:35 <Doranwen>	Mibbit was far easier for a newbie to figure out.
-2023-04-30 23:54:43 <Doranwen>	So that's why we went with that.
-2023-04-30 23:55:08 <Doranwen>	But most phones can't do a split screen so you're kind of stuck if you only have a single phone to do it on.  Have to switch back and forth a lot.
-2023-04-30 23:55:26 <Doranwen>	Songbird2: Are you seeing it OK now?
-2023-04-30 23:55:40 <Darth_Michael>	yes, but if I offer one now, can you imagine Houdini dragging Bakasi off the stage during the speach?
-2023-04-30 23:55:51 <Songbird2>	Yes, I think so. Thanks for all the help!
-2023-04-30 23:55:52 <KSaraSara>	LOL!
-2023-04-30 23:55:55 <Doranwen>	Excellent. :)
-2023-04-30 23:56:33 <Songbird2>	Is this long story?
-2023-04-30 23:56:34 *	Darth_Michael holds out envelope and treat
-2023-04-30 23:56:40 <KSaraSara>	Yes, Songbird :)
-2023-04-30 23:56:42 <Darth_Michael>	Houdini, fetch!
-2023-04-30 23:56:48 <Songbird2>	Thanks!
-2023-04-30 23:56:51 <KSaraSara>	LOL @Michael
-2023-04-30 23:56:56 <Doranwen>	Lol
-2023-04-30 23:57:09 <KSaraSara>	Yes it was SOOOO HARD TO CHOOSE (actually... all the categories were...)
-2023-04-30 23:57:47 <KSaraSara>	Congrats again!!!!!
-2023-04-30 23:57:49 <Darth_Michael>	Congratulations Annie and Kathy!
-2023-04-30 23:57:51 <Songbird2>	Congrats Annie and Kathy!
-2023-04-30 23:57:53 *	KSaraSara throws confetti
-2023-04-30 23:57:57 <Doranwen>	Congrats!
-2023-04-30 23:58:01 <Bek>	Congrats!!!
-2023-04-30 23:59:12 <AnnaBtG>	Congratulations Annie and Kathy!!
-2023-04-30 23:59:55 <Darth_Michael>	I'm sensing a pattern with Annie's stage presence
-2023-05-01 00:00:01 <bakasi>	Again, congratulations.
-2023-05-01 00:00:01 <KSaraSara>	lol
-2023-05-01 00:00:12 <KathyB>	Thank you all! Annie wrote 90% of this story, so she deserves all the kudos. It was such a job working with her!!!
-2023-05-01 00:00:12 <Doranwen>	Was just typing that, lol
-2023-05-01 00:00:16 <Darth_Michael>	JOKER: I can make people die with laughter
-2023-05-01 00:00:22 <Doranwen>	I've laughed till I cried with a few fics.
-2023-05-01 00:00:50 <Demi2>	Congratulations 
-2023-05-01 00:01:44 *	Demi has quit (Quit: https://mibbit.com Online IRC Client)
-2023-05-01 00:02:32 <KathyB>	LOL such a JOY! (/me slinks off in typo shame)
-2023-05-01 00:02:43 <KathyB>	Another tie!!!
-2023-05-01 00:02:56 *	Darth_Michael makes *whoosh* sound
-2023-05-01 00:03:11 <Doranwen>	LOL, Kathy
-2023-05-01 00:03:18 <KSaraSara>	AhhhhhhH!!!!
-2023-05-01 00:03:23 <Bek>	Congrats!!!
-2023-05-01 00:03:30 <Doranwen>	Congrats!
-2023-05-01 00:03:31 *	Darth_Michael reads back
-2023-05-01 00:03:33 <KSaraSara>	Toomi, you can go first!!
-2023-05-01 00:03:35 <Darth_Michael>	LOK in deed, Kathy!
-2023-05-01 00:03:52 <AnnaBtG>	Congrats Sara and Sara and Toomi!! Such fun stories! :)
-2023-05-01 00:03:52 <Demi2>	Congratulations 
-2023-05-01 00:03:56 <bakasi>	Congrats!
-2023-05-01 00:04:00 <Doranwen>	LOK? XD
-2023-05-01 00:04:05 <Songbird2>	Congrats Sara and Sara and Toomi!!
-2023-05-01 00:04:11 <KathyB>	yay! Congrats S&S and T!
-2023-05-01 00:04:16 <Darth_Michael>	Congratuations, Toomie and Sara & Sara!
-2023-05-01 00:04:34 *	Darth_Michael tops Kathy's typos
-2023-05-01 00:04:36 <Doranwen>	Toomi & Sara^2  <g>
-2023-05-01 00:04:41 <KSaraSara>	lol
-2023-05-01 00:04:48 <Doranwen>	Darth_Michael: Haha, I thought that was deliberate. <g>
-2023-05-01 00:05:03 <KSaraSara>	Congrats, Toomi!!
-2023-05-01 00:05:09 <CRene>	Sounds like a band name.
-2023-05-01 00:05:25 <Doranwen>	Hee
-2023-05-01 00:05:33 <AnnaBtG>	Hahah lovely speech @Toomi !
-2023-05-01 00:05:39 <Doranwen>	Thanks for the obvious mic handoff, Toomi - makes it easy to know when you're done. :)
-2023-05-01 00:06:19 <Toomi>	Haha. I was trying not to flee the stage. Hadn't thought I'd win anything so I have no idea what to say. 
-2023-05-01 00:06:20 *	Doranwen has been guessing all afternoon.  "Are they finished talking?  Maybe?  I think?"
-2023-05-01 00:06:40 *	Darth_Michael is just at the point when Lois invites Clark over for coffee in Pearl Jam!
-2023-05-01 00:08:43 <KathyB>	LOL on the (u) for SaraM!
-2023-05-01 00:08:52 <AnnieM>	LO(u)L
-2023-05-01 00:08:55 <KSaraSara>	Hee hee
-2023-05-01 00:09:07 <Bek>	LOL
-2023-05-01 00:09:38 <Doranwen>	*snort*
-2023-05-01 00:09:40 <KSaraSara>	ROTFL!!!
-2023-05-01 00:09:42 <KSaraSara>	Omg Kathy
-2023-05-01 00:10:22 *	Bek hides
-2023-05-01 00:10:37 *	Darth_Michael shines slashlight at Bek's Kerth
-2023-05-01 00:10:46 <AnnieM>	12 stories in your first year is awesome!
-2023-05-01 00:11:19 <Darth_Michael>	Other Sara's here!
-2023-05-01 00:11:50 <AnnaBtG>	@Darth_Michael: Slashlight sounds appropriately ficcy
-2023-05-01 00:12:23 <KathyB>	LOL
-2023-05-01 00:12:27 <KathyB>	nfic-y!
-2023-05-01 00:12:33 *	Sara (Mibbit@cloak-283982CF.cpe.teksavvy.com) has joined
-2023-05-01 00:12:34 <Darth_Michael>	LOLZ. I did mention typos, didn't I?
-2023-05-01 00:12:36 <Songbird2>	Congrats Bek!! 12 fics is amazing! Thank you! 
-2023-05-01 00:12:59 <AnnaBtG>	@Bek: congrats and we are so happy to have you here!!
-2023-05-01 00:13:12 <Bek>	Ahh, thank you!!!
-2023-05-01 00:13:12 <Doranwen>	It sounds like a different fandom, lol.  L&Cdom doesn't have much slash in it.  Now, Smallville, otoh…
-2023-05-01 00:13:30 <KSaraSara>	Yes, we're so lucky to have Bek here!!!
-2023-05-01 00:13:41 <Doranwen>	Agreed
-2023-05-01 00:13:46 <Bek>	Thank you all for being so welcoming!! 
-2023-05-01 00:13:46 <Darth_Michael>	Yes, though there are one or two fics with two Clarks in one bedroom.
-2023-05-01 00:14:11 <KSaraSara>	HAH! Wouldn't that be a sight to see....?
-2023-05-01 00:14:12 <Sara>	Managed to make it for some of it but I'm on my phone so I am not really "here" here. Congratulations Bek!!!
-2023-05-01 00:14:31 <KathyB>	I did once read a Clark/Jimmy story years back ... but slash is indeed pretty rare in this fandom
-2023-05-01 00:14:32 <Doranwen>	Yeah, didn't say it had none, just not a lot in comparison with some.  Someone on a Reddit post the other day was actually asking for fandom names that were almost entirely het, and I offered up L&C as an example.
-2023-05-01 00:14:34 <Bek>	Hmmmm, two Clarks huh?
-2023-05-01 00:15:08 <Doranwen>	So I hear!
-2023-05-01 00:15:11 <KSaraSara>	Sounds... *inserts fire emojis*
-2023-05-01 00:15:20 <Darth_Michael>	yep. on the nfanfic archive. one's Myxsplit
-2023-05-01 00:15:25 <Darth_Michael>	by Sheila Harper
-2023-05-01 00:15:33 <Darth_Michael>	if I'm not mistaken
-2023-05-01 00:15:39 <KSaraSara>	That's right :)
-2023-05-01 00:15:54 <KSaraSara>	And then Midnight Fantasies by Scribe (who is really Wendy Richards)
-2023-05-01 00:16:10 <Bek>	Ah yep, that one.
-2023-05-01 00:16:46 <KSaraSara>	YAY TIES!
-2023-05-01 00:16:47 <Darth_Michael>	and we got one scene in the Season 5/6 stories where LnC body swap
-2023-05-01 00:16:54 <KSaraSara>	LOL Toomi, nice one!
-2023-05-01 00:16:55 <KathyB>	another tie! Yay, Clark will be happy!
-2023-05-01 00:16:55 <Darth_Michael>	Oooh, tie!
-2023-05-01 00:17:05 <KathyB>	(good one, toomi!)
-2023-05-01 00:17:10 <AnnieM>	wow, another tie@
-2023-05-01 00:17:25 <KathyB>	OMG
-2023-05-01 00:17:34 <Doranwen>	Congrats!
-2023-05-01 00:17:36 <Darth_Michael>	Congratuations, and it's not even a threeway!
-2023-05-01 00:17:36 <KSaraSara>	Congrats!! Keeping your title of Queen of Waff intact!! LOL
-2023-05-01 00:17:43 <Bek>	Congrats!
-2023-05-01 00:17:48 <bakasi>	Congrats
-2023-05-01 00:17:48 <AnnaBtG>	Annie there just not leaving anything to chance!!
-2023-05-01 00:17:48 <KSaraSara>	OMG... threeway...
-2023-05-01 00:17:52 <Darth_Michael>	is that a 1+1/2 tie?
-2023-05-01 00:17:52 <Songbird2>	Wow! Double congrats Annie and Kathy! 
-2023-05-01 00:17:59 <Demi2>	Another tie - congrats 
-2023-05-01 00:18:00 <KathyB>	LOL maybe!
-2023-05-01 00:18:06 *	KathyB hugs Annie on her way up to the stage
-2023-05-01 00:18:10 <AnnaBtG>	Congrats Annie and Kathy!
-2023-05-01 00:18:59 <Sara>	Woooooooo!
-2023-05-01 00:19:25 <Darth_Michael>	meanwhile...
-2023-05-01 00:19:38 <Darth_Michael>	and that's how you know when FoLCs are genuinly surpised at winnign
-2023-05-01 00:19:49 <Darth_Michael>	no prepped speeches!
-2023-05-01 00:20:23 *	Darth_Michael claps extra loudly
-2023-05-01 00:20:31 <AnnaBtG>	Like anyone here is confident enough to have prepped a speech? Lol
-2023-05-01 00:20:49 <Darth_Michael>	well, I did prep two for tonight :D
-2023-05-01 00:21:17 <KSaraSara>	Haha right, Anna? #impostersyndrome is rampant...
-2023-05-01 00:21:17 <Demi2>	:-D
-2023-05-01 00:21:20 <AnnaBtG>	An *acceptance* speech, then. :)
-2023-05-01 00:21:59 <Darth_Michael>	yep. we're authors. we need to be precise with our words.
-2023-05-01 00:22:00 <KathyB>	LOL, yes, the KComm prepared ... you should see our several page long Google Doc with the entire presentation written out for us to paste!
-2023-05-01 00:22:01 <KathyB>	haha
-2023-05-01 00:22:16 <KathyB>	But awards? NOPE!!
-2023-05-01 00:22:51 <Darth_Michael>	oh no!
-2023-05-01 00:22:55 <KSaraSara>	Yeah, it's a miracle we haven't mis-pasted anything... wait... except for me lol
-2023-05-01 00:23:07 *	Darth_Michael points at speech about alt-clark
-2023-05-01 00:23:16 <Doranwen>	KSaraSara: Lol
-2023-05-01 00:23:46 <Doranwen>	I need to read some of these stories!  I've been sort of scattered in my reading, so most of the newer ones I actually haven't read yet. <sg>
-2023-05-01 00:24:08 <KSaraSara>	Yes! Read them all!! They're all amazing!! SOOO much good competition!!
-2023-05-01 00:24:39 <Doranwen>	Oh, I plan on it, it's just… projects…  I tend to use reading fic as my reward for finishing another chunk of something.
-2023-05-01 00:24:54 <Doranwen>	And I've been slowly wading through that enormously long VirginiaR WIP.
-2023-05-01 00:26:26 <KSaraSara>	Hahaha it's the theme for tonight!!
-2023-05-01 00:26:28 <CRene>	More ties
-2023-05-01 00:26:37 <Darth_Michael>	@Doranwen: that is an awsome one, isn't it?
-2023-05-01 00:26:52 <Darth_Michael>	and yes, a whole flight of ties, now!
-2023-05-01 00:26:57 <AnnieM>	This is The Year of the Tie!
-2023-05-01 00:27:16 <KSaraSara>	.... 
-2023-05-01 00:27:26 <Doranwen>	Darth_Michael: Yes, I've really been enjoying it!
-2023-05-01 00:27:27 <KSaraSara>	*cries...more than a little*
-2023-05-01 00:27:30 <Bek>	YAY! CONGRATS!!!
-2023-05-01 00:27:33 <Doranwen>	And congratulations!!!!!
-2023-05-01 00:27:44 <AnnieM>	You have to go first this time, Sara ;)
-2023-05-01 00:27:48 <Darth_Michael>	Congrats Sara and Annie and Kathy!
-2023-05-01 00:27:48 <KSaraSara>	gahhhh
-2023-05-01 00:27:48 <CRene>	Congrats.
-2023-05-01 00:27:48 *	KathyB hugs Sara really really tightly!!!!
-2023-05-01 00:27:51 <Songbird2>	Congrats Sara and Annie and Kathy!
-2023-05-01 00:27:53 <Sara>	Twiiiiiiinnnnnniiiiiiieeeeeee!!!! *Tackle hugs* 
-2023-05-01 00:28:00 <bakasi>	Congrats
-2023-05-01 00:28:57 <bakasi>	Have fun. I'll bow out now. Houdini needs to go for a walk and I need to catch up on some sleep.
-2023-05-01 00:29:17 *	bakasi has quit (Quit: https://mibbit.com Online IRC Client)
-2023-05-01 00:29:21 *	Darth_Michael KSaraSara was stuffing the ballot!
-2023-05-01 00:29:39 <Darth_Michael>	*JK*
-2023-05-01 00:29:47 <Doranwen>	LOL
-2023-05-01 00:29:55 <KathyB>	LOL, she was competing against herself ... and won!
-2023-05-01 00:30:22 <KathyB>	Proof of a stand out story <3
-2023-05-01 00:30:30 <Bek>	Such a good story!!!!
-2023-05-01 00:31:24 <Sara>	It was a fantastic story!! Well deserved!
-2023-05-01 00:31:32 <Darth_Michael>	all in good humor and acceptance speeches are exempt!
-2023-05-01 00:31:34 <Sara>	Both of you/all three?
-2023-05-01 00:31:34 <KathyB>	Proud of you, Sara!
-2023-05-01 00:31:46 <KathyB>	Other Sara haha
-2023-05-01 00:31:54 <KSaraSara>	gahhhhhhhhhh
-2023-05-01 00:31:58 *	KSaraSara cries
-2023-05-01 00:32:01 <KathyB>	(Not that I'm not proud of you, too, Sara, haha)
-2023-05-01 00:32:14 <Darth_Michael>	great speech!
-2023-05-01 00:32:19 <KSaraSara>	Thank you, everyone!!! *cries some more*
-2023-05-01 00:32:27 <Demi2>	I'll be off to bed too, have fun everyone!
-2023-05-01 00:32:33 *	Demi2 has quit (Quit: https://mibbit.com Online IRC Client)
-2023-05-01 00:32:44 <Darth_Michael>	bye Demi!
-2023-05-01 00:32:57 <Sara>	Ha ha! Too many Sara's lol
-2023-05-01 00:33:10 <Doranwen>	Truth
-2023-05-01 00:33:12 <KSaraSara>	Hee hee
-2023-05-01 00:33:39 <KSaraSara>	gahh... I'm not presenting next again, am I? The screen is legit blurry...
-2023-05-01 00:33:45 <Doranwen>	It does seem to be a pattern, and yes, you are :)
-2023-05-01 00:33:48 <KSaraSara>	gahh
-2023-05-01 00:33:50 <Darth_Michael>	they're easy to distinguish. one's the one who wins all the Kerths. the other...no, wait...
-2023-05-01 00:33:52 <AnnieM>	dry your eyes, Sara! time to present!
-2023-05-01 00:33:56 <Doranwen>	You win, and then you have to present, lol.
-2023-05-01 00:34:04 <Darth_Michael>	it's a rule!
-2023-05-01 00:34:08 <Darth_Michael>	Annie says so
-2023-05-01 00:34:18 <AnnieM>	haha yes, that's the pattern!
-2023-05-01 00:34:18 <KSaraSara>	LOL! haha
-2023-05-01 00:34:46 <AnnaBtG>	Congrats to Sara and Annie and Kathy! Sorry, was afk for a bit
-2023-05-01 00:34:58 <AnnaBtG>	But good job, all of you! <3
-2023-05-01 00:35:10 <KSaraSara>	(Thank goodness it's pasting... I can't type... lol)
-2023-05-01 00:35:14 <AnnieM>	I'm so excited for these new categories!
-2023-05-01 00:35:43 <KathyB>	me too!
-2023-05-01 00:36:00 <KathyB>	I love fan art, and especially music videos, so I'm thrilled we added this category 
-2023-05-01 00:36:27 <KathyB>	Yay!
-2023-05-01 00:36:34 <Bek>	Congrats!!
-2023-05-01 00:36:36 <KathyB>	Well deserved, Sara! Great job!
-2023-05-01 00:36:40 <Doranwen>	Congrats!
-2023-05-01 00:36:44 <Darth_Michael>	Congratulations Sara! (the other one)
-2023-05-01 00:36:44 <CRene>	Congrats
-2023-05-01 00:36:52 <AnnaBtG>	Yay Sara!! Loved this video!
-2023-05-01 00:37:00 <AnnieM>	Hooray! Congrats, Sara! Well deserved. That video was awesome.
-2023-05-01 00:37:13 <Songbird2>	Congrats Sara! Great job! Your vid was beautiful! 
-2023-05-01 00:37:16 <KSaraSara>	YAY TWINNIE!!!
-2023-05-01 00:37:21 <Doranwen>	Sort of in time, lol.  There's all the *other* categories you won as well… <g>
-2023-05-01 00:37:39 <KathyB>	Speech! Speech!
-2023-05-01 00:39:57 <Darth_Michael>	hear hear!
-2023-05-01 00:40:14 <KSaraSara>	Yes!! Agreed!!
-2023-05-01 00:40:27 *	Doranwen gives thumbs up
-2023-05-01 00:41:01 <Sara>	Lol that was the best I could do as I was braiding Kira's hair at the same time lol
-2023-05-01 00:41:01 <KSaraSara>	Awww yep!! Great speech!
-2023-05-01 00:41:19 <AnnieM>	Seriously, feedback is absolutely critical for writers
-2023-05-01 00:41:25 <Doranwen>	Amen!
-2023-05-01 00:41:36 <Doranwen>	I've got some fics written that *only* happened because I had an alpha reader to help out.
-2023-05-01 00:41:46 <Doranwen>	And others that haven't been finished due to the lack of one.
-2023-05-01 00:41:54 <KSaraSara>	Yes, hear hear! May this category encourage more people! :D
-2023-05-01 00:43:35 <Darth_Michael>	Congratulations, Sara!
-2023-05-01 00:43:40 <Doranwen>	Congratulations!
-2023-05-01 00:43:41 *	Darth_Michael shoves Sara up to stage
-2023-05-01 00:43:42 <KSaraSara>	What???
-2023-05-01 00:43:42 <KSaraSara>	What???
-2023-05-01 00:43:43 <Bek>	Congrats!!!
-2023-05-01 00:43:46 <KathyB>	Yay! Congratulations KSaraSara!
-2023-05-01 00:43:48 <Toomi>	Congrats!
-2023-05-01 00:43:54 <KSaraSara>	Lol I didn't mean to type twice!
-2023-05-01 00:43:54 <Songbird2>	Congrats Sara!!!
-2023-05-01 00:44:04 <Doranwen>	It seemed natural XD
-2023-05-01 00:44:13 <Toomi>	Out of all of the categories, I think this might have been the hardest to vote for.
-2023-05-01 00:44:22 <AnnieM>	Totally deserved! I treasure the feedback files you've sent me over the years!
-2023-05-01 00:45:07 <Doranwen>	Speech! ;p
-2023-05-01 00:45:29 <Darth_Michael>	yeah, when she dug up my Dare and mentioned Feels that was so awesome!
-2023-05-01 00:45:31 <Bek>	Without your encouragement, I'd still be lurking...! Very well deserved! Thank you KSaraSara!
-2023-05-01 00:45:49 <AnnaBtG>	@Toomi: definitely!! I was so conflicted!!
-2023-05-01 00:46:02 <Bek>	And congrats again!
-2023-05-01 00:46:57 *	Darth_Michael hangs on by a thread, waiting for the cliffhanger to resolve
-2023-05-01 00:47:19 <KathyB>	LOL!
-2023-05-01 00:47:35 *	Darth_Michael wonders if Tempus might find it ironic that the best commenter just lost her comments
-2023-05-01 00:47:39 <KathyB>	Sure, sure, you're just hoping Superman will come by to save you
-2023-05-01 00:47:52 <KSaraSara>	LOL!!
-2023-05-01 00:47:53 <Doranwen>	LOL
-2023-05-01 00:48:01 <KathyB>	LOL
-2023-05-01 00:48:17 <Darth_Michael>	@Kathy: I'm with Jimmy on that one and wait for Ultra Woman :D
-2023-05-01 00:48:18 *	Sara has quit (Quit: https://mibbit.com Online IRC Client)
-2023-05-01 00:49:10 *	Darth_Michael looks shifty
-2023-05-01 00:49:26 <AnnaBtG>	I know from experience that even being nominated in such a category is mostly about "no, thank YOU guys for writing all this fic for me to comment on" :D
-2023-05-01 00:50:06 <AnnaBtG>	It's such a love letter to the fandom, this category :)
-2023-05-01 00:50:25 <KSaraSara>	Anna: you're so right! 
-2023-05-01 00:51:10 *	AnnaBtG glomps Sara!!!
-2023-05-01 00:51:14 <AnnaBtG>	Congrats!!!
-2023-05-01 00:51:17 <KSaraSara>	awwwwwwww
-2023-05-01 00:51:18 *	Doranwen giggles at "questionable browser histories"
-2023-05-01 00:51:21 *	KSaraSara hugs her fandom
-2023-05-01 00:51:45 <CRene>	Congrats, Sara.  Well deserved
-2023-05-01 00:51:51 <Darth_Michael>	someone once mentioend that they wonder when the FBI will come knocking
-2023-05-01 00:51:56 <AnnaBtG>	Hahahah I lol'd at that too!
-2023-05-01 00:52:04 <AnnieM>	It's so true!
-2023-05-01 00:52:24 <AnnieM>	I always want to add THIS IS FOR A STORY to my google searches ;)
-2023-05-01 00:52:35 <KSaraSara>	Lol Annie, right?
-2023-05-01 00:52:50 <Darth_Michael>	Congrats Annie and Kathy!
-2023-05-01 00:52:50 <KSaraSara>	Ahhhh! No surprise and well deserved!!!
-2023-05-01 00:52:50 <Doranwen>	Given the other winners, I'm not surprised by this one, lol.
-2023-05-01 00:52:59 <Bek>	Congrats!!
-2023-05-01 00:53:01 <KathyB>	oh wow!!
-2023-05-01 00:53:02 <Songbird2>	Congrats Annie and Kathy!!! 
-2023-05-01 00:53:05 <Doranwen>	Congratulations!
-2023-05-01 00:53:40 <Toomi>	Congratulations!
-2023-05-01 00:53:43 <Toomi>	This has been fantastic! 
-2023-05-01 00:53:44 <AnnaBtG>	Congrats Annie and Kathy!!
-2023-05-01 00:54:00 <Toomi>	But I now have to run away to work :(
-2023-05-01 00:54:02 <AnnaBtG>	Did this story even lose any categories?
-2023-05-01 00:54:48 <KSaraSara>	Bye Toomi!! So glad you could join! And congrats!!
-2023-05-01 00:54:56 <KSaraSara>	Anna: I think it won everything it was nommed in!
-2023-05-01 00:55:19 <Doranwen>	Yeah, I think so!
-2023-05-01 00:55:20 <Toomi>	Thank you :D I'll be on cloud nine all night!
-2023-05-01 00:55:24 *	Toomi (Mibbit@cloak-71D871AA.cg.shawcable.net) has left
-2023-05-01 00:55:26 <Doranwen>	I just scrolled up to check that.
-2023-05-01 00:55:57 <AnnaBtG>	Such a well-deserved winner! <3
-2023-05-01 00:56:54 <KSaraSara>	Gahhhhh! It's definitely a happy place!! I read parts over and over again...and I have a playlist for WTHW lol
-2023-05-01 00:59:26 <KSaraSara>	GAHHH how has it been 25 years of Kerths???
-2023-05-01 00:59:58 <Doranwen>	If anyone's feeling nostalgic about IRC, I did open a #loisclark channel on Slashnet if someone feels like chatting old-style once in a while. :)
-2023-05-01 01:00:38 <Doranwen>	I'm always on IRC so it's not any trouble to lurk in there.  Just say my nick and I'll see it when I get back to the comp, if I'm not there then. :)
-2023-05-01 01:01:09 <KathyB>	Thanks everyone!! This was truly an honor, to be able to be here again, over the course of 25 years!
-2023-05-01 01:01:40 <KSaraSara>	Yes, so amazing to be here again!
-2023-05-01 01:01:55 *	Voice_Jockey (~Voice@EE219F3D.4377EDD2.D2A17E17.IP) has left (Leaving)
-2023-05-01 01:02:20 <Songbird2>	WTHW is also my happy place. Thanks Annie and Kathy for bringing so much joy to my life, when I desperately needed it. I'm looking fore
-2023-05-01 01:02:31 <AnnaBtG>	I haven't been here for the full 25 years but it's staggering to even think about!
-2023-05-01 01:02:33 <Songbird2>	I'm looking forward to the third story.
-2023-05-01 01:03:43 <AnnieM>	I'm hoping all this excitement gets me motivated to work on the third story!
-2023-05-01 01:04:43 <Darth_Michael>	the true reason for getting 8? wins - incentive!
-2023-05-01 01:06:23 <Darth_Michael>	Thanks to all who attended, voted, and are generally around for all the merriment. 
-2023-05-01 01:06:29 <KSaraSara>	Yes! Right, Michael! lol
-2023-05-01 01:06:31 <Darth_Michael>	it's been a blast
-2023-05-01 01:07:11 <KSaraSara>	I'm off to take a short break and then I'll be on Discord :)
-2023-05-01 01:07:14 <Doranwen>	It's motivating me to work more on projects - and then use these fics as my motivation for in between chunks of projects, lol.
-2023-05-01 01:07:34 <KSaraSara>	Thanks again, everyone! I'm so happy we had a successful ceremony and Kerth season!!
-2023-05-01 01:08:02 *	KSaraSara has quit (Quit: Leaving)
-2023-05-01 01:08:10 *	CRene has quit (Quit: https://mibbit.com Online IRC Client)
-2023-05-01 01:10:21 <Meadowlark>	Great job, Kerth Comm!  And a big THANKS to all the writers!
-2023-05-01 01:11:06 *	Meadowlark (Mibbit@cloak-C85C35F7.mobile.att.net) has left
-2023-05-01 01:12:52 *	KathyB has quit (Quit: https://mibbit.com Online IRC Client)
-2023-05-01 01:15:33 *	AnnieM has quit (Quit: https://mibbit.com Online IRC Client)
-2023-05-01 01:16:06 <Songbird2>	Thanks to everyone who wrote stories last year and to everyone who worked so hard to put on the Kertg Awards! 
-2023-05-01 01:16:32 <Songbird2>	Kerth not Kertg. 
-2023-05-01 01:17:00 *	Songbird2 has quit (Quit: https://mibbit.com Online IRC Client)
-2023-05-01 01:23:54 *	Bek has quit (Quit: Leaving)
-2023-05-01 02:10:46 *	Disconnected ()
+2023-04-30 19:40:00 *	Now talking on #kerthchat
+2023-04-30 19:41:57 <Meadowlark>	Hi!  I am new to Mibbit.  Could someone please tell me how to start a Log of this?
+2023-04-30 19:46:34 <KathyB>	Hello everyone! We're so glad to see you here!
+2023-04-30 19:47:01 <KSaraSara>	I'm not sure how to start a log on Mibbit! But we do have two people logging and will have a side-by-side transcript available after the ceremony!
+2023-04-30 19:47:17 <KathyB>	Meadowlark, hopefully someone will figure it out! This is a blast from the past, alright!
+2023-04-30 19:48:06 <AnnieM>	T-13 minutes until the ceremony starts! Does everyone have their drink/snack/etc ready?!
+2023-04-30 19:48:10 <Meadowlark>	Ok, a Transcript would great.  
+2023-04-30 19:49:01 <AnnieM>	The side by side transcripts are great because you can see the chat room reactions along with the ceremony
+2023-04-30 19:49:15 <KSaraSara>	... I'm still drinking my coffee... thanks to my thermal mug... it's still got a touch of warmth to it lol
+2023-04-30 19:49:17 *	CRene (Mibbit@cloak-ABC2EF5A.nc.res.rr.com) has joined
+2023-04-30 19:51:18 <Meadowlark>	Think I found part of the logging.  If you are logged in, at the top right open "Prefs", then General tab, there is a check box. The opt to Save must be somewhere else.
+2023-04-30 19:53:41 <Meadowlark>	It's nice to have this back on IRC.  I haven't been here is a long time.
+2023-04-30 19:54:00 <KSaraSara>	Same here! It's a blast from the past! 
+2023-04-30 19:54:05 <Doranwen>	I love IRC. :D
+2023-04-30 19:54:05 <KathyB>	Ah, that's probably why I don't see it. I'm not logged in. Gosh, this really takes me back!
+2023-04-30 19:54:34 <Doranwen>	I'm on it a lot these days keeping an eye on ArchiveTeam stuff, but most of fandom has sadly moved to other pastures.
+2023-04-30 19:54:52 <AnnieM>	It's been a solid 20 years since I was on IRC. Definitely a blast from the past.
+2023-04-30 19:55:27 <KSaraSara>	But surely we're not that old?? LOL
+2023-04-30 19:56:13 <AnnaBtG>	@KSaraSara: we definitely don't look it! 😁
+2023-04-30 19:56:25 <AnnaBtG>	(speaking of which, how does my emoji look?)
+2023-04-30 19:56:31 <Doranwen>	AnnaBtG: Super tiny and hard to read.
+2023-04-30 19:56:54 <AnnaBtG>	I took it from the keyboard 
+2023-04-30 19:57:03 <Meadowlark>	So some of you have been around here for a long time.  Before this starts, can I share some sad news?  Don't want to be a downner.
+2023-04-30 19:57:07 <Doranwen>	It's too small to show the amount of detail necessary to identify.  I'd recommend sticking with the text-based emoticons.
+2023-04-30 19:57:55 <AnnaBtG>	@Meadowlark: sounds like something we'd be interested in hearing nevertheless 
+2023-04-30 19:58:01 <Meadowlark>	If you don't already know this, we lost ChrisPat in December of 2022.
+2023-04-30 19:58:18 <Meadowlark>	This was posted on the older MBs.
+2023-04-30 19:58:30 *	SB (Mibbit@cloak-BE5DFB2A.socal.res.rr.com) has joined
+2023-04-30 19:59:21 *	SB has quit (Quit: SB)
+2023-04-30 19:59:22 <AnnaBtG>	I didn't know! So sorry to hear it :(
+2023-04-30 20:00:24 *	Demi2 has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 20:01:01 <KSaraSara>	Oh no! I remember I actually got to meet her in... 2002, the only LAFF I went to
+2023-04-30 20:01:20 <AnnieM>	Oh, I remember ChrisPat. That's too bad. Thanks for letting us know.
+2023-04-30 20:01:20 *	Blueowl (Mibbit@496E62E.29FD92D1.E449F2C6.IP) has joined
+2023-04-30 20:01:22 *	Songbird2 (Mibbit@cloak-BE5DFB2A.socal.res.rr.com) has joined
+2023-04-30 20:02:44 <Meadowlark>	Think the news was posted by Widget aka Lori Lane
+2023-04-30 20:02:48 <Doranwen>	It looks like the only nick that's in #kerthawards but not here is Demi.
+2023-04-30 20:03:57 <Darth_Michael>	IMPORTANT SERVICE ANNOUNCEMENT: Please don't drink while I do my presentations. I will not be once again held accountable for coffeedamaged phones and laptops.
+2023-04-30 20:04:08 <Doranwen>	ROFL
+2023-04-30 20:04:09 <KSaraSara>	HAHA!!
+2023-04-30 20:04:29 <Songbird2>	LOL
+2023-04-30 20:04:44 <Bek>	LOL!
+2023-04-30 20:04:57 <KSaraSara>	@Meadowlark--thanks for letting us know. Sorry to hear the news. :(
+2023-04-30 20:04:57 <Doranwen>	<g>  Duly noted.
+2023-04-30 20:05:26 <Meadowlark>	Guess things have changed.  Drinking used to be a major activity during the Kerths.  
+2023-04-30 20:05:57 <KSaraSara>	Oh, we'll still drink... just... beware you may do a spittake while Michael is presenting lol
+2023-04-30 20:05:57 *	Blueowl has quit (Quit: Blueowl)
+2023-04-30 20:06:05 <Doranwen>	I only drink water, but water damage is not a great thing either, lol.
+2023-04-30 20:06:19 <KathyB>	Alright, here we go!
+2023-04-30 20:06:22 *	Blueowl (Mibbit@496E62E.29FD92D1.E449F2C6.IP) has joined
+2023-04-30 20:06:36 <KathyB>	If you're not in #kerthawards, this is the time to join )
+2023-04-30 20:06:58 <Darth_Michael>	Thanks @Meadowlark. We actually have an In Memoriam page on the Archive: http://www.lcfanfic.com/memoriam.html If you mail Lauren via the official mail, I'm sure she'll add a note :/
+2023-04-30 20:07:08 <Doranwen>	Everyone here is in #kerthawards, though the converse isn't true.
+2023-04-30 20:07:47 *	bakasi (Mibbit@cloak-6EBA0717.dip0.t-ipconnect.de) has joined
+2023-04-30 20:07:49 <AnnaBtG>	Maybe someone could private message those who aren't?
+2023-04-30 20:08:02 <AnnaBtG>	Though maybe they just don't want to get overwhelmed 
+2023-04-30 20:08:28 *	Blueowl_ (Mibbit@496E62E.29FD92D1.E449F2C6.IP) has joined
+2023-04-30 20:09:43 *	Doranwen applauds all past and present committee members
+2023-04-30 20:09:49 <AnnaBtG>	Thank you everyone!!!
+2023-04-30 20:09:54 *	KSaraSara claps
+2023-04-30 20:09:58 *	Toomi (Mibbit@cloak-71D871AA.cg.shawcable.net) has joined
+2023-04-30 20:10:08 <AnnieM>	I still can't believe this is our 25th anniversary! 
+2023-04-30 20:10:10 <Blueowl_>	^_^
+2023-04-30 20:10:21 <KSaraSara>	Right? I love this fandom so much!
+2023-04-30 20:10:25 *	Meadowlark Applauds KathyB's intro!
+2023-04-30 20:10:29 <Songbird2>	Thank you everyone! 25 years is amazing!
+2023-04-30 20:10:37 <KSaraSara>	LOL OMG Kathy...
+2023-04-30 20:10:56 <AnnieM>	LOL. No more Kerth babies!
+2023-04-30 20:11:01 <KSaraSara>	Hahaha 
+2023-04-30 20:11:04 <Bek>	Oh my...!
+2023-04-30 20:11:16 <AnnaBtG>	Not for Kathy, at least ;)
+2023-04-30 20:11:27 <Doranwen>	Lol, I'd almost forgotten about that one…
+2023-04-30 20:11:30 *	Blueowl has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 20:11:34 *	KSaraSara giggles
+2023-04-30 20:12:09 <Blueowl_>	Certainly memorable I imagine.
+2023-04-30 20:12:26 *	Voice_Jockey gives channel operator status to AnnieM
+2023-04-30 20:13:07 <Doranwen>	Well, by the time I was around it was just an in-joke I learned about.
+2023-04-30 20:13:12 <Doranwen>	I think I wasn't there for the actual experience.
+2023-04-30 20:13:13 <KSaraSara>	I think Erin... or was it Pam had one too??
+2023-04-30 20:13:34 <Toomi>	Was there something about the Kerth's that induced labour?
+2023-04-30 20:13:37 *	Demi2 (Mibbit@cloak-6C230D3E.dynamic.kabel-deutschland.de) has joined
+2023-04-30 20:13:48 <Doranwen>	Rofl
+2023-04-30 20:13:49 <Bek>	LOL
+2023-04-30 20:13:53 <KathyB>	LOL!
+2023-04-30 20:13:57 <Songbird2>	LOL!
+2023-04-30 20:13:59 <KSaraSara>	@Toomi, that was the joke considering the coincidences lol
+2023-04-30 20:14:14 <KSaraSara>	LOL @Annie!
+2023-04-30 20:14:18 <KathyB>	Yes, all three of us on the committee had multiple babies all in March/April, right during Kerth season
+2023-04-30 20:14:22 <KathyB>	It was WILD!
+2023-04-30 20:14:34 <Blueowl_>	Something in the fics?
+2023-04-30 20:14:39 <KSaraSara>	Hahaha!
+2023-04-30 20:15:19 <Meadowlark>	Nah.  Something in the nfics  ;-)
+2023-04-30 20:15:26 <Doranwen>	Lol
+2023-04-30 20:15:27 <KathyB>	LOL!
+2023-04-30 20:15:31 <KSaraSara>	LOL!
+2023-04-30 20:16:04 <bakasi>	Maybe we should check which were posted nine months prior. They're bound to be good
+2023-04-30 20:16:14 <KSaraSara>	Haha!
+2023-04-30 20:16:29 <KSaraSara>	CONGRATS, Val!! 
+2023-04-30 20:16:30 <Darth_Michael>	Congratulations, Val!
+2023-04-30 20:16:33 <KathyB>	Yay, congratulations!
+2023-04-30 20:16:38 <Bek>	Congrats!
+2023-04-30 20:16:40 <Doranwen>	Are they in here?
+2023-04-30 20:16:40 <KathyB>	Such a great story!
+2023-04-30 20:16:42 <AnnaBtG>	Congratulations Val! Too bad she's not here
+2023-04-30 20:16:45 <Blueowl_>	Congrats!
+2023-04-30 20:16:46 <Demi2>	Congrats Val
+2023-04-30 20:16:47 <KathyB>	I do'nt believe so
+2023-04-30 20:16:57 <Songbird2>	Congrats Val!
+2023-04-30 20:17:00 <Doranwen>	OK, good, if someone has a wildly different nick you'll have to let me know, I'll be like who???? lol
+2023-04-30 20:17:00 <KSaraSara>	But she can read the transcript! So congratulate away!
+2023-04-30 20:17:16 <CRene>	Congrats, Val.
+2023-04-30 20:17:45 <AnnieM>	Congrats, Val!
+2023-04-30 20:17:45 <Doranwen>	Also, whoops, sorry AnnaBtG, I'm getting ahead of myself.  Got distracted and forgot where we were. <sg>
+2023-04-30 20:18:14 *	Demi (Mibbit@cloak-6C230D3E.dynamic.kabel-deutschland.de) has joined
+2023-04-30 20:18:23 <bakasi>	Congrats, Val
+2023-04-30 20:18:33 <Doranwen>	25 years is a long time in fandom…
+2023-04-30 20:18:41 <KSaraSara>	Totally! 
+2023-04-30 20:18:50 <Doranwen>	There are fandoms that have completely imploded after far less time than that.
+2023-04-30 20:19:13 <KSaraSara>	Haha... oh... I remember printing reams worth of fic...
+2023-04-30 20:19:27 <Bek>	Ack, me too!
+2023-04-30 20:19:30 <Doranwen>	I printed fic too!  Mostly LOTR, but some for Misty and Tamora Pierce, I recall.
+2023-04-30 20:19:31 <KathyB>	Oh gosh yes! 
+2023-04-30 20:19:31 <AnnieM>	saaaame!
+2023-04-30 20:19:34 <KathyB>	So much paper!!
+2023-04-30 20:19:40 <KathyB>	so I could take it with me on the road
+2023-04-30 20:19:41 <KSaraSara>	Hahah I think I still have some!
+2023-04-30 20:19:41 *	Doranwen still has her fic binders stashed on a shelf somewhere.
+2023-04-30 20:19:59 <Doranwen>	One of the ones up to my right somewhere.
+2023-04-30 20:20:05 *	KSaraSara throws more Clarkie bears...
+2023-04-30 20:20:10 <AnnieM>	There was a brief period where I had no internet in my apartment, and I used to go to the library computer lab at my university and print of stacks of fic to read every night
+2023-04-30 20:20:21 <KathyB>	omg I love that
+2023-04-30 20:20:31 <Bek>	LOL
+2023-04-30 20:20:40 <KathyB>	poor university printer paper supplier. They had no idea why it kept disappearing overnight 
+2023-04-30 20:20:43 <KSaraSara>	LOL
+2023-04-30 20:20:45 <AnnieM>	The day I finally got my internet hooked up in my apartment, I think I stayed up all night binge reading
+2023-04-30 20:20:56 <Toomi>	I was in junior high when this show was on. We had to write a short story placing us as the main character and one girl in my English class wrote about Superman saving her and then had to read it in class.
+2023-04-30 20:21:00 <AnnaBtG>	@KathyB: lol!
+2023-04-30 20:21:04 <KSaraSara>	Good boy, Houdini!
+2023-04-30 20:21:07 <CRene>	Once I printed up a series of stories I wrote and sent them to a friend for Christmas.  
+2023-04-30 20:21:09 <KathyB>	LOL, love that Houdini! Glad he made it ;) 
+2023-04-30 20:21:27 <KSaraSara>	HAHA nice segue to Claude! LOL
+2023-04-30 20:21:28 <Doranwen>	Lol
+2023-04-30 20:21:38 *	Doranwen snickers at the labor jokes
+2023-04-30 20:21:42 <KathyB>	LOL
+2023-04-30 20:21:45 <KSaraSara>	LOL!
+2023-04-30 20:22:28 <KSaraSara>	Awww lovely segues! And lol
+2023-04-30 20:22:31 <Doranwen>	Hehe
+2023-04-30 20:22:47 <KathyB>	LOL, at least our Lana is nice, right Annie?
+2023-04-30 20:22:56 <KathyB>	Not like that OTHER Lana ;) 
+2023-04-30 20:23:05 *	Doranwen snerks
+2023-04-30 20:23:17 <KSaraSara>	OMG Bek and I almost ... hate how much you made us love Lana! lol
+2023-04-30 20:23:21 <Bek>	The ONLY Lana I've ever liked....
+2023-04-30 20:23:30 <KathyB>	LOL Sara
+2023-04-30 20:23:36 <bakasi>	Houdini quite enjoys the treat. Thanks
+2023-04-30 20:23:57 <KathyB>	oh wow1
+2023-04-30 20:23:58 <KSaraSara>	YAY!!!!
+2023-04-30 20:23:59 <KathyB>	!!
+2023-04-30 20:24:08 <KSaraSara>	Congrats, you two!!!
+2023-04-30 20:24:10 <Bek>	Congrats!!
+2023-04-30 20:24:12 *	Doranwen applauds after giggling at the envelope delay
+2023-04-30 20:24:12 <bakasi>	Congrats!
+2023-04-30 20:24:20 <Blueowl_>	Congrats :)
+2023-04-30 20:24:27 <AnnaBtG>	Congratulations Annie and Kathy!!!
+2023-04-30 20:24:40 <Songbird2>	Yay! Congrats Annie and Kathy!
+2023-04-30 20:24:47 <CRene>	Congratulations, ladies.
+2023-04-30 20:25:03 <Meadowlark>	That is a great version of Lana.
+2023-04-30 20:25:28 <Songbird2>	I love this version of Lana!
+2023-04-30 20:25:31 <KSaraSara>	Totally! This Lana is so amazing!
+2023-04-30 20:25:43 <bakasi>	Better than the show's Lana, that's for sure
+2023-04-30 20:26:06 <Demi2>	Congrats
+2023-04-30 20:26:34 *	Songbird2 has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 20:26:47 <Darth_Michael>	LOL
+2023-04-30 20:27:03 <KathyB>	cough Tea Totaled cough
+2023-04-30 20:27:05 <KathyB>	;)
+2023-04-30 20:27:13 <Doranwen>	Lol
+2023-04-30 20:28:02 *	KSaraSara has quit (Quit: Leaving)
+2023-04-30 20:28:39 <Doranwen>	AnnaBtG:  You should be good to speak. :)
+2023-04-30 20:28:55 <altSara>	Oh good grief… that was NOT the x to hit…
+2023-04-30 20:29:04 <Bek>	Yikes!
+2023-04-30 20:29:06 <AnnieM>	hahaha whoops
+2023-04-30 20:29:07 <Doranwen>	Lol, I did wonder what happened…
+2023-04-30 20:29:25 <KathyB>	LOL
+2023-04-30 20:29:31 <KathyB>	hopefully we haven't lost Anna in the same way?
+2023-04-30 20:29:44 <KathyB>	oh good! There she is!
+2023-04-30 20:29:44 <Doranwen>	Ah, Google docs, gotta love them...
+2023-04-30 20:29:52 *	KSaraSara (~sara@cloak-D8945C1D.hsd1.nm.comcast.net) has joined
+2023-04-30 20:30:04 *	Voice_Jockey gives channel operator status to KSaraSara
+2023-04-30 20:30:17 <KSaraSara>	oy... lol
+2023-04-30 20:30:21 <Doranwen>	LOL
+2023-04-30 20:30:25 <Bek>	LOL
+2023-04-30 20:30:53 *	Songbird2 (Mibbit@cloak-BE5DFB2A.socal.res.rr.com) has joined
+2023-04-30 20:30:55 <Doranwen>	LOL, I'm betting that wasn't the combo you wanted to hit either.
+2023-04-30 20:31:08 <Doranwen>	The joys of better living through technology.
+2023-04-30 20:31:50 <Meadowlark>	It wouldn't be a Kerths without technical difficulties.
+2023-04-30 20:31:54 <Doranwen>	Precisely!
+2023-04-30 20:32:02 <KathyB>	LOL very true!
+2023-04-30 20:32:05 <KSaraSara>	Haha nope, especially since it's been decades for all of us!
+2023-04-30 20:32:13 <KathyB>	LOL Anna
+2023-04-30 20:32:34 <KSaraSara>	Lol, nice save ;)
+2023-04-30 20:32:53 <KathyB>	yes, as if the nerves of doing a LIVE ceremony aren't enough, we have to deal with our IRC nostalgia 
+2023-04-30 20:32:56 <AnnieM>	very smooth ;)
+2023-04-30 20:33:02 <KSaraSara>	haha
+2023-04-30 20:33:10 *	Darth_Michael must make sure to experience technical difficulties. Otherwise, I seem old...
+2023-04-30 20:33:13 <AnnieM>	Ah yes, this is the IRC I remember. Glitchy and confusing ;)
+2023-04-30 20:33:32 <KSaraSara>	@Michael... nah... you're the tech guy ;)
+2023-04-30 20:33:38 <KSaraSara>	Lol Annie!
+2023-04-30 20:33:39 <KathyB>	LOL! They do tend to kiss ... a lot ... hahhaha
+2023-04-30 20:33:41 <Darth_Michael>	There's entire fics written about them kissing
+2023-04-30 20:33:42 <AnnieM>	Do they ever!
+2023-04-30 20:33:43 <Darth_Michael>	just kissing
+2023-04-30 20:33:50 <KSaraSara>	Omg writing kissing is SOOOO HARD!
+2023-04-30 20:34:02 <AnnieM>	SO MANY BODY PARTS
+2023-04-30 20:34:07 <Doranwen>	Eh, it wasn't too hard in my one fic - but it was a lot of quick kisses, and the focus was on the different languages.  I don't write long in-depth kisses, period.
+2023-04-30 20:34:09 <KSaraSara>	LOL! Yes!
+2023-04-30 20:34:10 <KathyB>	So MANY!!!
+2023-04-30 20:34:12 <Blueowl_>	:* ;*
+2023-04-30 20:34:14 *	Darth_Michael eyes nKerths
+2023-04-30 20:34:23 <AnnieM>	So much cringing
+2023-04-30 20:34:23 <KathyB>	And then trying to keep it PG, ahem 
+2023-04-30 20:34:24 <KSaraSara>	Hahaha Michael
+2023-04-30 20:34:42 *	KSaraSara digs around for the fire emoji...
+2023-04-30 20:34:42 <Doranwen>	I can't imagine how hard it would be for anyone who does.
+2023-04-30 20:34:54 <AnnieM>	So much me messaging Kathy being like "This is so awkward, the readers will think I've never actually kissed anyone!"
+2023-04-30 20:35:05 <KSaraSara>	^ yup
+2023-04-30 20:35:28 <Darth_Michael>	just have Lois kiss Claude. that way, any cringe is due to the subject matter, not the presentaiton!
+2023-04-30 20:35:34 <Doranwen>	LOL
+2023-04-30 20:35:36 <Bek>	Ewwww
+2023-04-30 20:35:40 <KathyB>	LOL
+2023-04-30 20:35:49 <AnnieM>	noooooooo
+2023-04-30 20:35:51 <Blueowl_>	Writing romance is already hard for me, so kissing scenes.... I'm always so impressed when I read fics with great romance
+2023-04-30 20:36:01 <KSaraSara>	Noooooo boooo Claude
+2023-04-30 20:36:25 <AnnieM>	I love how many of these literally have Kiss in the title ;)
+2023-04-30 20:36:35 <KSaraSara>	haha
+2023-04-30 20:36:54 <bakasi>	Also, if you have many kisses, you can't use the same words all the time
+2023-04-30 20:36:59 <AnnieM>	YES
+2023-04-30 20:37:11 <Bek>	That's the real problem!
+2023-04-30 20:37:16 <AnnieM>	it's hard enough writing ONE kiss, let alone a story full of kisses that can't all be cut/paste
+2023-04-30 20:37:18 <Blueowl_>	yeah, very repetitive
+2023-04-30 20:37:47 <KathyB>	oh wow!!!
+2023-04-30 20:37:52 <Darth_Michael>	Congratulations you guys!
+2023-04-30 20:37:54 <KSaraSara>	Yay!!! SOOOOO many kisses in that one! lol
+2023-04-30 20:37:57 <KSaraSara>	Congrats!!!!
+2023-04-30 20:37:58 <Bek>	Congrats!
+2023-04-30 20:38:11 <Blueowl_>	Congrats!
+2023-04-30 20:38:12 <KSaraSara>	All that pining makes for good kissing later!!
+2023-04-30 20:38:14 *	bakasi applauds the winners
+2023-04-30 20:38:23 <Songbird2>	Congrats Annie & Kathy!!
+2023-04-30 20:38:46 <Demi2>	Congrats
+2023-04-30 20:39:05 <Meadowlark>	Congrats!  Am I the only one wondering which kiss won in this story?  Maybe it was all of them?
+2023-04-30 20:39:18 *	Doranwen applauds the winners
+2023-04-30 20:39:43 <KathyB>	LOL I was already planning to reread the story this week, and now I'm going to be paying extra attention to the kisses. Not that I can fully rmember which ones I wrote and which ones Annie did, haha
+2023-04-30 20:39:50 <Doranwen>	Lol
+2023-04-30 20:39:52 <KSaraSara>	ALL the kisses, I'm sure! LOL
+2023-04-30 20:40:10 <KSaraSara>	Speech!! ;)
+2023-04-30 20:40:17 <bakasi>	Yeah, the whole story was so great, it'd be hard to choose
+2023-04-30 20:40:24 <Blueowl_>	😙
+2023-04-30 20:40:47 <KSaraSara>	Gahhh! Yes, the chemistry is... off the charts!
+2023-04-30 20:41:41 <AnnaBtG>	Thanks for your patience, guys! And congrats Annie and Kathy!!
+2023-04-30 20:41:51 <Darth_Michael>	LOL
+2023-04-30 20:41:57 <Doranwen>	Lol
+2023-04-30 20:41:57 <Darth_Michael>	not so fast, missy!
+2023-04-30 20:42:04 <KSaraSara>	LOL!
+2023-04-30 20:42:20 *	Darth_Michael applauds
+2023-04-30 20:42:21 <AnnaBtG>	Believe me, writing a speech about the best kiss was about as hard as writing a kiss, lol xD
+2023-04-30 20:42:28 <Doranwen>	Haha
+2023-04-30 20:42:30 <KathyB>	Great speech Anna!
+2023-04-30 20:42:35 *	Meadowlark has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 20:42:42 *	Meadowlark (Mibbit@cloak-C85C35F7.mobile.att.net) has joined
+2023-04-30 20:42:51 *	Doranwen laughs
+2023-04-30 20:42:58 <KSaraSara>	Good job, Anna!!
+2023-04-30 20:43:09 <AnnaBtG>	Thank you!
+2023-04-30 20:43:33 <Darth_Michael>	you can read them as bedtime story for the little ones and grow the next gen of FoLC!
+2023-04-30 20:44:19 <AnnaBtG>	Short stories are the best! Much love!
+2023-04-30 20:44:56 <KathyB>	Congratulations, Bek!!
+2023-04-30 20:45:01 <Blueowl_>	Congrats Bek!
+2023-04-30 20:45:03 <Songbird2>	Congrats Bek!!!
+2023-04-30 20:45:03 <Darth_Michael>	Congratulations, Bek
+2023-04-30 20:45:09 <CRene>	Congrats, Bek
+2023-04-30 20:45:16 <AnnieM>	Congratulations, Bek! I loved this story
+2023-04-30 20:45:17 <KSaraSara>	CONGRATS, BEK!!! WOOO!
+2023-04-30 20:45:20 <bakasi>	Congratulations @Bek
+2023-04-30 20:45:26 <AnnaBtG>	Congrats Bek!! Such a great story!!
+2023-04-30 20:45:27 <Doranwen>	Congrats!
+2023-04-30 20:45:41 <KSaraSara>	SUCH a good revelation too and who can resist a snooping Lois? LOL
+2023-04-30 20:46:01 <Blueowl_>	No one.
+2023-04-30 20:46:24 <AnnieM>	yes! I love a good snoop
+2023-04-30 20:46:28 <Demi2>	Congrats
+2023-04-30 20:47:34 <Toomi>	*Catching up on the scroll* Woohoo! Congrats!
+2023-04-30 20:47:48 <Bek>	Eep! Thank you all!
+2023-04-30 20:49:31 <Darth_Michael>	live speech 
+2023-04-30 20:49:33 <Darth_Michael>	live speech!
+2023-04-30 20:49:34 <Darth_Michael>	FIXED SPECIAL CHARACTERS IN AWARDS CHANNEL TRANSCRIPT
+2023-04-30 20:49:39 <KSaraSara>	Whew...
+2023-04-30 20:50:06 <AnnaBtG>	Yay Jerseygrl!!
+2023-04-30 20:50:19 <Doranwen>	Oh, it's the special apostrophe that's doing the weird chars for me.  Anyone else seeing it oddly too?
+2023-04-30 20:50:43 <bakasi>	Me too
+2023-04-30 20:50:43 <AnnaBtG>	No?
+2023-04-30 20:50:50 <AnnaBtG>	But I'm on an app
+2023-04-30 20:50:55 <Darth_Michael>	yep, it's broken, even in the log
+2023-04-30 20:51:00 <Doranwen>	The curly apostrophe and quote marks don't show up right on my IRC, either.
+2023-04-30 20:51:01 <Darth_Michael>	need to fix that later on
+2023-04-30 20:51:03 <Demi2>	Me too
+2023-04-30 20:51:20 <AnnieM>	yeah, it's broken for me too. Weird. That seems like a pretty basic symbol that should translate
+2023-04-30 20:51:24 <Doranwen>	Guess that's a warning to all presenters - make sure whatever you're typing it in doesn't autoformat them.  We didn't test that…  Oops.
+2023-04-30 20:51:43 <Doranwen>	It's a specialty character, it's not the default one.  IRC has a more limited symbol set I think?  Not sure.
+2023-04-30 20:52:11 <AnnaBtG>	I wonder if that repeated pasting is Tempus messing with the timeline...
+2023-04-30 20:52:22 <Doranwen>	It does seem a likely explanation…
+2023-04-30 20:52:34 <KathyB>	LOL
+2023-04-30 20:52:53 <KathyB>	Luckily ,we can fix it in the transcript!
+2023-04-30 20:53:05 <KSaraSara>	... it's me... I mean.. yes...Tempus
+2023-04-30 20:53:13 <Doranwen>	Rofl
+2023-04-30 20:53:18 <bakasi>	Or there's a cat pounding on the laptop?
+2023-04-30 20:53:34 <bakasi>	In case I fail, I will claim Houdini is responsible
+2023-04-30 20:53:44 *	Darth_Michael eyes script
+2023-04-30 20:54:01 <Darth_Michael>	no, Cat is not pounding on the laptop. she's boffing on the copier
+2023-04-30 20:54:21 <Songbird2>	My cat disconnected me from the chat earlier. He's so helpful. 
+2023-04-30 20:54:29 <Doranwen>	Yeah, even the triple dot ellipsis doesn't show up right.  With IRC it's definitely best to avoid those specialty punctuation characters, I guess!  Now we know.
+2023-04-30 20:54:31 <Doranwen>	LOL bad kitty
+2023-04-30 20:54:48 <Songbird2>	Yes! 
+2023-04-30 20:55:17 <KSaraSara>	Yeah.... New interface for me... lol
+2023-04-30 20:55:23 <KSaraSara>	I didn't practice *hides* lol
+2023-04-30 20:55:47 <Bek>	Jerseygrl also writes a bunch of Superman and Lois fic too, on AO3 if anyone is interested!
+2023-04-30 20:56:02 <Darth_Michael>	actually a bunch of characters does work: “…”
+2023-04-30 20:56:11 <Doranwen>	Yeah, that's the funny thing, I've typed them before.
+2023-04-30 20:56:14 <KathyB>	That wasn't your fault, Sara ... none of us realized the smart quotes wouldn't paste right. 
+2023-04-30 20:56:18 <Doranwen>	So I wonder what happened with the pasting there?
+2023-04-30 20:56:31 <KSaraSara>	Oh, the pasting was totally my fault
+2023-04-30 20:56:34 <AnnieM>	I wonder if it's a specific font that is the problem
+2023-04-30 20:56:42 <Doranwen>	AnnieM: That's what I was thinking.
+2023-04-30 20:56:51 <Darth_Michael>	that's what Labby's pins are for
+2023-04-30 20:56:53 <KSaraSara>	The extra hard return at the end made it seem like my pasted hadn't made it to the text box... so... yep. 
+2023-04-30 20:57:23 <AnnieM>	SO many good challenge response stories this year! So many awesome challenges
+2023-04-30 20:57:23 <Doranwen>	Might be just that one font.  Either way, it isn't too hard to avoid now that we know it can behave problematically.
+2023-04-30 20:57:32 <Doranwen>	We just didn't know before this.
+2023-04-30 20:57:45 <KSaraSara>	I love that basaki wrote this for me and I'd been writing a rewrite of the same scene! LOL
+2023-04-30 20:57:53 <KathyB>	LOL
+2023-04-30 20:59:02 <AnnieM>	I can't even remember who I voted for in this category. I love them all.
+2023-04-30 20:59:20 <Bek>	All of these stories are amazing!
+2023-04-30 20:59:31 <KSaraSara>	Yes, they are!!
+2023-04-30 20:59:44 <Songbird2>	Yes, they are!
+2023-04-30 20:59:56 <bakasi>	I thought you deserved a nice story after reading my other WIP ;=
+2023-04-30 21:00:08 <KSaraSara>	Haha yes, so much angst there!!
+2023-04-30 21:00:24 <Blueowl_>	!!!
+2023-04-30 21:00:26 <Bek>	Congrats!!
+2023-04-30 21:00:29 <KathyB>	Congratulations!! I loved this story! So clever!
+2023-04-30 21:00:33 <KSaraSara>	Woooo!!! Congrats, Jess!!!
+2023-04-30 21:00:36 <bakasi>	Congrats Bluowl
+2023-04-30 21:00:42 <Toomi>	Yay! Congrats.
+2023-04-30 21:00:49 <Doranwen>	Congrats!
+2023-04-30 21:00:49 <KSaraSara>	I love the peek into the world through eyes of strangers! 
+2023-04-30 21:00:52 <AnnieM>	Congrats, Jess!
+2023-04-30 21:00:57 <Songbird2>	Congrats, Blueowl!
+2023-04-30 21:00:57 <KSaraSara>	So creative!!
+2023-04-30 21:01:23 <Blueowl_>	Thanks ^_^
+2023-04-30 21:01:40 <Meadowlark>	Truely a unique and fun story!  Even after 30 years.
+2023-04-30 21:01:46 <Demi2>	Congratulations 
+2023-04-30 21:02:03 <AnnieM>	yes, I love that we are still getting truly unique ideas after all this time!
+2023-04-30 21:02:10 <KSaraSara>	Yes, I love that we ... jinx to Annie lol
+2023-04-30 21:02:11 <AnnaBtG>	Congrats Jess!! I was so intrigued by this story!!
+2023-04-30 21:02:28 <Darth_Michael>	Congrats, BLueowl!
+2023-04-30 21:02:36 <KSaraSara>	Glad Sara's sock could show up! lol
+2023-04-30 21:02:49 <Doranwen>	Lol
+2023-04-30 21:03:10 <KathyB>	Now I'm wondering what color the sock is ... is it blue? is it red? It is argyle???
+2023-04-30 21:03:16 <Doranwen>	Rofl
+2023-04-30 21:03:21 <Bek>	LOL
+2023-04-30 21:03:34 <KathyB>	Oh wait, silly me ... it's blue AND red, with a superman crest on the ankle!
+2023-04-30 21:03:36 <KSaraSara>	LOL 
+2023-04-30 21:03:39 <Blueowl_>	Is it a knitted sock?
+2023-04-30 21:03:40 <AnnaBtG>	It's blue with an S, obviously!
+2023-04-30 21:03:42 <AnnieM>	I love how Sara managed to make her speech about Canada/Hockey. 
+2023-04-30 21:03:47 <AnnieM>	In true Sara fashion ;)
+2023-04-30 21:03:50 <Doranwen>	AnnieM: Saaaaame…
+2023-04-30 21:04:01 <KSaraSara>	Oh, Canadians ;)
+2023-04-30 21:04:15 <KathyB>	LOL yes
+2023-04-30 21:04:41 <KathyB>	It's her thing! The way mine used to be working a bathroom scene into every nfic LOL
+2023-04-30 21:04:46 <Bek>	Congrats!
+2023-04-30 21:04:50 <KSaraSara>	Yay!!!!! Gahhh! It was SUUUUUUUCH a good revelation!!
+2023-04-30 21:04:53 <AnnaBtG>	Go girls!! Sweeping the awards tonight!!
+2023-04-30 21:04:58 <KathyB>	oh wow oh wow
+2023-04-30 21:05:06 <Toomi>	What's that about Canadians?
+2023-04-30 21:05:07 <Demi2>	Congrats again
+2023-04-30 21:05:09 <Darth_Michael>	Congratulations to the Trouble Twins!
+2023-04-30 21:05:11 <Doranwen>	Congrats!
+2023-04-30 21:05:11 <KSaraSara>	Kathy: LOL! I didn't realize that was a thing for you lol
+2023-04-30 21:05:13 <Doranwen>	Toomi: LOL
+2023-04-30 21:05:14 <bakasi>	No surprise there. Congrats you two
+2023-04-30 21:05:20 <Blueowl_>	Congrats! 
+2023-04-30 21:05:23 <Toomi>	We're not *all* Maple Leafs fans...
+2023-04-30 21:05:29 <KSaraSara>	Toomi: all the love, that's what lol
+2023-04-30 21:06:02 <Toomi>	All the love back :)
+2023-04-30 21:06:46 <AnnieM>	omg yes, the bathroom scenes. I'm cracking up.
+2023-04-30 21:07:04 <KathyB>	OMG did I not do it in WTHW????
+2023-04-30 21:07:13 <KathyB>	See, we have to write the third part, just so I can do that 
+2023-04-30 21:07:40 <Songbird2>	Yes, the third part! I can't wait!
+2023-04-30 21:07:46 <Bek>	There definitely does need to be a third part!
+2023-04-30 21:07:59 <Meadowlark>	KathyB, that is a great idea!
+2023-04-30 21:08:11 <KSaraSara>	Gah, my brain cannot even... I mean...I can't remember! So I'll just have to reread all Kathy's nfic. Woe is me.
+2023-04-30 21:08:12 *	bakasi agrees with Bek
+2023-04-30 21:08:13 <AnnieM>	Uh, there definitely is a bathroom scene in WTHW
+2023-04-30 21:08:37 <Songbird2>	Did I miss something? Did WTHW win best revelation?
+2023-04-30 21:08:47 <Doranwen>	Rofl
+2023-04-30 21:08:48 <KSaraSara>	Songbird: yep!
+2023-04-30 21:08:54 <AnnaBtG>	It did!
+2023-04-30 21:08:58 <KathyB>	LOL is there really? See, I REALLY need to reread this story!! hahaha
+2023-04-30 21:09:07 <KSaraSara>	LOL Michael!!
+2023-04-30 21:09:11 <Bek>	LOL
+2023-04-30 21:09:18 <AnnaBtG>	Are we playing Judas Priest???
+2023-04-30 21:09:20 <Doranwen>	Rofl
+2023-04-30 21:09:30 <KathyB>	Also, can I just say, the Lana revelation in WTHW is so dear to my heart ... I'm totally verklempt over this honor 
+2023-04-30 21:09:31 <AnnieM>	LOL Michael
+2023-04-30 21:09:33 <KathyB>	<3
+2023-04-30 21:09:43 <KSaraSara>	Hey now, one is decidedly called This is Not a Date... LOL
+2023-04-30 21:09:43 <Songbird2>	Were the nominations listed? If so, I'm having a problem because they didn't appear on my scree?
+2023-04-30 21:09:45 <AnnaBtG>	No, wait, I think only Pearl Jam tonight ...
+2023-04-30 21:09:58 <Songbird2>	Congrats Annie & Kathy!
+2023-04-30 21:10:02 <KSaraSara>	HAHA thrown under the bus for my wordiness lol
+2023-04-30 21:10:51 <KSaraSara>	OMG The Kiss Off by CC and Erin!! Loved that one!
+2023-04-30 21:11:57 <KathyB>	LOL Michael is killing it with his speeches
+2023-04-30 21:11:58 <KSaraSara>	OOH
+2023-04-30 21:12:05 <KathyB>	a TIE!!
+2023-04-30 21:12:13 <AnnieM>	ooh, a tie! Fun!
+2023-04-30 21:12:25 <KathyB>	YAY!!!
+2023-04-30 21:12:32 <Bek>	Yay!! Congrats!!!
+2023-04-30 21:12:33 <KSaraSara>	GAHH!!!
+2023-04-30 21:12:38 <KathyB>	Both outstanding choices!!
+2023-04-30 21:12:55 <AnnaBtG>	Congrats girls!! Sara and Sara and Annie!!
+2023-04-30 21:13:00 <bakasi>	Congrats!
+2023-04-30 21:13:01 *	Doranwen gestures towards stage to the winners
+2023-04-30 21:13:08 <Blueowl_>	Ooo tie! Congrats!
+2023-04-30 21:13:23 <KathyB>	LOL Sara is speechless. Literally 
+2023-04-30 21:13:28 <Songbird2>	Yay! Congrats to Sara and Sara and Annie! 
+2023-04-30 21:13:28 <Doranwen>	Lol
+2023-04-30 21:15:00 <Demi2>	Yay, congratulations 
+2023-04-30 21:15:03 <KathyB>	Oh, little abandoned cabin story! You deserve this honor!
+2023-04-30 21:15:24 <KSaraSara>	Yay!! So good!!
+2023-04-30 21:15:33 <KSaraSara>	And Yeah... I'm panic typing a speech now lol
+2023-04-30 21:15:48 <Songbird2>	Ties
+2023-04-30 21:16:00 *	Doranwen applauds the winners
+2023-04-30 21:16:07 <Songbird2>	Ties are fun! 
+2023-04-30 21:16:16 <KathyB>	you can type it in the window ... we won't mind :) 
+2023-04-30 21:17:13 <Meadowlark>	Ties are fun.  Especially the ones Clark wears.
+2023-04-30 21:17:18 <Doranwen>	Lol
+2023-04-30 21:17:43 <KathyB>	hahahahaha
+2023-04-30 21:17:47 <Songbird2>	LOL!
+2023-04-30 21:18:02 <Darth_Michael>	yes, it's sure fun!
+2023-04-30 21:18:07 <Songbird2>	Good one Meadowlark!
+2023-04-30 21:18:14 *	Darth_Michael points at FDK
+2023-04-30 21:18:47 <AnnaBtG>	@Meadowlark: hah I was just wishing for a tie in the next category I'm presenting so I could make that joke xD
+2023-04-30 21:18:47 <KathyB>	I'm so glad SaraM didn't give up and SaraO finally buckled under the pressure!!
+2023-04-30 21:18:51 <Darth_Michael>	LOL, like the actor needing to get pushed to take the Oscar role
+2023-04-30 21:19:34 <Blueowl_>	That's hilarious 😂
+2023-04-30 21:19:54 <Doranwen>	I think of Viggo Mortensen asking his son if he should take the role of Aragorn in LOTR, knowing it'd mean a big time commitment…  (Fortunately for all of us his son was like YES, Dad, DOOOOOOO ITTTTTTT)
+2023-04-30 21:20:28 *	Bek applauds all the winners so far
+2023-04-30 21:20:57 *	Darth_Michael has no idea how many ties there are. only my excel sheet knows
+2023-04-30 21:21:36 <Doranwen>	Uh, yeah they can, lol
+2023-04-30 21:21:46 *	Doranwen points to the ARGH
+2023-04-30 21:21:56 <Doranwen>	Fic is *way* better.
+2023-04-30 21:21:57 <KSaraSara>	OMG let's not talk about the ARGH lol
+2023-04-30 21:23:09 <Doranwen>	Yeah, I think it was your font only, Sara - Annie's paste has curly apostrophes and they're not showing up weird.
+2023-04-30 21:23:25 <KSaraSara>	Yess! Toomi finally explains the Kryptonite cage's disappearance to us!
+2023-04-30 21:23:56 <Bek>	Congrats Toomi!
+2023-04-30 21:23:57 <KathyB>	Congratulations, Toomi!!!
+2023-04-30 21:24:00 <AnnaBtG>	Oooh congrats Toomi!!!
+2023-04-30 21:24:02 <Doranwen>	Congrats Toomi!
+2023-04-30 21:24:05 <KSaraSara>	Omg I didn't know she was the winner! LOL! I just was excited it was there!
+2023-04-30 21:24:14 <Darth_Michael>	Congratulations, Toomi!
+2023-04-30 21:24:20 <KSaraSara>	YAY TOOMI! Such a great way to make the end of HoL realistic!!
+2023-04-30 21:24:21 <Songbird2>	Congrats Toomi!!
+2023-04-30 21:24:38 <AnnieM>	Congrats, Toomi!
+2023-04-30 21:24:55 <bakasi>	Congrats Toomi. It was really a great story
+2023-04-30 21:24:59 <Demi2>	Yay, great story, congrats Toomi
+2023-04-30 21:25:22 <Doranwen>	"A/n:  Thank you, weather"
+2023-04-30 21:25:27 <KSaraSara>	LOL!
+2023-04-30 21:25:34 <KathyB>	LOL Doranwen
+2023-04-30 21:25:44 <KSaraSara>	Yes, I loved Henderson here!
+2023-04-30 21:26:19 <Toomi>	I think far too many of my stories get a good start in the winter when I'm hiding from the weather :)
+2023-04-30 21:26:48 *	KSaraSara is waiting patiently for her snowbound story from Toomi lol
+2023-04-30 21:26:53 <Doranwen>	Lol
+2023-04-30 21:27:20 <Toomi>	I told you.... an A plot took hold and ran off with it. You'll get it, eventually... but it'll be bigger.
+2023-04-30 21:27:48 <AnnaBtG>	Time for my eye drops!
+2023-04-30 21:28:50 <Darth_Michael>	Snowbound? LOL, there's a fascinating amount of stories where LnC are stuck in snow and ...stuff happens
+2023-04-30 21:29:22 <Doranwen>	It's a classic fic trope :D
+2023-04-30 21:31:03 <Toomi>	Yes. I thought I'd take a shot at a 'snowbound' fic. It was supposed to be a shorty but then I had a duel with my muse and lost. However, I did put my foot down when pirates were brought into it.
+2023-04-30 21:31:13 <Doranwen>	LOL
+2023-04-30 21:31:53 <AnnaBtG>	Hahaha
+2023-04-30 21:33:12 <KSaraSara>	lol!
+2023-04-30 21:33:21 <KSaraSara>	And LOL at the commercials!
+2023-04-30 21:34:21 <AnnaBtG>	You can be beside yourself, literally!
+2023-04-30 21:34:25 <AnnaBtG>	Lol!
+2023-04-30 21:35:09 <KSaraSara>	OMG "It's perfect for parties or hostage situations!" *dies laughing*
+2023-04-30 21:36:56 <AnnieM>	 OMG this song
+2023-04-30 21:37:34 <Doranwen>	I've never actually listened to this song enough to know it.  Maybe I've heard it once?  But don't remember how it goes.
+2023-04-30 21:38:18 <AnnaBtG>	Me neither, but the lyrics are awesome!! I'm going to listen to it as soon as I get an opportunity!
+2023-04-30 21:39:02 <Doranwen>	I know I've heard it once, now that I think about it.  But I'll have to listen to it again to hear how the lyrics fit to it because I don't remember the melody at all.
+2023-04-30 21:39:35 <Blueowl_>	Catching up. Congrats Toomi 😀
+2023-04-30 21:41:48 <KSaraSara>	Thanks for being a digital packrat, Kathy!! (You're not alone in that lol)
+2023-04-30 21:41:59 <Darth_Michael>	hear hear
+2023-04-30 21:42:13 <Doranwen>	Digital packrat?  I resemble that remark XD
+2023-04-30 21:42:19 <Darth_Michael>	the true reason why computer storage goes up an order of magnitude every couple of years
+2023-04-30 21:42:26 <KSaraSara>	HAHA TRUTH
+2023-04-30 21:42:26 <Darth_Michael>	nerds are horders
+2023-04-30 21:42:35 *	Doranwen eyes her many hdds stuffed full of data from years and years ago.
+2023-04-30 21:42:35 <KSaraSara>	^
+2023-04-30 21:42:38 <AnnieM>	Thank goodness for Kathy and Sara and their digital packrat natures, because I personally save nothing and they have gifted me many gems I had long forgotten
+2023-04-30 21:42:52 <KSaraSara>	Ack! I'm presenting again... bear with me lol
+2023-04-30 21:42:57 <KathyB>	Unfortunately, sometimes in the wrong fandom, hahahha
+2023-04-30 21:43:07 <Doranwen>	Lol
+2023-04-30 21:43:07 <CRene>	I have lost so much stuff online because I didn't save it on other places.  Now I love the cloud.  
+2023-04-30 21:43:37 <Blueowl_>	Yeah, I HATE losing electronic stuff so much, especially pics or vids
+2023-04-30 21:43:37 *	Darth_Michael loves that contradictory statement by CarrieRene
+2023-04-30 21:43:40 <Doranwen>	I have double backups now.  One stored here, one stored elsewhere.  I have too much data to put in the cloud.
+2023-04-30 21:43:49 <Doranwen>	But I do store a few things up on Mega to make it easy to share.
+2023-04-30 21:43:53 <AnnieM>	LOL true. Her packrat gifts derailed me into another fandom. BUT she also had saved all our old chatlogs from when we wrote Tea Totaled. And those were a joy to behold.
+2023-04-30 21:44:18 <Doranwen>	I love AUs and elseworlds!  In pretty much any fandom
+2023-04-30 21:44:32 <Doranwen>	He really is
+2023-04-30 21:45:12 <AnnieM>	AUs are always my favorite categories. I love seeing the characters in a totally different scenario yet still themselves
+2023-04-30 21:45:23 <Doranwen>	Yup
+2023-04-30 21:45:33 <CRene>	I had a desktop that was built for me.  It had 3 drives on it.  I even had it moved to a external drive, but lost the drive.  So bye the first 4 years of pictures of my oldest child, plus stories, videos, and more.
+2023-04-30 21:45:41 <Blueowl_>	Yeah, there can never be too many of them
+2023-04-30 21:45:44 <KSaraSara>	Oh heck... the envelope made me lose the awards chat...
+2023-04-30 21:45:48 <KathyB>	OMG, the chat logs from Tea Totaled were a joy to behold. Especially since you couldn't tell the difference in how we talk to each other from 20 years ago and today hahahah
+2023-04-30 21:45:54 <KSaraSara>	The epic envelope fumble...
+2023-04-30 21:46:09 <Darth_Michael>	oops
+2023-04-30 21:46:19 <KathyB>	do you need me to paste?
+2023-04-30 21:46:28 <Darth_Michael>	I thought it would just open in the back and be ready
+2023-04-30 21:46:35 <Doranwen>	Lol, who needs to invent envelope fumbles?  They happen naturally easily enough! <g>
+2023-04-30 21:47:17 <Darth_Michael>	@Kathy so, basically, you didn't learn anything to write better fics in the time since then?
+2023-04-30 21:47:23 <KSaraSara>	Haha yes, paste the rest of the nominees, please! :D
+2023-04-30 21:47:24 *	Darth_Michael eyes currents stats
+2023-04-30 21:47:34 <Darth_Michael>	then again, why improve on percfection
+2023-04-30 21:47:56 <Doranwen>	A much better response, lol
+2023-04-30 21:48:13 *	KSaraSara has quit (Quit: Leaving)
+2023-04-30 21:48:18 <Darth_Michael>	LOL
+2023-04-30 21:48:27 <Darth_Michael>	should I?
+2023-04-30 21:48:33 <Doranwen>	Poor Sara
+2023-04-30 21:48:34 <Blueowl_>	The suspense XD
+2023-04-30 21:48:41 <Doranwen>	Blueowl_: LOL yes!
+2023-04-30 21:48:41 <AnnaBtG>	Sara amping up the suspense!
+2023-04-30 21:48:45 <Doranwen>	It's perfect XD
+2023-04-30 21:49:08 <Blueowl_>	Congrats!
+2023-04-30 21:49:15 <Bek>	Congrats!!
+2023-04-30 21:49:21 <bakasi>	Congrats!!!
+2023-04-30 21:49:21 <Darth_Michael>	Congrats you perfect examples of authors!
+2023-04-30 21:49:24 *	KSaraSara (~sara@cloak-D8945C1D.hsd1.nm.comcast.net) has joined
+2023-04-30 21:49:30 <Demi2>	Congrats! 
+2023-04-30 21:49:35 <KSaraSara>	LOL! Oh good grief...
+2023-04-30 21:49:42 <AnnaBtG>	Go girls!!! Congrats Annie and Kathy!!
+2023-04-30 21:49:43 <KSaraSara>	And CONGRATS to WTHW!!!
+2023-04-30 21:49:48 <Blueowl_>	I'm rereading this story now :D
+2023-04-30 21:50:16 <Doranwen>	Congrats
+2023-04-30 21:50:19 <Doranwen>	!
+2023-04-30 21:50:48 <Songbird2>	For some reason I'm not getting everything that is typed on the awards channel. Congrats to Annie and Kathy!
+2023-04-30 21:51:01 <Doranwen>	Songbird2: You're logged in there as Songbird, without the 2.
+2023-04-30 21:51:16 <Doranwen>	Do you have a separate browser window open for that one?
+2023-04-30 21:51:35 <Songbird2>	Yes. I'm actually using two tablets
+2023-04-30 21:51:42 <Doranwen>	Ah, OK, I do see you in there.
+2023-04-30 21:52:07 <Doranwen>	You could try closing the Songbird one and re-joining it to see if that fixes whatever you're experiencing?
+2023-04-30 21:52:13 <Doranwen>	Sometimes the close-and-restart method really does work, lol.
+2023-04-30 21:52:31 <Songbird2>	Okay. I'll try that. Thanks! 
+2023-04-30 21:52:37 <KSaraSara>	I actually got to be privy to a portion of that and gahhhhh!!
+2023-04-30 21:52:59 <Darth_Michael>	oh, actually, @Doranwen, can you log in twice with the same name on the same server? or maybe just when you're using an authenicated user?
+2023-04-30 21:53:10 <Doranwen>	No, you have to have different nicks.
+2023-04-30 21:53:34 <Meadowlark>	There is backstory???  Maybe that is for Part 3/
+2023-04-30 21:53:38 <Doranwen>	You can join two channels with both but with Mibbit you can't actually see them at the same time.
+2023-04-30 21:53:40 <Darth_Michael>	hey, guys, the author name alone is reason to put this on the must-read list. 
+2023-04-30 21:53:45 <AnnaBtG>	Hahahaha @KSaraSara !
+2023-04-30 21:53:48 *	Darth_Michael eyes loooong list
+2023-04-30 21:54:07 <Doranwen>	So the guide suggested opening two separate browsers - with separate nicks so the dual connection can happen.  Two different tablets/phones/etc. also would do the trick that way.
+2023-04-30 21:54:27 <Doranwen>	Or even two different actual apps - there are IRC apps for phones after all, but not all are free and some can be tricky to work.
+2023-04-30 21:54:33 <KSaraSara>	@Michael... better get those treats ready!
+2023-04-30 21:54:35 <Doranwen>	Mibbit was far easier for a newbie to figure out.
+2023-04-30 21:54:43 <Doranwen>	So that's why we went with that.
+2023-04-30 21:55:08 <Doranwen>	But most phones can't do a split screen so you're kind of stuck if you only have a single phone to do it on.  Have to switch back and forth a lot.
+2023-04-30 21:55:26 <Doranwen>	Songbird2: Are you seeing it OK now?
+2023-04-30 21:55:40 <Darth_Michael>	yes, but if I offer one now, can you imagine Houdini dragging Bakasi off the stage during the speach?
+2023-04-30 21:55:51 <Songbird2>	Yes, I think so. Thanks for all the help!
+2023-04-30 21:55:52 <KSaraSara>	LOL!
+2023-04-30 21:55:55 <Doranwen>	Excellent. :)
+2023-04-30 21:56:33 <Songbird2>	Is this long story?
+2023-04-30 21:56:34 *	Darth_Michael holds out envelope and treat
+2023-04-30 21:56:40 <KSaraSara>	Yes, Songbird :)
+2023-04-30 21:56:42 <Darth_Michael>	Houdini, fetch!
+2023-04-30 21:56:48 <Songbird2>	Thanks!
+2023-04-30 21:56:51 <KSaraSara>	LOL @Michael
+2023-04-30 21:56:56 <Doranwen>	Lol
+2023-04-30 21:57:09 <KSaraSara>	Yes it was SOOOO HARD TO CHOOSE (actually... all the categories were...)
+2023-04-30 21:57:47 <KSaraSara>	Congrats again!!!!!
+2023-04-30 21:57:49 <Darth_Michael>	Congratulations Annie and Kathy!
+2023-04-30 21:57:51 <Songbird2>	Congrats Annie and Kathy!
+2023-04-30 21:57:53 *	KSaraSara throws confetti
+2023-04-30 21:57:57 <Doranwen>	Congrats!
+2023-04-30 21:58:01 <Bek>	Congrats!!!
+2023-04-30 21:59:12 <AnnaBtG>	Congratulations Annie and Kathy!!
+2023-04-30 21:59:55 <Darth_Michael>	I'm sensing a pattern with Annie's stage presence
+2023-04-30 22:00:01 <bakasi>	Again, congratulations.
+2023-04-30 22:00:01 <KSaraSara>	lol
+2023-04-30 22:00:12 <KathyB>	Thank you all! Annie wrote 90% of this story, so she deserves all the kudos. It was such a job working with her!!!
+2023-04-30 22:00:12 <Doranwen>	Was just typing that, lol
+2023-04-30 22:00:16 <Darth_Michael>	JOKER: I can make people die with laughter
+2023-04-30 22:00:22 <Doranwen>	I've laughed till I cried with a few fics.
+2023-04-30 22:00:50 <Demi2>	Congratulations 
+2023-04-30 22:01:44 *	Demi has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 22:02:32 <KathyB>	LOL such a JOY! (/me slinks off in typo shame)
+2023-04-30 22:02:43 <KathyB>	Another tie!!!
+2023-04-30 22:02:56 *	Darth_Michael makes *whoosh* sound
+2023-04-30 22:03:11 <Doranwen>	LOL, Kathy
+2023-04-30 22:03:18 <KSaraSara>	AhhhhhhH!!!!
+2023-04-30 22:03:23 <Bek>	Congrats!!!
+2023-04-30 22:03:30 <Doranwen>	Congrats!
+2023-04-30 22:03:31 *	Darth_Michael reads back
+2023-04-30 22:03:33 <KSaraSara>	Toomi, you can go first!!
+2023-04-30 22:03:35 <Darth_Michael>	LOK in deed, Kathy!
+2023-04-30 22:03:52 <AnnaBtG>	Congrats Sara and Sara and Toomi!! Such fun stories! :)
+2023-04-30 22:03:52 <Demi2>	Congratulations 
+2023-04-30 22:03:56 <bakasi>	Congrats!
+2023-04-30 22:04:00 <Doranwen>	LOK? XD
+2023-04-30 22:04:05 <Songbird2>	Congrats Sara and Sara and Toomi!!
+2023-04-30 22:04:11 <KathyB>	yay! Congrats S&S and T!
+2023-04-30 22:04:16 <Darth_Michael>	Congratuations, Toomie and Sara & Sara!
+2023-04-30 22:04:34 *	Darth_Michael tops Kathy's typos
+2023-04-30 22:04:36 <Doranwen>	Toomi & Sara^2  <g>
+2023-04-30 22:04:41 <KSaraSara>	lol
+2023-04-30 22:04:48 <Doranwen>	Darth_Michael: Haha, I thought that was deliberate. <g>
+2023-04-30 22:05:03 <KSaraSara>	Congrats, Toomi!!
+2023-04-30 22:05:09 <CRene>	Sounds like a band name.
+2023-04-30 22:05:25 <Doranwen>	Hee
+2023-04-30 22:05:33 <AnnaBtG>	Hahah lovely speech @Toomi !
+2023-04-30 22:05:39 <Doranwen>	Thanks for the obvious mic handoff, Toomi - makes it easy to know when you're done. :)
+2023-04-30 22:06:19 <Toomi>	Haha. I was trying not to flee the stage. Hadn't thought I'd win anything so I have no idea what to say. 
+2023-04-30 22:06:20 *	Doranwen has been guessing all afternoon.  "Are they finished talking?  Maybe?  I think?"
+2023-04-30 22:06:40 *	Darth_Michael is just at the point when Lois invites Clark over for coffee in Pearl Jam!
+2023-04-30 22:08:43 <KathyB>	LOL on the (u) for SaraM!
+2023-04-30 22:08:52 <AnnieM>	LO(u)L
+2023-04-30 22:08:55 <KSaraSara>	Hee hee
+2023-04-30 22:09:07 <Bek>	LOL
+2023-04-30 22:09:38 <Doranwen>	*snort*
+2023-04-30 22:09:40 <KSaraSara>	ROTFL!!!
+2023-04-30 22:09:42 <KSaraSara>	Omg Kathy
+2023-04-30 22:10:22 *	Bek hides
+2023-04-30 22:10:37 *	Darth_Michael shines slashlight at Bek's Kerth
+2023-04-30 22:10:46 <AnnieM>	12 stories in your first year is awesome!
+2023-04-30 22:11:19 <Darth_Michael>	Other Sara's here!
+2023-04-30 22:11:50 <AnnaBtG>	@Darth_Michael: Slashlight sounds appropriately ficcy
+2023-04-30 22:12:23 <KathyB>	LOL
+2023-04-30 22:12:27 <KathyB>	nfic-y!
+2023-04-30 22:12:33 *	Sara (Mibbit@cloak-283982CF.cpe.teksavvy.com) has joined
+2023-04-30 22:12:34 <Darth_Michael>	LOLZ. I did mention typos, didn't I?
+2023-04-30 22:12:36 <Songbird2>	Congrats Bek!! 12 fics is amazing! Thank you! 
+2023-04-30 22:12:59 <AnnaBtG>	@Bek: congrats and we are so happy to have you here!!
+2023-04-30 22:13:12 <Bek>	Ahh, thank you!!!
+2023-04-30 22:13:12 <Doranwen>	It sounds like a different fandom, lol.  L&Cdom doesn't have much slash in it.  Now, Smallville, otoh…
+2023-04-30 22:13:30 <KSaraSara>	Yes, we're so lucky to have Bek here!!!
+2023-04-30 22:13:41 <Doranwen>	Agreed
+2023-04-30 22:13:46 <Bek>	Thank you all for being so welcoming!! 
+2023-04-30 22:13:46 <Darth_Michael>	Yes, though there are one or two fics with two Clarks in one bedroom.
+2023-04-30 22:14:11 <KSaraSara>	HAH! Wouldn't that be a sight to see....?
+2023-04-30 22:14:12 <Sara>	Managed to make it for some of it but I'm on my phone so I am not really "here" here. Congratulations Bek!!!
+2023-04-30 22:14:31 <KathyB>	I did once read a Clark/Jimmy story years back ... but slash is indeed pretty rare in this fandom
+2023-04-30 22:14:32 <Doranwen>	Yeah, didn't say it had none, just not a lot in comparison with some.  Someone on a Reddit post the other day was actually asking for fandom names that were almost entirely het, and I offered up L&C as an example.
+2023-04-30 22:14:34 <Bek>	Hmmmm, two Clarks huh?
+2023-04-30 22:15:08 <Doranwen>	So I hear!
+2023-04-30 22:15:11 <KSaraSara>	Sounds... *inserts fire emojis*
+2023-04-30 22:15:20 <Darth_Michael>	yep. on the nfanfic archive. one's Myxsplit
+2023-04-30 22:15:25 <Darth_Michael>	by Sheila Harper
+2023-04-30 22:15:33 <Darth_Michael>	if I'm not mistaken
+2023-04-30 22:15:39 <KSaraSara>	That's right :)
+2023-04-30 22:15:54 <KSaraSara>	And then Midnight Fantasies by Scribe (who is really Wendy Richards)
+2023-04-30 22:16:10 <Bek>	Ah yep, that one.
+2023-04-30 22:16:46 <KSaraSara>	YAY TIES!
+2023-04-30 22:16:47 <Darth_Michael>	and we got one scene in the Season 5/6 stories where LnC body swap
+2023-04-30 22:16:54 <KSaraSara>	LOL Toomi, nice one!
+2023-04-30 22:16:55 <KathyB>	another tie! Yay, Clark will be happy!
+2023-04-30 22:16:55 <Darth_Michael>	Oooh, tie!
+2023-04-30 22:17:05 <KathyB>	(good one, toomi!)
+2023-04-30 22:17:10 <AnnieM>	wow, another tie@
+2023-04-30 22:17:25 <KathyB>	OMG
+2023-04-30 22:17:34 <Doranwen>	Congrats!
+2023-04-30 22:17:36 <Darth_Michael>	Congratuations, and it's not even a threeway!
+2023-04-30 22:17:36 <KSaraSara>	Congrats!! Keeping your title of Queen of Waff intact!! LOL
+2023-04-30 22:17:43 <Bek>	Congrats!
+2023-04-30 22:17:48 <bakasi>	Congrats
+2023-04-30 22:17:48 <AnnaBtG>	Annie there just not leaving anything to chance!!
+2023-04-30 22:17:48 <KSaraSara>	OMG... threeway...
+2023-04-30 22:17:52 <Darth_Michael>	is that a 1+1/2 tie?
+2023-04-30 22:17:52 <Songbird2>	Wow! Double congrats Annie and Kathy! 
+2023-04-30 22:17:59 <Demi2>	Another tie - congrats 
+2023-04-30 22:18:00 <KathyB>	LOL maybe!
+2023-04-30 22:18:06 *	KathyB hugs Annie on her way up to the stage
+2023-04-30 22:18:10 <AnnaBtG>	Congrats Annie and Kathy!
+2023-04-30 22:18:59 <Sara>	Woooooooo!
+2023-04-30 22:19:25 <Darth_Michael>	meanwhile...
+2023-04-30 22:19:38 <Darth_Michael>	and that's how you know when FoLCs are genuinly surpised at winnign
+2023-04-30 22:19:49 <Darth_Michael>	no prepped speeches!
+2023-04-30 22:20:23 *	Darth_Michael claps extra loudly
+2023-04-30 22:20:31 <AnnaBtG>	Like anyone here is confident enough to have prepped a speech? Lol
+2023-04-30 22:20:49 <Darth_Michael>	well, I did prep two for tonight :D
+2023-04-30 22:21:17 <KSaraSara>	Haha right, Anna? #impostersyndrome is rampant...
+2023-04-30 22:21:17 <Demi2>	:-D
+2023-04-30 22:21:20 <AnnaBtG>	An *acceptance* speech, then. :)
+2023-04-30 22:21:59 <Darth_Michael>	yep. we're authors. we need to be precise with our words.
+2023-04-30 22:22:00 <KathyB>	LOL, yes, the KComm prepared ... you should see our several page long Google Doc with the entire presentation written out for us to paste!
+2023-04-30 22:22:01 <KathyB>	haha
+2023-04-30 22:22:16 <KathyB>	But awards? NOPE!!
+2023-04-30 22:22:51 <Darth_Michael>	oh no!
+2023-04-30 22:22:55 <KSaraSara>	Yeah, it's a miracle we haven't mis-pasted anything... wait... except for me lol
+2023-04-30 22:23:07 *	Darth_Michael points at speech about alt-clark
+2023-04-30 22:23:16 <Doranwen>	KSaraSara: Lol
+2023-04-30 22:23:46 <Doranwen>	I need to read some of these stories!  I've been sort of scattered in my reading, so most of the newer ones I actually haven't read yet. <sg>
+2023-04-30 22:24:08 <KSaraSara>	Yes! Read them all!! They're all amazing!! SOOO much good competition!!
+2023-04-30 22:24:39 <Doranwen>	Oh, I plan on it, it's just… projects…  I tend to use reading fic as my reward for finishing another chunk of something.
+2023-04-30 22:24:54 <Doranwen>	And I've been slowly wading through that enormously long VirginiaR WIP.
+2023-04-30 22:26:26 <KSaraSara>	Hahaha it's the theme for tonight!!
+2023-04-30 22:26:28 <CRene>	More ties
+2023-04-30 22:26:37 <Darth_Michael>	@Doranwen: that is an awsome one, isn't it?
+2023-04-30 22:26:52 <Darth_Michael>	and yes, a whole flight of ties, now!
+2023-04-30 22:26:57 <AnnieM>	This is The Year of the Tie!
+2023-04-30 22:27:16 <KSaraSara>	.... 
+2023-04-30 22:27:26 <Doranwen>	Darth_Michael: Yes, I've really been enjoying it!
+2023-04-30 22:27:27 <KSaraSara>	*cries...more than a little*
+2023-04-30 22:27:30 <Bek>	YAY! CONGRATS!!!
+2023-04-30 22:27:33 <Doranwen>	And congratulations!!!!!
+2023-04-30 22:27:44 <AnnieM>	You have to go first this time, Sara ;)
+2023-04-30 22:27:48 <Darth_Michael>	Congrats Sara and Annie and Kathy!
+2023-04-30 22:27:48 <KSaraSara>	gahhhh
+2023-04-30 22:27:48 <CRene>	Congrats.
+2023-04-30 22:27:48 *	KathyB hugs Sara really really tightly!!!!
+2023-04-30 22:27:51 <Songbird2>	Congrats Sara and Annie and Kathy!
+2023-04-30 22:27:53 <Sara>	Twiiiiiiinnnnnniiiiiiieeeeeee!!!! *Tackle hugs* 
+2023-04-30 22:28:00 <bakasi>	Congrats
+2023-04-30 22:28:57 <bakasi>	Have fun. I'll bow out now. Houdini needs to go for a walk and I need to catch up on some sleep.
+2023-04-30 22:29:17 *	bakasi has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 22:29:21 *	Darth_Michael KSaraSara was stuffing the ballot!
+2023-04-30 22:29:39 <Darth_Michael>	*JK*
+2023-04-30 22:29:47 <Doranwen>	LOL
+2023-04-30 22:29:55 <KathyB>	LOL, she was competing against herself ... and won!
+2023-04-30 22:30:22 <KathyB>	Proof of a stand out story <3
+2023-04-30 22:30:30 <Bek>	Such a good story!!!!
+2023-04-30 22:31:24 <Sara>	It was a fantastic story!! Well deserved!
+2023-04-30 22:31:32 <Darth_Michael>	all in good humor and acceptance speeches are exempt!
+2023-04-30 22:31:34 <Sara>	Both of you/all three?
+2023-04-30 22:31:34 <KathyB>	Proud of you, Sara!
+2023-04-30 22:31:46 <KathyB>	Other Sara haha
+2023-04-30 22:31:54 <KSaraSara>	gahhhhhhhhhh
+2023-04-30 22:31:58 *	KSaraSara cries
+2023-04-30 22:32:01 <KathyB>	(Not that I'm not proud of you, too, Sara, haha)
+2023-04-30 22:32:14 <Darth_Michael>	great speech!
+2023-04-30 22:32:19 <KSaraSara>	Thank you, everyone!!! *cries some more*
+2023-04-30 22:32:27 <Demi2>	I'll be off to bed too, have fun everyone!
+2023-04-30 22:32:33 *	Demi2 has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 22:32:44 <Darth_Michael>	bye Demi!
+2023-04-30 22:32:57 <Sara>	Ha ha! Too many Sara's lol
+2023-04-30 22:33:10 <Doranwen>	Truth
+2023-04-30 22:33:12 <KSaraSara>	Hee hee
+2023-04-30 22:33:39 <KSaraSara>	gahh... I'm not presenting next again, am I? The screen is legit blurry...
+2023-04-30 22:33:45 <Doranwen>	It does seem to be a pattern, and yes, you are :)
+2023-04-30 22:33:48 <KSaraSara>	gahh
+2023-04-30 22:33:50 <Darth_Michael>	they're easy to distinguish. one's the one who wins all the Kerths. the other...no, wait...
+2023-04-30 22:33:52 <AnnieM>	dry your eyes, Sara! time to present!
+2023-04-30 22:33:56 <Doranwen>	You win, and then you have to present, lol.
+2023-04-30 22:34:04 <Darth_Michael>	it's a rule!
+2023-04-30 22:34:08 <Darth_Michael>	Annie says so
+2023-04-30 22:34:18 <AnnieM>	haha yes, that's the pattern!
+2023-04-30 22:34:18 <KSaraSara>	LOL! haha
+2023-04-30 22:34:46 <AnnaBtG>	Congrats to Sara and Annie and Kathy! Sorry, was afk for a bit
+2023-04-30 22:34:58 <AnnaBtG>	But good job, all of you! <3
+2023-04-30 22:35:10 <KSaraSara>	(Thank goodness it's pasting... I can't type... lol)
+2023-04-30 22:35:14 <AnnieM>	I'm so excited for these new categories!
+2023-04-30 22:35:43 <KathyB>	me too!
+2023-04-30 22:36:00 <KathyB>	I love fan art, and especially music videos, so I'm thrilled we added this category 
+2023-04-30 22:36:27 <KathyB>	Yay!
+2023-04-30 22:36:34 <Bek>	Congrats!!
+2023-04-30 22:36:36 <KathyB>	Well deserved, Sara! Great job!
+2023-04-30 22:36:40 <Doranwen>	Congrats!
+2023-04-30 22:36:44 <Darth_Michael>	Congratulations Sara! (the other one)
+2023-04-30 22:36:44 <CRene>	Congrats
+2023-04-30 22:36:52 <AnnaBtG>	Yay Sara!! Loved this video!
+2023-04-30 22:37:00 <AnnieM>	Hooray! Congrats, Sara! Well deserved. That video was awesome.
+2023-04-30 22:37:13 <Songbird2>	Congrats Sara! Great job! Your vid was beautiful! 
+2023-04-30 22:37:16 <KSaraSara>	YAY TWINNIE!!!
+2023-04-30 22:37:21 <Doranwen>	Sort of in time, lol.  There's all the *other* categories you won as well… <g>
+2023-04-30 22:37:39 <KathyB>	Speech! Speech!
+2023-04-30 22:39:57 <Darth_Michael>	hear hear!
+2023-04-30 22:40:14 <KSaraSara>	Yes!! Agreed!!
+2023-04-30 22:40:27 *	Doranwen gives thumbs up
+2023-04-30 22:41:01 <Sara>	Lol that was the best I could do as I was braiding Kira's hair at the same time lol
+2023-04-30 22:41:01 <KSaraSara>	Awww yep!! Great speech!
+2023-04-30 22:41:19 <AnnieM>	Seriously, feedback is absolutely critical for writers
+2023-04-30 22:41:25 <Doranwen>	Amen!
+2023-04-30 22:41:36 <Doranwen>	I've got some fics written that *only* happened because I had an alpha reader to help out.
+2023-04-30 22:41:46 <Doranwen>	And others that haven't been finished due to the lack of one.
+2023-04-30 22:41:54 <KSaraSara>	Yes, hear hear! May this category encourage more people! :D
+2023-04-30 22:43:35 <Darth_Michael>	Congratulations, Sara!
+2023-04-30 22:43:40 <Doranwen>	Congratulations!
+2023-04-30 22:43:41 *	Darth_Michael shoves Sara up to stage
+2023-04-30 22:43:42 <KSaraSara>	What???
+2023-04-30 22:43:42 <KSaraSara>	What???
+2023-04-30 22:43:43 <Bek>	Congrats!!!
+2023-04-30 22:43:46 <KathyB>	Yay! Congratulations KSaraSara!
+2023-04-30 22:43:48 <Toomi>	Congrats!
+2023-04-30 22:43:54 <KSaraSara>	Lol I didn't mean to type twice!
+2023-04-30 22:43:54 <Songbird2>	Congrats Sara!!!
+2023-04-30 22:44:04 <Doranwen>	It seemed natural XD
+2023-04-30 22:44:13 <Toomi>	Out of all of the categories, I think this might have been the hardest to vote for.
+2023-04-30 22:44:22 <AnnieM>	Totally deserved! I treasure the feedback files you've sent me over the years!
+2023-04-30 22:45:07 <Doranwen>	Speech! ;p
+2023-04-30 22:45:29 <Darth_Michael>	yeah, when she dug up my Dare and mentioned Feels that was so awesome!
+2023-04-30 22:45:31 <Bek>	Without your encouragement, I'd still be lurking...! Very well deserved! Thank you KSaraSara!
+2023-04-30 22:45:49 <AnnaBtG>	@Toomi: definitely!! I was so conflicted!!
+2023-04-30 22:46:02 <Bek>	And congrats again!
+2023-04-30 22:46:57 *	Darth_Michael hangs on by a thread, waiting for the cliffhanger to resolve
+2023-04-30 22:47:19 <KathyB>	LOL!
+2023-04-30 22:47:35 *	Darth_Michael wonders if Tempus might find it ironic that the best commenter just lost her comments
+2023-04-30 22:47:39 <KathyB>	Sure, sure, you're just hoping Superman will come by to save you
+2023-04-30 22:47:52 <KSaraSara>	LOL!!
+2023-04-30 22:47:53 <Doranwen>	LOL
+2023-04-30 22:48:01 <KathyB>	LOL
+2023-04-30 22:48:17 <Darth_Michael>	@Kathy: I'm with Jimmy on that one and wait for Ultra Woman :D
+2023-04-30 22:48:18 *	Sara has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 22:49:10 *	Darth_Michael looks shifty
+2023-04-30 22:49:26 <AnnaBtG>	I know from experience that even being nominated in such a category is mostly about "no, thank YOU guys for writing all this fic for me to comment on" :D
+2023-04-30 22:50:06 <AnnaBtG>	It's such a love letter to the fandom, this category :)
+2023-04-30 22:50:25 <KSaraSara>	Anna: you're so right! 
+2023-04-30 22:51:10 *	AnnaBtG glomps Sara!!!
+2023-04-30 22:51:14 <AnnaBtG>	Congrats!!!
+2023-04-30 22:51:17 <KSaraSara>	awwwwwwww
+2023-04-30 22:51:18 *	Doranwen giggles at "questionable browser histories"
+2023-04-30 22:51:21 *	KSaraSara hugs her fandom
+2023-04-30 22:51:45 <CRene>	Congrats, Sara.  Well deserved
+2023-04-30 22:51:51 <Darth_Michael>	someone once mentioend that they wonder when the FBI will come knocking
+2023-04-30 22:51:56 <AnnaBtG>	Hahahah I lol'd at that too!
+2023-04-30 22:52:04 <AnnieM>	It's so true!
+2023-04-30 22:52:24 <AnnieM>	I always want to add THIS IS FOR A STORY to my google searches ;)
+2023-04-30 22:52:35 <KSaraSara>	Lol Annie, right?
+2023-04-30 22:52:50 <Darth_Michael>	Congrats Annie and Kathy!
+2023-04-30 22:52:50 <KSaraSara>	Ahhhh! No surprise and well deserved!!!
+2023-04-30 22:52:50 <Doranwen>	Given the other winners, I'm not surprised by this one, lol.
+2023-04-30 22:52:59 <Bek>	Congrats!!
+2023-04-30 22:53:01 <KathyB>	oh wow!!
+2023-04-30 22:53:02 <Songbird2>	Congrats Annie and Kathy!!! 
+2023-04-30 22:53:05 <Doranwen>	Congratulations!
+2023-04-30 22:53:40 <Toomi>	Congratulations!
+2023-04-30 22:53:43 <Toomi>	This has been fantastic! 
+2023-04-30 22:53:44 <AnnaBtG>	Congrats Annie and Kathy!!
+2023-04-30 22:54:00 <Toomi>	But I now have to run away to work :(
+2023-04-30 22:54:02 <AnnaBtG>	Did this story even lose any categories?
+2023-04-30 22:54:48 <KSaraSara>	Bye Toomi!! So glad you could join! And congrats!!
+2023-04-30 22:54:56 <KSaraSara>	Anna: I think it won everything it was nommed in!
+2023-04-30 22:55:19 <Doranwen>	Yeah, I think so!
+2023-04-30 22:55:20 <Toomi>	Thank you :D I'll be on cloud nine all night!
+2023-04-30 22:55:24 *	Toomi (Mibbit@cloak-71D871AA.cg.shawcable.net) has left
+2023-04-30 22:55:26 <Doranwen>	I just scrolled up to check that.
+2023-04-30 22:55:57 <AnnaBtG>	Such a well-deserved winner! <3
+2023-04-30 22:56:54 <KSaraSara>	Gahhhhh! It's definitely a happy place!! I read parts over and over again...and I have a playlist for WTHW lol
+2023-04-30 22:59:26 <KSaraSara>	GAHHH how has it been 25 years of Kerths???
+2023-04-30 22:59:58 <Doranwen>	If anyone's feeling nostalgic about IRC, I did open a #loisclark channel on Slashnet if someone feels like chatting old-style once in a while. :)
+2023-04-30 23:00:38 <Doranwen>	I'm always on IRC so it's not any trouble to lurk in there.  Just say my nick and I'll see it when I get back to the comp, if I'm not there then. :)
+2023-04-30 23:01:09 <KathyB>	Thanks everyone!! This was truly an honor, to be able to be here again, over the course of 25 years!
+2023-04-30 23:01:40 <KSaraSara>	Yes, so amazing to be here again!
+2023-04-30 23:01:55 *	Voice_Jockey (~Voice@EE219F3D.4377EDD2.D2A17E17.IP) has left (Leaving)
+2023-04-30 23:02:20 <Songbird2>	WTHW is also my happy place. Thanks Annie and Kathy for bringing so much joy to my life, when I desperately needed it. I'm looking fore
+2023-04-30 23:02:31 <AnnaBtG>	I haven't been here for the full 25 years but it's staggering to even think about!
+2023-04-30 23:02:33 <Songbird2>	I'm looking forward to the third story.
+2023-04-30 23:03:43 <AnnieM>	I'm hoping all this excitement gets me motivated to work on the third story!
+2023-04-30 23:04:43 <Darth_Michael>	the true reason for getting 8? wins - incentive!
+2023-04-30 23:06:23 <Darth_Michael>	Thanks to all who attended, voted, and are generally around for all the merriment. 
+2023-04-30 23:06:29 <KSaraSara>	Yes! Right, Michael! lol
+2023-04-30 23:06:31 <Darth_Michael>	it's been a blast
+2023-04-30 23:07:11 <KSaraSara>	I'm off to take a short break and then I'll be on Discord :)
+2023-04-30 23:07:14 <Doranwen>	It's motivating me to work more on projects - and then use these fics as my motivation for in between chunks of projects, lol.
+2023-04-30 23:07:34 <KSaraSara>	Thanks again, everyone! I'm so happy we had a successful ceremony and Kerth season!!
+2023-04-30 23:08:02 *	KSaraSara has quit (Quit: Leaving)
+2023-04-30 23:08:10 *	CRene has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 23:10:21 <Meadowlark>	Great job, Kerth Comm!  And a big THANKS to all the writers!
+2023-04-30 23:11:06 *	Meadowlark (Mibbit@cloak-C85C35F7.mobile.att.net) has left
+2023-04-30 23:12:52 *	KathyB has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 23:15:33 *	AnnieM has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 23:16:06 <Songbird2>	Thanks to everyone who wrote stories last year and to everyone who worked so hard to put on the Kertg Awards! 
+2023-04-30 23:16:32 <Songbird2>	Kerth not Kertg. 
+2023-04-30 23:17:00 *	Songbird2 has quit (Quit: https://mibbit.com Online IRC Client)
+2023-04-30 23:23:54 *	Bek has quit (Quit: Leaving)
+2023-04-30 23:59:59 *	Disconnected ()
