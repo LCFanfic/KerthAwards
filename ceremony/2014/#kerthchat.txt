@@ -1,0 +1,2617 @@
+
+Session Start: Sat Apr 14 23:47:51 2012
+Session Ident: #kerthchat
+[23:47] * Now talking in #kerthchat
+[23:48] <DarthMichael> hi guys!
+[23:48] <ChiefPam> Hey, Darth :)
+[23:48] <DarthMichael> I'm just here for the logging
+[23:48] <LaurenW> Hi, Michael!
+[23:48] <DarthMichael> since bedtime's approaching :(
+[23:49] * Dernit has joined #kerthchat
+[23:49] * BriGal has joined #kerthchat
+[23:49] <LaurenW> Thanks, Pam. 
+[23:49] <LaurenW> Karen, would it be OK to do a chat widget? Oh! Gotta feed some hungry cats. I'll be away from the keyboard for a bit.
+[23:50] <KarenT> Lauren, that's fine
+[23:51] <KarenT> sorry, trying to get dinner started a bit, and move my computer to the other room
+[23:51] <ChiefPam> silly family, don't they know it's the kerths?
+[23:52] * ChiefPam sets mode: +o BriGal
+[23:52] <Dernit> Well at leats my wife wouldn't bug lol
+[23:54] * IolantheAlia has joined #kerthchat
+[23:54] <Corrina> Io!
+[23:54] <IolantheAlia> Hello!
+[23:54] <KarenT> lol, lil man doesn't. "Mommy cawwy"
+[23:55] * KarenT sets mode: -oooo Corrina hachiban KarenT LaurenW
+[23:55] * BriGal sets mode: +o KarenT
+[23:55] <Dernit> that'd be my daughter, but she's bugging mommy right now
+[23:55] <KarenT> forgot which nick I was using
+[23:55] * KarenT sets mode: -ooo lncroxmysox Meadowlark mozartmaid
+[23:55] <KarenT> can someone test DCC for me?
+[23:55] <KarenT> I haven't been able to test yet
+[23:57] * AntiKryptoni has joined #kerthchat
+[23:57] <AntiKryptoni> Hello! :)
+[23:57] <ChiefPam> hey :)
+[23:58] <KarenT> allo!
+[23:58] <lncroxmysox> Hi Lola and AK!
+[23:58] * KarenT changes topic to 'Welcome to the 2012 Kerth Awards! Be sure to join #kerthawards for the fun!'
+[23:59] <Meadowlark> Were we supposed to hear a sound?
+[23:59] * VickiM has joined #kerthchat
+[23:59] <KarenT> should have, if you had the heyba.wav
+[23:59] <IolantheAlia> Hi Vicki
+[23:59] <VickiM> Hi Everyone!
+[23:59] * AntiKryptoni has quit IRC (Quit)
+[23:59] * AntiKryptoni has joined #kerthchat
+[23:59] <ChiefPam> I have it somewhere, but didn't hear it... wonder if my speakers are on?
+[23:59] <KarenT> hi!
+[23:59] <VickiM> Hi Anti-K!
+[23:59] <VickiM> I have it too Pam, but didn't hear it
+Session Time: Sun Apr 15 00:00:00 2012
+[00:00] <AntiKryptoni> Hey, glad to 'see' you here, Vicki!
+[00:00] <Meadowlark> Just checked and I have the wav and did not hear it.
+[00:00] <VickiM> good to see you too!
+[00:00] * AlishaK2 has joined #kerthchat
+[00:00] * amberlea has joined #kerthchat
+[00:00] <mozartmaid> evening everyone!
+[00:00] <KarenT> hello, everyone!
+[00:01] <VickiM> so exciting to see all of us here :)
+[00:01] * KarenT sets mode: +o amberlea
+[00:01] <amberlea> thanks Karen
+[00:01] <KarenT> welcome
+[00:02] <amberlea> are we doing a moderator channel too?
+[00:02] <KarenT> um... yeah. now to remember what we should use. lol
+[00:02] <VickiM> ooh, even Darthy is here!
+[00:02] <KarenT> woo!
+[00:02] <mozartmaid> I see that there is a sound on the kerthawards window, but I didn't hear anything... is there someway to set up for sound through mIRC that I missed?
+[00:03] <VickiM> let me see if it works here, mozart
+[00:03] <mozartmaid> waves at Corrina!
+[00:03] <VickiM> hmm...saying it doesn't exist?
+[00:03] <mozartmaid> thanks Vicki
+[00:03] <VickiM> weirdness
+[00:04] <KarenT> are the sounds in the right folder?
+[00:04] <mozartmaid> interesting... oh, and hi Iolanthe :)
+[00:04] <VickiM> yeah with all my irc sounds
+[00:04] <KarenT> odd
+[00:04] <ChiefPam> Is it sad that I can sing along with the heyba song?
+[00:04] <KarenT> lol
+[00:04] <VickiM> lol
+[00:04] <hachiban> I haven't got any sounds.
+[00:04] <Meadowlark> And I haven't heard anything yet
+[00:05] <VickiM> maybe something with the chat settings?  it works straight through my computer, but not through irc for some reason
+[00:05] <Meadowlark> let me try it here...
+[00:05] <Dernit> under options sounds, you have to make sure enable sounds is checked I think
+[00:05] [Meadowlark SOUND]
+[00:05] <VickiM> still can't hear it
+[00:05] <IolantheAlia> That worked for me - I hear the heyba now!
+[00:05] <Meadowlark> I hear my own  <g>
+[00:06] * Mouserocks has joined #kerthchat
+[00:06] <VickiM> Hi Mouse
+[00:06] * Classicalla has joined #kerthchat
+[00:06] <IolantheAlia> Hello mouserocks!
+[00:06] <VickiM> sounds are enabled but no dice
+[00:06] <IolantheAlia> Hello Classicalla!
+[00:06] <Mouserocks> Hey! I'm a little late, but made it!
+[00:06] <KarenT> yay!
+[00:06] <Dernit> I don't know then
+[00:06] * KarenT sets mode: +o Classicalla
+[00:06] <Mouserocks> Hey classicella@
+[00:06] <VickiM> let me try a different random wav
+[00:06] [Dernit SOUND]
+[00:06] <IolantheAlia> I hear the heyba again
+[00:06] * KarenT boogies
+[00:07] <lncroxmysox> augh memories of deter noooo
+[00:07] <KarenT> lol
+[00:07] <KarenT> get it out! get it out!
+[00:07] <mozartmaid> yeah same here Vicki
+[00:07] <mozartmaid> enabled but nadsa
+[00:07] <Meadowlark> just memories of Lane Smith  :(
+[00:07] <mozartmaid> er, nada
+[00:08] <Dernit> I'm not hering too, oh well
+[00:08] <VickiM> hmm...just switched some stuff around...wasn't connecting with the right folder
+[00:08] <Dernit> hearing
+[00:08] [VickiM SOUND]
+[00:08] <VickiM> there we go!
+[00:08] <VickiM> makes waaaaay more sense now
+[00:08] <IolantheAlia> Are you playing the heyba again, or is every sound that I hear going to be the heyba?  
+[00:08] <mozartmaid> how did you do it?
+[00:08] <VickiM> I guess I didn't fix it when I got the new laptop
+[00:08] <VickiM> go to Tools - Options
+[00:08] [Dernit SOUND]
+[00:09] <VickiM> then sounds
+[00:09] <VickiM> and switch the folder where the sounds go/are to where you have them
+[00:09] <VickiM> it's sounds - requests
+[00:09] <Classicalla> Hello, all.  
+[00:11] <VickiM> Hiya!
+[00:11] * VickiM waves
+[00:11] <ChiefPam> I'm using a new chat program on my linux laptop.  I think I have it set up with the directory where my sounds are.
+[00:12] <KarenT> cool. what program?
+[00:12] <ChiefPam> XChat
+[00:12] <KarenT> aaaahhh
+[00:12] <ChiefPam> still not hearing any sounds, tho
+[00:12] <VickiM> weird
+[00:13] <hachiban> I went to my mIRC folder and there aren't any sounds there. What do I do?
+[00:14] <VickiM> is there a techie in the house?
+[00:14] <ChiefPam> search your computer for .wav files?
+[00:14] <LaurenW> Thanks, Karen! Have changed home page.
+[00:14] <mozartmaid> is there a file link somewhere on the boards with the file sounds? I think I remember reading it somewhere?? Anyone have the link? 
+[00:14] <AntiKryptoni> Looks like they're starting!
+[00:14] * amberlea is now known as for_AnnaBtG
+[00:14] <Mouserocks> Woo-hoo!!
+[00:14] <LaurenW> Everybody have fun tonight. Wish I could stay -- got to go to work. Bummer.
+[00:14] <Classicalla> I've never ever been able to get the sounds to work....
+[00:14] * LaurenW has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[00:14] <IolantheAlia>  sorry you have to work, Lauren!  
+[00:14] <VickiM> Awww we'll miss you Lauren
+[00:14] <VickiM> darn missed her
+[00:15] <KarenT> http://www.kerthawards.com/sounds.html for the sounds
+[00:16] <mozartmaid>  thanks
+[00:16] * LynnSM has joined #kerthchat
+[00:16] <IolantheAlia> Hi Lynn!
+[00:16] <KarenT> yay, Lynn!
+[00:16] <mozartmaid> Hi Lynn!
+[00:16] <Mouserocks> Wassup Lynn!
+[00:16] <VickiM> Hiya Lynn
+[00:16] <LynnSM> Hi all!
+[00:16] <IolantheAlia> I love for_anna's introduction!
+[00:16] <LynnSM> It's great to be here. I didn't think I'd make it.
+[00:16] <Mouserocks> (^have to do something to stay original)
+[00:16] <AntiKryptoni> Wow, this is a great presentation.
+[00:16] <Classicalla> Ah, there you are, Lynn.  I'm glad you figured out the problem of getting on.
+[00:17] <VickiM>  Love this already <big grin>
+[00:17] <AntiKryptoni> Congratulations, Lynn, on the nomination!
+[00:17] <LynnSM> Thanks, Anti-K
+[00:17] <lncroxmysox> *claps for nominees*
+[00:17] <LynnSM> And it looks like I made it just in time.
+[00:17] <KarenT> yep!
+[00:18] <IolantheAlia> There were some really tough votes - frankly, I thought all of the stories were Kerth-worthy!  It was very hard to make the decision.
+[00:18] * VickiM is on the edge of her seat
+[00:18] <Mouserocks> Woo-hoo! Congrats to all nominees!
+[00:18] <LynnSM> I felt that way for a lot of the categories.
+[00:18] <Mouserocks> Very tough decisions, that's for sure. 
+[00:19] * VickiM cheers for the nominees
+[00:19] <LynnSM> Congratulations. Shayne!
+[00:19] <lncroxmysox> *applause*
+[00:19] <AntiKryptoni> Congratulations!
+[00:19] <VickiM> Congrats Shayne!
+[00:19] <LynnSM> It was well-earned.
+[00:19] <LynnSM> :)
+[00:19] <Mouserocks> Yay! Congrats, Shayne!
+[00:19] * for_AnnaBtG is now known as amberlea
+[00:19] <Corrina> congratulations, Shayne.  That was a great story
+[00:19] <AlishaK2> well done shayne
+[00:19] <Classicalla> Congrats!
+[00:19] <IolantheAlia> Good for you, Shayne1
+[00:19] <KarenT> Congrats, Shayne!
+[00:20] * VickiM heartily applauds
+[00:20] <mozartmaid> getting distracted by trying to connect sounds ... congrats Shayne!! :)
+[00:20] <hachiban> Congratulations, Shayne.
+[00:20] <VickiM> lol I couldn't hear those either Mozart
+[00:20] * Evelite has joined #kerthchat
+[00:20] <IolantheAlia> I couldn't hear those sounds either!  Funny, because the heyba worked before.
+[00:20] <Classicalla> Hello, Evelite
+[00:20] <IolantheAlia> And hi Evelite
+[00:20] * ChiefPam has quit IRC (Signed off)
+[00:21] * VickiM shrugs and gives up with the techie stuff
+[00:21] <hachiban> Still struggling to fix my sounds. This Windows 7 OS makes it virtually impossible to find what you need. They don't want you fiddling with it, so they hide everything.
+[00:21] <KarenT> hi, Evelite!
+[00:21] <LynnSM> I downloaded the sounds to the relevant place, but I'm not hearing them, either.
+[00:21] <LynnSM> All I'm hearing are the regular "person joined the chatroom" type sounds.
+[00:21] <VickiM> I have those disabled but I should be hearing the wavs....
+[00:21] <LynnSM> Can one hear the one without the other?
+[00:21] * ChiefPam has joined #kerthchat
+[00:22] <Mouserocks> I've still got no sounds, but my day's been stressful enough without trying to wrangle 'up some sounds 
+[00:22] <LynnSM> I'm getting close to just turning them all off, like I did last year.
+[00:22] <VickiM> awww
+[00:22] <LynnSM> I'm just glad to have gotten on.
+[00:22] <Mouserocks> So no sounds for me :(
+[00:22] <AntiKryptoni> Me, too! I didn't even bother trying to figure out sounds on top of learning everything else!
+[00:22] <ChiefPam> stupid program.  Why can't I have two windows open at once?
+[00:23] <Evelite> Hello! 
+[00:23] <LynnSM> Hi Evelite.
+[00:23] <VickiM> Hi Evelite
+[00:24] <Classicalla> Anyone want some homemade guacamole?  =}
+[00:24] <LynnSM> Congrats on the nominatino, Alisha.
+[00:24] <AlishaK2> Thanks Lynn
+[00:24] <Mouserocks> No guac for me. Doesn't go with my banana cream pie. 
+[00:24] <AlishaK2> And ditto!
+[00:24] <KarenT> ooh, that'd be awesome! mmmm, guac
+[00:24] <LynnSM> Let me just reiterate how much I love the story you wrote for me. :)
+[00:24] <KarenT> though I need to go get a bowl of sketti
+[00:24] <AlishaK2> Aw, I'm blushing now.
+[00:25] * VickiM claps for all of the nominees
+[00:25] <LynnSM> And congrats to you, too, MozartMaid and Mouserocks
+[00:25] <Classicalla> Banana creme pie sounds better!
+[00:25] <VickiM> Congrats on the noms, guys :)
+[00:25] <mozartmaid> thanks :)
+[00:25] <Mouserocks> Congrats to all nominees!
+[00:25] <IolantheAlia> Holy cow, a tie?!
+[00:25] * VickiM offers up a bowl of chocolate
+[00:25] <LynnSM> Ooh... A tie!
+[00:25] <KarenT> is it a loud tie?
+[00:25] <LynnSM> LOL
+[00:25] <mozartmaid> lol
+[00:25] <Mouserocks> lol!
+[00:25] <VickiM> a tie! o..O
+[00:25] <LynnSM> Yay, Alisha!
+[00:25] <VickiM> Congrats Alisha!
+[00:25] <Classicalla> A Clark tie?
+[00:25] <mozartmaid> congrats Alisha!
+[00:25] <VickiM> lol
+[00:25] <LynnSM> And...?
+[00:26] <lncroxmysox> Woot!
+[00:26] <IolantheAlia> Congrats Alisha and Bob!
+[00:26] <VickiM> Congrats Bob!
+[00:26] <LynnSM> Congrats, Bob (Is he here?
+[00:26] <Classicalla> Congrats.  Congrats.
+[00:26] <AntiKryptoni> Congratulations, both of you!
+[00:26] <hachiban> Well, I now have an (empty) sound folder. Where do I go for the sounds?
+[00:26] <mozartmaid> yay Bob! I loved that story :)
+[00:26] <KarenT> Congrats, Alisha and Bob!
+[00:26] <Corrina> Well done to both Alisha and Bob!
+[00:26] <KarenT> http://www.kerthawards.com/sounds.html for the sounds
+[00:26] <Mouserocks> Congrats to Alisha and Bob! both great stories!
+[00:26] <hachiban> Congratulations to Alisha and Bob.
+[00:27] <lncroxmysox> Speech!Speech!
+[00:27] <LynnSM> Is it just me, or did others find the next category especially hard to choose from?
+[00:27] <LynnSM> There were just so many outstanding stories in it.
+[00:28] <VickiM>  They were ALL hard to choose Lynn. :)
+[00:28] <IolantheAlia> Alisha I love your stories!
+[00:28] <Classicalla> It's always hard choosing!
+[00:28] <Mouserocks> Agreed! No easy categories for me!
+[00:29] * ChiefPam has quit IRC (Signed off)
+[00:29] <LynnSM> I won't argue there.
+[00:29] <mozartmaid> I know the feeling Alisha *looks around, feeling a bit guilty about not being on the boards so much lately...
+[00:29] <lncroxmysox> *applause*
+[00:29] <LynnSM> You're most welcome, Alisha. I feel like a winner in this category myself, since you wrote the story for me. :)
+[00:29] * VickiM wildly applauds
+[00:30] <lncroxmysox> Yay Alisha! Yay Bob!
+[00:30] <Dernit> I've been gone for years, with unfinished stories, so I have an idea how that feels ;)
+[00:30] * Evelite has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[00:30] <Classicalla> How do we do the me thing like Vicki just did?
+[00:30] <Classicalla> Sigh...  I should remember by now.
+[00:30] <VickiM> type /me (action of choce)
+[00:30] <VickiM> choice*
+[00:30] <Classicalla> Thank ya'!
+[00:30] <VickiM> np :)
+[00:32] * ChiefPam has joined #kerthchat
+[00:32] <AntiKryptoni> This is a cute presentation!
+[00:32] <mozartmaid> lol, Goldifolc :P
+[00:32] <mozartmaid> cute
+[00:32] <VickiM> lol Loveing it
+[00:32] <VickiM> loving*
+[00:32] <IolantheAlia> Goldifolc... I wonder if porridge is involved?
+[00:32] <mozartmaid> or bears? *g*
+[00:32] <LynnSM> I hope the books aren't tooooo long. ;)
+[00:33] <LynnSM> And I know they're not toooooo short...
+[00:33] <AntiKryptoni> They'll be just right, I'm sure. :)
+[00:33] <mozartmaid> lol
+[00:33] <LynnSM> So I guess they must be *just right*
+[00:33] <VickiM> lol
+[00:33] <Classicalla> Cute, Amber.
+[00:33] <ChiefPam> okay, I think I'm back.  Stupid stupid xchat.
+[00:33] <Mouserocks> lol! cute!
+[00:33] <LynnSM> Love it, Amber.
+[00:33] * KarenT giggles
+[00:34] <ChiefPam> nice, Amber <g>
+[00:34] * lncroxmysox throws Pam a lifeline
+[00:34] <Dernit> lol
+[00:34] <lncroxmysox> stay with us!
+[00:34] * ChiefPam ties lifeline around her waist and holds on grimly
+[00:34] <Dernit> I should have realized that's where she was going
+[00:34] * VickiM ties the other end of Pam's life to a table leg
+[00:34] <lncroxmysox> This Goldifolc character is hard to please
+[00:34] <mozartmaid> wait for it... they were juuust right! :)
+[00:35] <AntiKryptoni> LOL!
+[00:35] <ChiefPam> <g>
+[00:35] <VickiM> lifeline...geez
+[00:35] <mozartmaid> :D
+[00:35] <KarenT> that's odd... my screen isn't showing anything anymore
+[00:35] * KarenT has left #kerthchat
+[00:35] * KarenT has joined #kerthchat
+[00:35] <LynnSM> Welcome back, Karen
+[00:35] <VickiM> lol
+[00:35] <mozartmaid> lol
+[00:35] <Classicalla> Can you see it now?  =}
+[00:35] * BriGal sets mode: +o KarenT
+[00:35] <KarenT> yeah, it's better for now
+[00:36] <mozartmaid> I LOVED this story, Anti-K
+[00:36] <LynnSM> Congrats Anti-K. And for your debut story, no less.
+[00:36] <AntiKryptoni> Oh, thanks! That's sweet of you to say!
+[00:36] <AntiKryptoni> Thanks!
+[00:36] <VickiM> Congrats :)
+[00:36] <ChiefPam> Hey, I've actually read that one...
+[00:36] <mozartmaid> Oh, but Corrina's Asking Lois out was hilarious!
+[00:36] <LynnSM> Well done, Female Hawk. :-)
+[00:36] <lncroxmysox> Go nominees! Woohoo!
+[00:37] <ChiefPam> good luck all!
+[00:37] <VickiM> Wahoo, good luck guys
+[00:37] <IolantheAlia> Congrats Corrina, for *two* nominees in this category!
+[00:37] <Mouserocks> Good luck to all!
+[00:37] <lncroxmysox> Who will goldifolc choose?
+[00:37] <LynnSM> Actually, I'll be more succint and agree with Pam -- congrats to all the nominees. :)
+[00:37] <ChiefPam> woohoo, Nan!
+[00:37] <IolantheAlia> Congrats Nan!
+[00:37] <mozartmaid> congrats Nan!
+[00:37] <AntiKryptoni> Congratulations, Nan!
+[00:37] <VickiM> Wooo!  Congrats!
+[00:37] <lncroxmysox> *claps*
+[00:37] <Mouserocks> Congrats, Nan!
+[00:37] <Dernit> I haven't read all the stories yet
+[00:37] <hachiban> Hooooly sh*t!
+[00:37] <Meadowlark> Congrats Nan!
+[00:37] <ChiefPam> lol
+[00:37] <IolantheAlia> I particularly liked it when Bobby Bigmouth gives Clark some detergent advice.
+[00:37] <KarenT> congrats, Nan!
+[00:37] <VickiM> lol Io
+[00:37] <LynnSM> Congratulations, Nan!
+[00:38] <AlishaK2> Congrats Nan!
+[00:38] <Corrina> Nan's story deserved to win on the title alone - loved it
+[00:38] <Dernit> congrats Nan
+[00:38] <LynnSM> That was a fun story.
+[00:38] * VickiM applauds enthusicatically
+[00:38] <hachiban> Oh my gosh!
+[00:38] <mozartmaid> @Corrina true. nice title :)
+[00:39] <Classicalla> I love Nan's stories!
+[00:40] <LynnSM> BRB...
+[00:40] <ChiefPam> Me too
+[00:40] <Dernit> As do I
+[00:40] <Mouserocks> back in a jiff!
+[00:40] <AlishaK2> LOL, ditto Nan! :)
+[00:40] <Dernit> she's one of the few I mostly kept up with over the years
+[00:40] <Dernit> the rare times I did read
+[00:40] * Chrispat has joined #kerthchat
+[00:40] <ChiefPam> hey, Chris!
+[00:41] <Dernit> hi Chris
+[00:41] <Chrispat> hi folcs :)
+[00:41] <AntiKryptoni> Hello, Chris!
+[00:41] <IolantheAlia> Hello Chris!
+[00:41] <VickiM> Hiya Chris!
+[00:41] <LynnSM> Hi Chris
+[00:41] <ChiefPam> We like all your contributions, Nan :)
+[00:41] <IolantheAlia> Nan, you write great stories.  I can't tell you how often I've re-read your stuff on the Archive.
+[00:41] <ChiefPam> little or not
+[00:42] <LynnSM> It's quality, not quantity, that matters. And your story did have quality
+[00:42] <mozartmaid> too true
+[00:42] <hachiban> Karen, my stupid anti virus kicked in and interfered with your send. Can you try it again?
+[00:42] <AntiKryptoni> Nicely put, Lynn!
+[00:42] <VickiM> very true Lynn
+[00:42] <amberlea> she went afk for a minute to get some food
+[00:43] * amberlea is now known as for_Virginia
+[00:43] * VickiM cheers for Lynn
+[00:43] <Meadowlark> I agree its not the length that matters.  Nan's story should also have been nominated as a Comedy.
+[00:43] <VickiM> gah
+[00:43] <VickiM> meant Nan
+[00:43] <VickiM> but I will cheer for Lynn too
+[00:44] <ChiefPam> coming or going, heh
+[00:44] <VickiM> lol
+[00:44] <LynnSM> <chuckle> I had been wondering why you were cheering; I had figured you were just agreeing with my "quality, not quantity" sentiment.
+[00:44] <VickiM> yeah well, that too
+[00:44] <VickiM> I blame Chris - she has typoitis, and it is HIGHLY contagious :)
+[00:45] <Chrispat> lol
+[00:45] <mozartmaid> lol
+[00:45] <AntiKryptoni> Nice tie-in to ScifiJoan's story!
+[00:45] <VickiM> lol @ commerical
+[00:45] * for_Virginia is now known as amberlea
+[00:45] <mozartmaid> cute
+[00:46] <mozartmaid> middle of the night, here! ;)
+[00:47] <Corrina> breakfast time, here!
+[00:47] <VickiM> Evening here :)
+[00:47] <AlishaK2> yup, middle of the night it is
+[00:47] <ChiefPam> dinner time here, but Kelley is cooking for me :)
+[00:47] <mozartmaid> Is it Sunday morn' Corrina?
+[00:47] <AntiKryptoni> Late in the afternoon where I am.
+[00:47] <ChiefPam> go, Corrina!
+[00:48] <mozartmaid> Corrina is in " the future" ;)
+[00:48] <ChiefPam> lol
+[00:48] <ChiefPam> Woman of tomorrow ;)
+[00:48] <KarenT> dinner time here... spaghetti night
+[00:48] <VickiM> is she hanging out with Tempus *again*?!?!
+[00:48] <mozartmaid> lol
+[00:49] <Classicalla> Almost 7 pm here.
+[00:49] <VickiM> same here Classicalla
+[00:49] <LynnSM> Ditto.
+[00:49] <VickiM> horray for the eastern seaboard :)
+[00:49] <mozartmaid> now that's the sweet spot. 7PM is perfect prime time award ceremony time :)
+[00:49] <Chrispat> No west coasters?
+[00:50] <LynnSM> It is nice. 8:00 would have been better for me, though, since DS would have been in bed.
+[00:50] <AntiKryptoni> Ahhh. That's sweet.
+[00:50] <mozartmaid> I'm in Germany. Almost 1AM . Will have to work hard to make it to present :P
+[00:50] <hachiban> Hi Chris!
+[00:50] <Chrispat> Hi Nan :)
+[00:50] * Mouserocks has quit IRC (Ping timeout)
+[00:50] <LynnSM> As it is, he gets to watch a rare TV marathon (He's on his second Blue's Clues videotape -- yes videotape! -- for the evening.)
+[00:50] <mozartmaid> yay for waffy! :D
+[00:50] <VickiM> awwww
+[00:50] <Chrispat> lol
+[00:50] <lncroxmysox> <--west coast:)
+[00:50] <KarenT> considering the crying I hear in the other room, middle of the night might be better for me!
+[00:50] <KarenT> or maybe for my husband :/
+[00:51] <lncroxmysox> after the ceremony i'm going to do some gardening:)
+[00:51] <AlishaK2> I'm an hour behind you in the UK, mozartmaid
+[00:51] <mozartmaid> aww
+[00:51] <Chrispat> lol
+[00:51] <VickiM> awwww
+[00:51] <LynnSM> I'm starting to melt into a puddle of WAFF just remembering the stories in this category.
+[00:51] <mozartmaid> well, that's some company anyway @Alisha
+[00:51] <VickiM> my too Lynn
+[00:51] <Chrispat> Didn't we used to do the Kerths at 3PM ET?
+[00:52] <KarenT> I think once or twice we did. But all the transcripts I found was 6pm ET
+[00:52] <VickiM> Anti-K nailed the senses :)
+[00:52] <ChiefPam> love the raisin story
+[00:52] <IolantheAlia> AK's "senses" series was great!  I think they all deserved nominations.
+[00:52] <mozartmaid> true
+[00:52] <AntiKryptoni> Ah, thanks! (blushing)
+[00:52] * Becky__ has joined #kerthchat
+[00:52] <VickiM> Hi Becky
+[00:52] <KarenT> hi, Becky
+[00:52] <LynnSM> Hi Becky
+[00:52] <Chrispat> Hi Becky
+[00:52] <IolantheAlia> Hello, Becky
+[00:52] <ChiefPam> I don't remember Kerths at any time other than 6pm, but I missed a few years
+[00:52] * Mouserocks has joined #kerthchat
+[00:53] <Chrispat> Hi Mouse
+[00:53] <VickiM> welcome back, Mouse
+[00:53] <Mouserocks> 'ello!
+[00:53] <ChiefPam> Haven't read "The Ring"  But considering the category, I'm guessing she accepts 
+[00:53] <Becky__> Hi everyone. I'm traveling so I might fade in and out! Sorry in advance!
+[00:53] <LynnSM> Every nominee in this category is definitely Kerth-worthy.
+[00:53] <mozartmaid> lol
+[00:53] <VickiM> very true, Lynn
+[00:53] <ChiefPam> eventually, anyway <g>
+[00:53] <Mouserocks> what did i miss?
+[00:54] <mozartmaid> ties, apparently ;)
+[00:54] <LynnSM> I don't suppose every one won?
+[00:54] <VickiM> wow!  ties this year :)
+[00:54] <mozartmaid> maybe even loud ones :D
+[00:54] <VickiM> lol Lynn
+[00:54] <ChiefPam> lol
+[00:54] <VickiM> lol Mozart
+[00:54] <LynnSM> Congratulations, Sue!
+[00:54] <IolantheAlia> Congrats Sue!
+[00:54] <mozartmaid> he he ;)
+[00:54] <VickiM> Yay!  Go Sue!
+[00:54] <KarenT> congrats, Sue!
+[00:54] <mozartmaid> Congrats Sue!
+[00:54] <ChiefPam> Congrats Sue, you are awesome
+[00:54] <AntiKryptoni> Congratulations, Sue!
+[00:54] <mozartmaid> I love her fics :)
+[00:55] <AlishaK2> yay, Sue!
+[00:55] <Mouserocks> Yay Sue!
+[00:55] <hachiban> Okaay, Sue!
+[00:55] <Becky__> Congrats!
+[00:55] <LynnSM> And congratulations, Alisha!
+[00:55] <IolantheAlia> Congrats Alisha!
+[00:55] <KarenT> Congrats, Alisha!
+[00:55] <mozartmaid> go Alisha!!
+[00:55] <VickiM> Yay!  Go, Alisha!
+[00:55] <ChiefPam> wtg, Alisha!
+[00:55] <Mouserocks> Congrats Alisha!
+[00:55] <LynnSM> A doubly-award winning story!
+[00:55] <AlishaK2> OMG!
+[00:55] <AntiKryptoni> Congratulations!
+[00:55] <Becky__> Yeah,
+[00:55] * VickiM applauds loudly for the winners
+[00:55] <Mouserocks> Double whammie! (or in this case, waffy!)
+[00:55] <hachiban> Yay Alisha!
+[00:55] <ChiefPam> <g>
+[00:55] <mozartmaid> lol
+[00:55] <VickiM> lol, love it, Mouse
+[00:55] <Classicalla> Congrats to Sue and Alisha.  
+[00:55] <LynnSM> LOL Mouserocks
+[00:55] <Meadowlark> Loved the Raisen!
+[00:56] <ChiefPam> Yes, the "raisin" thing was brilliant
+[00:56] <Mouserocks> lol! I know! Laughed so hard at that part- each time I read it!
+[00:56] <LynnSM> Agreed.
+[00:56] <LynnSM> The story was *well* worth the wait.
+[00:57] <LynnSM> Well, it was an amazing story.
+[00:57] <lncroxmysox> yay everyone!
+[00:59] * amberlea is now known as for_AnnaBtG
+[00:59] <AlishaK2> So... not-so-subliminal messages work then... lol
+[00:59] <KarenT> lol
+[01:00] <VickiM> lol
+[01:00] <Classicalla> Warbling the strings, Anna.
+[01:01] <LynnSM> An interesting lead-in to the comedy category...
+[01:01] <ChiefPam> lol Lynn
+[01:01] <Mouserocks> XD Comedy's hard.
+[01:01] <VickiM> comedy is *very* hard, Mouse
+[01:01] <LynnSM> Tragedy tomorrow; comedy tonight!
+[01:02] <VickiM> that was a cute story, the dog one :)
+[01:02] <mozartmaid> something familiar... "A funny thing happened on the way to the forum"? Lynn?
+[01:02] <IolantheAlia> Lynn, now I have that song running through my head!
+[01:02] <Mouserocks> Aw! Loved that one.
+[01:02] <Classicalla> Yes, comedy is difficult.  
+[01:02] <LynnSM> Yup. That's the one.
+[01:02] <Corrina> I think DJV manages to get an animal into all of her stories!
+[01:02] <LynnSM> Something peculiar.
+[01:02] <IolantheAlia> I forgot the rhyme to "peculiar"
+[01:03] <ChiefPam> cute, Anna!
+[01:03] <mozartmaid> wow, what DOES rhyme with peculiar? lol
+[01:03] <KarenT> something familiar
+[01:03] <Mouserocks> O.O Clark? Actually ask Lois out?!
+[01:03] <IolantheAlia> Thanks!
+[01:03] <VickiM> lol
+[01:03] <KarenT> yay google ;-)
+[01:04] <LynnSM> Nothing, in the song.
+[01:04] <LynnSM> That verse goes as follows:
+[01:04] <LynnSM> Something familiar, Something peculiar, Something for everyone: A comedy tonight!
+[01:05] <mozartmaid> ASKING LOIS OUT <--- really love this fic :) 
+[01:05] <AntiKryptoni> Lots of good stories here!
+[01:05] <VickiM> me too, Mozart
+[01:05] <IolantheAlia> Nothing with kings, nothing with crowns... bring on the lovers, liars, and clowns
+[01:06] <Mouserocks> drumroll please...
+[01:06] <mozartmaid> yay!!!
+[01:06] <AntiKryptoni> Wow, congratulations! Love that story!
+[01:06] <LynnSM> Congratulations, Female Hawk!
+[01:06] <IolantheAlia> Congrats Corrina!
+[01:06] <mozartmaid> Congrats Corrina!! *does happy dance
+[01:06] <LynnSM> Well done!
+[01:06] <LynnSM> :)
+[01:06] <hachiban> Congrats Female Hawk!
+[01:06] <AlishaK2> well done Corrina
+[01:06] <IolantheAlia> That was a great story
+[01:06] <VickiM> Wahoo!  Congrats, Corrina!
+[01:06] <Mouserocks> Congrats Corrina!
+[01:06] <Becky__> Congrats! Great story!
+[01:06] <IolantheAlia> Poor Clark - he just wanted to ask Lois out, and everything kept on thwarting him!
+[01:07] <KarenT> congrats, Corrina!
+[01:07] <LynnSM> An excellent use of repetition for comedic effect.
+[01:07] <LynnSM> If at first you don't succeed...
+[01:08] <AntiKryptoni> She may say that, but she writes GREAT comedy!
+[01:08] <VickiM> She does :)
+[01:08] <mozartmaid> yes indeedy
+[01:08] <LynnSM> She writes great *anything*
+[01:08] <mozartmaid> true, Lynn
+[01:09] <IolantheAlia> Thanks!
+[01:09] <mozartmaid> yay! props for Iolanthe! She's definitely an awesome BR and indeed a treasure!
+[01:10] <IolantheAlia> Thanks again!
+[01:10] <VickiM> yay for the betas!
+[01:10] <ChiefPam> congrats, Corrina!!
+[01:10] <mozartmaid> uh-oh, what was the other ending, I wonder?
+[01:10] <LynnSM> No suffering involved. Even the earlier version was better than anything I could ever hope to write.
+[01:10] <VickiM> other ending?  you must share!
+[01:10] <mozartmaid> aww...
+[01:11] <VickiM> Well spoken, Corrina :)
+[01:11] <LynnSM> Vicki, ask Corrina about it.
+[01:11] <Corrina> Thanks, Vicki
+[01:11] <VickiM> :)
+[01:12] * for_AnnaBtG is now known as for_Michael
+[01:13] <KarenT> ugh, I'm hoping my stomach will last :/
+[01:13] <VickiM> oh no!  Hope you feel better too, Karen
+[01:13] <AntiKryptoni> We hear you, Darth!
+[01:14] <KarenT> like now?
+[01:14] <ChiefPam> exactly, Karen 
+[01:14] <mozartmaid> lol
+[01:14] <VickiM> lol @ Michael
+[01:14] <AntiKryptoni> LOL!
+[01:14] <ChiefPam> ooh, your Jedi mind tricks won't work on us...
+[01:14] <LynnSM> <chuckle>
+[01:14] <IolantheAlia> LOL
+[01:15] <LynnSM> Take my revelation...pleae!
+[01:15] <LynnSM> Oops. I meant "please".
+[01:15] <LynnSM> Way to spol a punchline.
+[01:15] <KarenT> hehe
+[01:15] <ChiefPam> Yeah, that's about the size of it
+[01:15] <ChiefPam> Lynn, my brain just inserted the "s" for you, so no worries
+[01:16] <LynnSM> Thanks.
+[01:16] <LynnSM> Did it also insert an "i" in "spoil"?
+[01:16] <LynnSM> I seem to have caught the typo bug.
+[01:16] <VickiM> mine did ;)
+[01:16] <mozartmaid> mine too:)
+[01:16] <VickiM> I told you!  Blame Chris
+[01:16] * AMCiotola has joined #kerthchat
+[01:16] <AntiKryptoni> The suspense...
+[01:16] <ChiefPam> and that's just Clark
+[01:16] <VickiM> she's a carrier of the disease
+[01:16] <AMCiotola> Wow, like old times.
+[01:16] * Chrispat slaps VickiM around a bit with a large trout
+[01:16] <KarenT> lol
+[01:16] * Mouserocks claps
+[01:16] <VickiM> lol Chris
+[01:16] <Mouserocks> lol! @ Michael
+[01:16] <LynnSM> A grand spectacle? Clark's glasses?
+[01:17] <mozartmaid> lol
+[01:17] <Chrispat> Hi Anne
+[01:17] <KarenT> hi, Annette!
+[01:17] <ChiefPam> Yay, Rev fics!
+[01:17] <AMCiotola> Hey Chris, Hey Everyone
+[01:17] <ChiefPam> hey Annette :)
+[01:17] <VickiM> So this will be the Revelation revelation?
+[01:17] <IolantheAlia> LOL
+[01:17] <mozartmaid> lol
+[01:17] <AMCiotola> Wassap!  :)
+[01:18] <Classicalla> Hi, Ann!
+[01:18] <VickiM> Hi!
+[01:18] <ChiefPam> yay, Bob!
+[01:18] <AMCiotola> Tricia on?
+[01:18] <ChiefPam> Yay, AntiK!
+[01:18] <ChiefPam> Yay, DC!
+[01:18] * CarolM has joined #kerthchat
+[01:18] <VickiM> Loved Anti-K's works...all of them
+[01:18] <ChiefPam> hey Carol
+[01:18] <AMCiotola> Hey Carol
+[01:18] <IolantheAlia> Hi Carol
+[01:18] <ChiefPam> yay, DC x2!
+[01:18] <AntiKryptoni> Your own were great, DC!
+[01:18] <LynnSM> Hi Carol. Welcome aboard.
+[01:18] <AlishaK2> Hi Carol
+[01:18] <VickiM> thanks hun :)
+[01:19] <mozartmaid> Then there was light -- loved that one, AntiK (btw, your name shorter almost sounds like a pasta dish -- anti krip toni ;)
+[01:19] <IolantheAlia> The "Just Say My Name" were tough to write because the character could only say the other person's name and nothing else1
+[01:19] <KarenT> no, Tricia doesn't have IRC anymore
+[01:19] * CarolM waves -time got away from her
+[01:19] <AntiKryptoni> Thanks, mozartmaid!
+[01:19] <mozartmaid> :D
+[01:19] <Classicalla> Hey, Carol.
+[01:19] <ChiefPam> Yay, Sue!
+[01:19] <VickiM> Yodeler's Song was one of the first that I read on the boards, I think
+[01:19] <ChiefPam> Yay, Virginia!
+[01:19] <mozartmaid> Just Say My Name... but oh, how I loved The Other Shoe. This was a hard category...
+[01:19] <AMCiotola> bummer:/
+[01:20] <AntiKryptoni> He LOST it?
+[01:20] <AMCiotola> it feels a little weird being here <G>
+[01:20] <mozartmaid> lol
+[01:20] <KarenT> heh
+[01:20] <ChiefPam> Tell me about it, Annette <g>
+[01:20] <LynnSM> He knows how to build the suspense.
+[01:20] <Mouserocks> Evil!
+[01:20] <AntiKryptoni> Early revelation there!
+[01:20] <VickiM> lol Darth will kill us with the suspense
+[01:20] <CarolM> Annette! You made it! [and I was late ;)]
+[01:20] <Corrina> LOL Anti-K
+[01:20] <ChiefPam> lol Karen
+[01:20] <mozartmaid> great revelations, must build suspense first ;)
+[01:20] <AMCiotola> Just got hereCarol
+[01:20] <AlishaK2> lol Karen
+[01:21] <Dernit> hi Annette
+[01:21] <mozartmaid> ha ha Karen
+[01:21] <ChiefPam> Admit it, you'd forgotten about it til you saw me post on FB :)
+[01:21] <AMCiotola> Hey Adam <G>
+[01:21] <VickiM> wow, all the ties this year!
+[01:21] <hachiban> Oh boy ...
+[01:21] <Mouserocks> ANOTHER?!
+[01:21] <Dernit> yes it is a year for ties apparently
+[01:21] <IolantheAlia> Congrats Bob!
+[01:21] <AlishaK2> another tie... but I wasn't nominated in this one
+[01:21] <VickiM> Congrats, Bob!
+[01:21] <CarolM> yay bob!
+[01:21] <hachiban> Yay Bob!
+[01:21] <mozartmaid> congrats bob!
+[01:21] <IolantheAlia> Congrats AK!
+[01:21] <LynnSM> Congratulations, Bob and Anti-K!
+[01:21] <ChiefPam> You guys need to stop writing so many great stories.  lol, j/k
+[01:21] <lncroxmysox> *applause*
+[01:21] <AMCiotola> Congrats Winners >g?
+[01:21] <VickiM> Wahoo!  Congrats, AntiK!
+[01:21] <mozartmaid> congrats Anti-k!
+[01:21] <KarenT> congrats, Bob and AK!
+[01:21] <Classicalla> Ties!  Didn't we have a three way tie last year?
+[01:21] <AlishaK2> Congrats Bob & Anti-K
+[01:21] <Mouserocks> Congrats Bob and Anti-K!!! Both great stories!
+[01:22] <ChiefPam> Congrats Bob & AK!
+[01:22] <AntiKryptoni> Congratulations, Bob!
+[01:22] <Becky__> Congrats!
+[01:22] * VickiM claps like a madwoman
+[01:22] <hachiban> And yay AK
+[01:22] <hachiban> !!
+[01:22] <Corrina> Yeah!
+[01:22] <LynnSM> I don't know whether there was a three-way tie, but there were multiple ties last year, too.
+[01:22] <Corrina> I LOVED your story, Anti-K
+[01:22] <mozartmaid> yeah me too
+[01:23] <KarenT> I can't tell, since the chat widgets are on the archive page
+[01:23] <VickiM> Nicely put, AntiK :)
+[01:23] <AntiKryptoni> Thanks!
+[01:24] <LynnSM> What a wonderful acceptance speech.
+[01:24] * for_Michael is now known as amberlea
+[01:24] <LynnSM> Are there alt-Kerths for acceptance speeches? Is fo, Anti-K should win it.
+[01:24] * AntiKryptoni blushes
+[01:24] <CarolM> I think there was one year lynn
+[01:24] * amberlea is now known as for_Virginia
+[01:24] <LynnSM> "Is fo"? "Is fo"? "If so," is what I meant/
+[01:25] <AntiKryptoni> You're the one who told me to prepare 'just in case' speeches--I took you at your word. :)
+[01:25] <Mouserocks> Great speech, Anti-K!!
+[01:25] <LynnSM> Really, Carol? I had been joking about the category (but not about the speech.)
+[01:25] <LynnSM> I knew you'd win at least one award.
+[01:25] <LynnSM> I imagine you'll win more before the night is out.
+[01:26] <VickiM> lol@ commerical
+[01:26] <CarolM> it may have just been 'line from the kerths' [winner was melisma with you get the jpg iirc] but that was... 02? not sure...
+[01:26] <IolantheAlia> Olef's Color Brite Detergent?  Wasn't that mentioned in Nan's story about Superman's laundry?
+[01:26] <IolantheAlia> Hee hee hee
+[01:26] <KarenT> hee
+[01:26] <VickiM> LOL!  Clark did 
+[01:26] <AlishaK2> there hasn't been an alt kerth since i joined the boards, & I've been here a while now...
+[01:26] <LynnSM> <chuckle>
+[01:26] <Mouserocks> hehehehe...
+[01:26] <ChiefPam> lol
+[01:26] <VickiM> what's an alt-Kerth....?
+[01:26] <mozartmaid> lol
+[01:27] <ChiefPam> It's like the Kerths, only with sillier categories <g>
+[01:27] * for_Virginia is now known as amberlea
+[01:27] <VickiM> ah
+[01:27] <VickiM> gotcha
+[01:27] <VickiM> thanks
+[01:27] <CarolM> alt-kerth = non story stuff [like speeches ;) or vids best fdk title thread]
+[01:27] <VickiM> awesome :)
+[01:27] <ChiefPam> and not just fanfic
+[01:27] <hachiban> To think, I'm now known for Olef's Color Brite Detergent .... 
+[01:27] <AntiKryptoni> LOL!
+[01:27] <ChiefPam> lol, Nan, own it!
+[01:27] <CarolM> go nan!
+[01:28] <LynnSM> I've never attended one (I'm a relative newbie tot he fandom), but I've heard that they had categories for best videos, for example.
+[01:28] <ChiefPam> I'm going to go out on a limb and bet that there will, in fact, be more ties :)
+[01:28] <Chrispat> Best web sites, etc
+[01:29] <LynnSM> There are only two nominees in the BNA category. Wouldn't it be fun if they both won?
+[01:29] <VickiM> AntiK will win that one - I'd bet my last dollar
+[01:29] * amberlea is now known as for_Michael
+[01:29] <AntiKryptoni> What about What Is Eternal? That's a great story!
+[01:29] <ChiefPam> Ooh, another Michael speech...
+[01:29] * KarenT whistles and hides the envelopes
+[01:29] * lwf has joined #kerthchat
+[01:29] <VickiM> Aww, thanks, AntiK
+[01:29] * VickiM blushes
+[01:30] <Mouserocks> heehee, and i thought he was just peeking at all the envelopes
+[01:30] <VickiM> lol, Mouse
+[01:30] <AntiKryptoni> LOL!
+[01:31] <ChiefPam> lol. I'm going with option #2!
+[01:31] <Corrina> that's true
+[01:31] <KarenT> lol
+[01:31] <AntiKryptoni> Nah!
+[01:31] <LynnSM> Was he steaming them open?
+[01:31] <mozartmaid> yeah, usually option 2 ;)
+[01:31] <LynnSM> Or did he just ask Clark to do a little super-peeking?
+[01:31] <VickiM> LOL!
+[01:32] <IolantheAlia> We all know Clark would never peek without permission.
+[01:32] <VickiM> that was hilarious, Lois' stolen garbage
+[01:32] <ChiefPam> to be fair, an episode can only explore so much about the premise, so we need to rewrite to see how things could have been different if...
+[01:32] <Mouserocks> Thats where the jedi mind tricks come in
+[01:32] <Mouserocks> "peek into the envelopes, Clark..."
+[01:32] <AntiKryptoni> LOL!
+[01:32] <VickiM> so...Clark is weak-minded? ;)
+[01:32] <LynnSM> Or red kryptonite. Or hypnosis. Or magic. Or...
+[01:32] <mozartmaid> exactly. @Pam
+[01:32] <VickiM> Anti-K's was great 
+[01:33] <AntiKryptoni> Thanks!
+[01:33] <IolantheAlia> Congrats AK on two nominees!
+[01:33] <mozartmaid> Father's Kryptonite -- so well-written and Jonathan is often under-appreciated in fanfic
+[01:33] <Mouserocks> Congrats, folcs! all such excellent stories! I was so torn...
+[01:33] <AntiKryptoni> Congratulations, DC, on that story--loved the look into Clark's mind!
+[01:33] <VickiM> Thanks :)
+[01:33] <AntiKryptoni> Thanks, Mozartmaid and Iolanthe1
+[01:34] <ChiefPam> lol
+[01:34] <IolantheAlia> Lois already has three Kerths!
+[01:34] <mozartmaid> lol
+[01:34] <VickiM> LOL
+[01:34] <Mouserocks> LOL! Michael!
+[01:34] <ChiefPam> now watch, the envelope will explode
+[01:34] <mozartmaid> ha ha ha
+[01:34] <Meadowlark> or shine a bright light
+[01:34] <hachiban> Lois's garbage will explode.
+[01:34] <Classicalla> And... and... and...
+[01:34] <ChiefPam> lol Nan
+[01:34] <LynnSM> Congrats, ML!
+[01:34] <VickiM> Congrats Bob!
+[01:34] <mozartmaid> Conrats ML!
+[01:35] <VickiM> Congrats ML
+[01:35] <IolantheAlia> Congrats MLT!
+[01:35] <hachiban> Yay ML!
+[01:35] <CarolM> Go ML!
+[01:35] <VickiM> lol
+[01:35] <ChiefPam> Yay, ML!!!
+[01:35] <Corrina> Congrats ML
+[01:35] <mozartmaid> ConGrats
+[01:35] <AlishaK2> yay, congrats ML!!
+[01:35] <Mouserocks> Congrats ML! Fantastic tale!
+[01:35] <VickiM> see what happens when I type and talk to hubby at the same time?
+[01:35] <LynnSM> Three guesses on your husband's name?
+[01:35] <Becky__> Way to go!
+[01:35] * for_Michael is now known as amberlea
+[01:35] <KarenT> congrats, ML!
+[01:35] <LynnSM> Or should that be, "fantastic tail"?
+[01:35] <VickiM> it's Chris, but I saw the B from blind and just typed :P
+[01:36] <VickiM> *sigh*
+[01:36] <LynnSM> Oops. I guess I would have needed guesses two and three, then.
+[01:36] <VickiM> lol
+[01:36] <Mouserocks> haha!
+[01:36] <LynnSM> BRB. DS needs me.
+[01:36] <VickiM> I've been exposed to the Chris on IRC for far too long - my typoitis is fatal
+[01:36] <Mouserocks> yes, it was a fantastic tail as well.
+[01:36] <LynnSM> I'm back. He's OK.
+[01:37] <IolantheAlia> Mouse - "fantastic tail" - I'm guessing you're referring to Shadow the Guide Dog in MLT's story?  Hee hee!
+[01:37] <LynnSM> Yup. That's what I was thinking.
+[01:38] <hachiban> ML will be happy. Maybe this will induce her to write more stories.
+[01:38] <Mouserocks> hopefully. 
+[01:38] <IolantheAlia> I hope so.
+[01:38] * Mouserocks crosses fingers
+[01:38] <LynnSM> Fingers crossed.
+[01:38] <Meadowlark> Yes, more ML!
+[01:40] <VickiM> Yep, some really great dramas this year. :)
+[01:40] <hachiban> Yesss! Best Drama! The kind of story I love to write. too bad I didn't get the vampire fic finished before the end of the year. <cackle>
+[01:40] <mozartmaid> Is A-Plot the story of the week and B-Plot the relationship (or longer story arc)? I get that mixed up...
+[01:41] <ChiefPam> there's always next year, Nan <g>
+[01:41] <ChiefPam> Um, but you should finish it well before the end of the year!!!
+[01:41] <LynnSM> You got it right, MM
+[01:41] <mozartmaid> thanks Lynn
+[01:41] <hachiban> I'm working on it! Really! I hope to post the next part tomorrow.
+[01:41] <ChiefPam> yay!
+[01:41] <IolantheAlia> Yay Nan!
+[01:42] <ChiefPam> sounds like an awesome story, AK
+[01:42] <AntiKryptoni> Ah, thanks!
+[01:42] <VickiM> AK's is awesome
+[01:42] <LynnSM> I have to head off for about ten minutes or so. Time to get my son ready for bed.
+[01:42] <mozartmaid> Everywhere -- great fic
+[01:42] <VickiM> LOVED Distraught too
+[01:43] <mozartmaid> Distraught was good, but got a little too dark for me
+[01:43] <IolantheAlia> This was one of the hardest categories to make a choice in.
+[01:43] <VickiM> Me too,Io
+[01:43] <mozartmaid> The other shoe was SO fun!
+[01:43] <ChiefPam> Yes, it was great
+[01:43] <hachiban> dum...dum...dum... Now the traditional dragging out of the suspense.
+[01:43] <IolantheAlia> Agree
+[01:44] <Mouserocks> woah! stop multitasking, almost missed my own category!
+[01:44] <ChiefPam> lol
+[01:44] <VickiM> lol Mouse
+[01:44] <KarenT> hehe
+[01:44] <IolantheAlia> Congrats AK!
+[01:44] <ChiefPam> Congrats, AK!
+[01:44] <mozartmaid> yay!! congrats Anti-K!
+[01:44] <AlishaK2> well done anti-k
+[01:44] <hachiban> Yay AK!
+[01:44] <Mouserocks> Congratulations, Anti-K!
+[01:44] <VickiM> Wahoo!  Congrats, AntiK!!!
+[01:44] * VickiM cheers wildly
+[01:44] <AntiKryptoni> Wow, thanks!!!
+[01:45] <Corrina> cool - that was one of my favourite stories this year!
+[01:45] <Classicalla> Congrats Anti-K!
+[01:45] <IolantheAlia> I liked the slow buildup - at first, Lois is totally taken in by the clone.  But slowly, carefully, certainly... she sees the light.
+[01:45] <ChiefPam> spoilers! <g>
+[01:45] <Mouserocks> I loved that story! So deliciously dark and dramatic!
+[01:45] <IolantheAlia> Whoops, sorry.  No spoilage meant.
+[01:46] <VickiM> lol
+[01:46] <ChiefPam> s'okay, I like spoilers
+[01:46] <IolantheAlia> OK, then I'll go out on a limb and say that Clark slowly heals as well!
+[01:46] <Corrina> And the title is a little bit of a spoiler
+[01:47] <ChiefPam> Excellent speech
+[01:47] <AntiKryptoni> LOL! Thanks, guys! Glad you enjoyed it enough to vote for me!
+[01:47] <mozartmaid> aw. great speech
+[01:47] <VickiM> Excellent speech, AntiK!
+[01:47] <hachiban> Great speech!
+[01:47] <Mouserocks> Fantastic speech!
+[01:47] <LynnSM> I'm back. Congrats, Anti-K. I knew you'd win at least one more Kerth before the night was out!
+[01:47] <ChiefPam> Oh, I'm sure there will be more to come...
+[01:48] * AntiKryptoni blushes
+[01:48] <ChiefPam> hey, enjoy it, you worked hard for this! :)
+[01:49] <Classicalla> Clark and Lois.  That's a good thing.
+[01:49] <ChiefPam> lemme guess -- alt/else
+[01:49] <VickiM> lol
+[01:50] <AntiKryptoni> VERY Elseworlds!
+[01:50] <ChiefPam> The end.
+[01:50] <ChiefPam> Cute, Amber!!
+[01:50] <Corrina> I thought we'd done the 'Super Short' category already
+[01:50] <VickiM> lol Corrina
+[01:50] <AntiKryptoni> LOL!
+[01:50] <ChiefPam> oh, I was wrong... Relationship category!
+[01:50] <IolantheAlia> :)
+[01:50] <Mouserocks> Haha!
+[01:51] <mozartmaid> I loved Choc Lab :)
+[01:52] <IolantheAlia> thanks.  Actually I just re-read MMKent on my nook this afternoon!
+[01:52] <AntiKryptoni> Chocolate Lab--the scene with the green eggs and ham gets me everytime!
+[01:52] <mozartmaid> :D
+[01:52] <IolantheAlia> TMTY - a great story!
+[01:52] <VickiM> Chocolate Lab was great :)
+[01:52] <IolantheAlia> Thanks!
+[01:52] <mozartmaid> and TMTY was awesome!
+[01:52] <Mouserocks> Heehee. Tiramisu. ;)
+[01:52] <LynnSM> Congratulations, Corrina.
+[01:52] <ChiefPam> woo-hoo, yay, Corrina!
+[01:52] <mozartmaid> so could have predicted that! ;)
+[01:52] <IolantheAlia> Congrats Corrina!  A well-deserved victory!
+[01:52] <VickiM> Congrats, Corrina!!!
+[01:52] <mozartmaid> congrats Corrina!!
+[01:52] <LynnSM> TMTY will stay with me for a long time to come. It was phenomenal.
+[01:52] <Mouserocks> Congrats, Corrina! Fabulous story!! loved it!
+[01:53] <hachiban> Congrats again! You're running up quite a record!
+[01:53] <Classicalla> Congratulations, Corrina1
+[01:53] <AntiKryptoni> Congratulations to all the nominees--tons of good stories here! And congratulations, Female Hawk!
+[01:53] <AlishaK2> well done Corrina!
+[01:53] <IolantheAlia> I remember when Corrina sent me the first chapter for beta - Clark, locked up by the government agency - watched, tortured - it hooked me right from the first word!
+[01:53] <Becky__> Way to go!
+[01:53] <LynnSM> I agree completely, Io. I felt the same way.
+[01:53] <IolantheAlia> I still wonder about that Clark and I wonder how much PTSD he has.
+[01:53] <mozartmaid> so true
+[01:54] <LynnSM> If anyone can help him with that, it's Lois.
+[01:54] <ChiefPam> See, that's the kind of story that's too much stress for me to deal with... but I did read a few chapters in the middle, somewhere :)
+[01:54] <mozartmaid> good point. that story stays with you
+[01:54] <IolantheAlia> Pam, now that it's complete, take an afternoon (or maybe two or three) and read the whole thing!
+[01:55] <ChiefPam> I may have to do that!
+[01:55] <mozartmaid> yes, it's totally worth it!
+[01:55] * ChiefPam writes down all sorts of stories to read...
+[01:55] <Meadowlark> Sorry, but I am with you, Pam, don't care for torture stories
+[01:55] <LynnSM> It does have a start that is painful to get through -- Clark is in such a horrible place -- but the story is well worth reading. Things do get better.
+[01:55] <LynnSM> And this from someone who usually tries to avaoid WHAM-my fiction.
+[01:56] <ChiefPam> Well, I just read the Hunger Games series, so I can't claim to always need to have happy endings :)
+[01:56] <Classicalla> I haven't read it, but it sounds very interesting.  I'll put it on my "to do" list.
+[01:56] * Mouserocks jumps up and down at the chance to read and re-read angst!
+[01:56] <IolantheAlia> TMTY - well worth reading!
+[01:56] <ChiefPam> My fandom eats angst for breakfast
+[01:56] <AntiKryptoni> LOL!
+[01:56] * VickiM applauds for Corrina
+[01:58] <Mouserocks> Good speech, Corrina!
+[01:58] <ChiefPam> lol
+[01:58] <IolantheAlia> I hope this is "Clark in a swimsuit"
+[01:58] <ChiefPam> Speedos, yum
+[01:58] <LynnSM> Yum.
+[01:58] <AntiKryptoni> Very nice speech, FH!
+[01:58] <KarenT> lol
+[01:58] <mozartmaid> he he, me too Iolanthe
+[01:58] * VickiM drools
+[01:58] <Mouserocks> lol! me too!
+[01:58] <mozartmaid> *thatchest*
+[01:58] <AMCiotola> lag?
+[01:58] <LynnSM> Or maybe just the red trunks? Skip the rest of the Suit.
+[01:59] <Mouserocks> are we comparing best supermen?
+[01:59] <IolantheAlia> I want to see beefcake!~
+[01:59] <Mouserocks> Here, here!
+[01:59] <Classicalla> Ooohhh....  Yes, that chest.  
+[01:59] * amberlea is now known as for_Virginia
+[01:59] <Mouserocks> ... And those arms...
+[01:59] <LynnSM> "thatchest" -- the best password ever (if not the most secure).
+[02:00] <mozartmaid> lol
+[02:00] <KarenT> oh,k you asked for it
+[02:00] <Mouserocks> hahaha!!
+[02:00] <LynnSM> A WONDERful island.
+[02:00] <IolantheAlia> :)
+[02:00] <LynnSM> But I don't like the male-to-female ratio there.
+[02:01] * Mouserocks adjusts password to laptop
+[02:01] <hachiban> Not to mention, one of the princesses may decide to kill you if she likes your husband....
+[02:01] <Classicalla> Themyscira?  Oh, my.  Where is this going?
+[02:01] * VirginiaR has joined #kerthchat
+[02:01] <IolantheAlia> Hi Virginia! 
+[02:01] * Becky__ has quit IRC (Ping timeout)
+[02:01] <ChiefPam> hey, Virginia, good speech
+[02:01] <ChiefPam> err, commercial
+[02:01] <KarenT> actually, you know what? that sounds like a great vacation!
+[02:01] <Mouserocks> Hi, virginia!
+[02:01] <Mouserocks> Good commercial(s)!
+[02:01] <hachiban> Lois didn't think so...
+[02:02] <ChiefPam> it does, Karen!
+[02:02] <Classicalla> Watch out, Diana!  Lois will come after you!
+[02:02] * for_Virginia is now known as amberlea
+[02:02] <ChiefPam> leave the kids and husband at home... <g>
+[02:02] <KarenT> oh yeah
+[02:02] <VirginiaR> Thanks, can anyone tell me how to open a second chat room so I can see the awards too
+[02:02] * Becky__ has joined #kerthchat
+[02:03] <KarenT>   /join #kerthawards
+[02:03] <ChiefPam> My name is Inigo Montoya
+[02:03] <LynnSM> Sorry, Virginia. Unless you are using Trillian, I can't help you.
+[02:03] <Mouserocks> You killed my father. Prepare to DIE!
+[02:03] <LynnSM> Prepare to die?
+[02:03] <ChiefPam> Now, we do alt/else.  This might be my favorite category...
+[02:03] <VickiM> Hi Virginia!
+[02:04] <VirginiaR> Okay, thanks Karen, I'm logged in.
+[02:04] <hachiban> Just open the list and click on #kerthawards. Then shrink your windows down so you can see both of them.
+[02:05] <ChiefPam> will it last?  I'm betting not
+[02:05] <ChiefPam> wouldn't be much of a story if it did <g>
+[02:05] <Mouserocks> Nope. :P
+[02:05] <AntiKryptoni> That's a great story, mozartmaid!
+[02:05] <Mouserocks> Agreed!
+[02:06] <mozartmaid> thanks. I think I wrote it for Iolanthe during the ficathon? Do u remember your requirements for it?
+[02:06] * VirginiaR has quit IRC (Signed off)
+[02:06] <IolantheAlia> I'm afraid not!
+[02:06] <mozartmaid> I remember yogurt :)
+[02:06] <mozartmaid> or rather, NO yogurt, I think
+[02:06] <IolantheAlia> I think I *didn't* want yogurt, for some reason.  Not sure why now.  I've actually developed a taste for that Greek yogurt.
+[02:06] <mozartmaid> lol
+[02:07] <LynnSM> You're competing against yourself, MM. Congratulations.
+[02:07] <IolantheAlia> Hey Classicalla - I think that the second fic is actually Virginia's "Missing Lois"
+[02:07] <mozartmaid> ha ha, I know. Although, "secretly" Mr Mrs Kent is my fav story I've written so far
+[02:08] <mozartmaid> um, no that wasn't the plot to that one...
+[02:08] <mozartmaid> that was my other story --
+[02:08] <LynnSM> It does sound like Virginia's ML
+[02:08] <mozartmaid> Prisoners
+[02:09] <mozartmaid> I had to go look up the title... 
+[02:09] <IolantheAlia> Missing Lois - I remember this for the plethora of Loises
+[02:09] <mozartmaid> Mr and Mrs Kent used the premise from Mr. and Mrs. Smith, but Clark and Lois meet in the Congo with their secrets -- Lois is an assasin, coerced, I might add
+[02:09] <ChiefPam> luckily, Virginia timed out
+[02:09] <VickiM> lol
+[02:09] <IolantheAlia> There was canon Lois, canon past Lois, canon present Lois, alt-Lois, clone canon Lois, and clone alt-Lois, as I recall.
+[02:09] <ChiefPam> ooh, cool <g>
+[02:10] <Becky__> Sorry to have to leave-hate to miss the after party
+[02:10] * VickiM 's head just exploded from so many Loises
+[02:10] <Dernit> well I need to go, good to see some of you again, hopefully I'll be around a bit more
+[02:10] <Becky__> Bye all!
+[02:10] <LynnSM> Lois was multiplying like tribbles!
+[02:10] <IolantheAlia> Bye!
+[02:10] <VickiM> LOL
+[02:10] <ChiefPam> Night!
+[02:10] <VickiM> Bye!
+[02:10] <LynnSM> Bye Becky and Dernit.
+[02:10] <mozartmaid> ok THAT one is Mr. and Mrs. Kent
+[02:10] <mozartmaid> lol
+[02:10] <IolantheAlia> Yes, when you get into the past and the alt-world and the clone Loises, there are quite a few Loises
+[02:11] <mozartmaid> yes indeedy :)
+[02:11] * Dernit has quit IRC (Signed off)
+[02:11] * VirginiaR has joined #kerthchat
+[02:11] <VickiM> welcome back, Virginia
+[02:11] <LynnSM> Welcome back.
+[02:12] <AntiKryptoni> That's an amazing story, Corrina! Love it!
+[02:12] <ChiefPam> welcome back & good luck!
+[02:12] <Corrina> maybe we should have another ficathon soon - as ficathon stories seem to get lots of nomintions
+[02:12] <Mouserocks> back
+[02:12] <LynnSM> Feel better, Nancy.
+[02:12] <mozartmaid> they are fun!
+[02:12] * Mouserocks has quit IRC (Read error: Connection reset by peer)
+[02:12] <IolantheAlia> Congrats Corrina!
+[02:12] <VickiM> Congrats, Corrina!!!
+[02:12] * Mouserocks has joined #kerthchat
+[02:12] <mozartmaid> congrats Corrina!
+[02:12] <LynnSM> Congratulations, Corrina!
+[02:12] <AntiKryptoni> Congratulations, Corrina!
+[02:13] <AlishaK2> Well done Corrina
+[02:13] <LynnSM> I'm guessing TMTY will also win the Best Overall.
+[02:13] <Mouserocks> back again :) Congrats Corrina!
+[02:13] <ChiefPam> Congrats, Corrina!
+[02:13] * Classicalla shakes head in embarrassment.
+[02:13] <mozartmaid> I'm fading... 2AM - will power to make it to the end!
+[02:13] <IolantheAlia> I think Corrina needs to install special lighted shelves to hold all her Kerth awards.  /grin/
+[02:13] <Classicalla> I'm glad I had the good sense to glance at the chat.  Thanks...
+[02:13] <mozartmaid> lol
+[02:13] * ChiefPam sends MM some expresso
+[02:13] <mozartmaid> thanks!
+[02:13] <VickiM> or an addition onto her place - a whole new room :)
+[02:13] <LynnSM> I think she'd need not just one or two shelves -- she'd need a whole bookcase.
+[02:14] <LynnSM> Maybe a wall.
+[02:14] <hachiban> Congrats!
+[02:14] <ChiefPam> Ask Nan what she does with all of hers <g>
+[02:14] <hachiban> Sorry to be late. I drank too much tea before the ceremony and I'm paying for it now. <sigh>
+[02:14] <LynnSM> A whole new room would work, too. Give her room for next year's Kerths.
+[02:14] <VirginiaR> I totally missed that as MIRC keeps disappearing on me.  What did Corrina just win?
+[02:15] <ChiefPam> Best Alt/Else for Trusting Me, Trusting you
+[02:15] <AlishaK2> I think you're doing well mm, I'm half asleep here meself!
+[02:15] <LynnSM> And it was worth every word.
+[02:15] <VirginiaR> Congrats!  That's a great fic!
+[02:15] <mozartmaid> I'm presenting BNA
+[02:15] <mozartmaid>  after that, I think I'll sign off
+[02:15] <LynnSM> If you fall asleep before then, I'll try to give your half, too...
+[02:16] <KarenT> okay, I"m not able to make it through the rest of the ceremony. I'll stay connected, though
+[02:16] <LynnSM> There is only one more category after that. Best overall.
+[02:16] <mozartmaid> thanks Lynn. we have only one more category till ours though. I think I'll make it
+[02:16] <mozartmaid> jinx
+[02:16] <mozartmaid> :P
+[02:16] <KarenT> have a good night, everyone!
+[02:16] <LynnSM> <chuckle>
+[02:16] <mozartmaid> night!
+[02:16] <VickiM> night Karen
+[02:16] <ChiefPam> take care, Karen
+[02:16] <AntiKryptoni> Good night!
+[02:16] <LynnSM> Good night, Karen.
+[02:16] <IolantheAlia> Good night!
+[02:16] <AlishaK2> night Karen
+[02:17] <hachiban> night K
+[02:17] <AMCiotola> Night Karen
+[02:17] <VirginiaR> Thanks for all your help!
+[02:17] <AntiKryptoni> Nice speech, Corrina!
+[02:17] <hachiban> I have a 16 pound cat trying to worm his way behind my monitor. He keeps walking on my keyboard.
+[02:17] <VickiM> Quite lovely :)
+[02:17] <VickiM> lol Nan
+[02:17] <mozartmaid> 400k words -- impressive, Corrina!
+[02:18] <Corrina> Thanks, Anti-K
+[02:18] <LynnSM> If we see some random letters coming from you, we'll know why.
+[02:18] <mozartmaid> and every word counted 
+[02:18] <mozartmaid> very deliberate
+[02:18] <Corrina> Yay Iolanthe
+[02:18] <Classicalla> Hello, Iolanthe.
+[02:18] <VirginiaR> I tried to write a commercial / newsbreak for it, but I kept getting sucked back into the story and 2 hours later... :-) Nada written.  Apologies!
+[02:19] <ChiefPam> "For the best in government torture..."
+[02:19] <Mouserocks> Night, Karen!
+[02:19] <ChiefPam> That is odd, indeed
+[02:19] <ChiefPam> lol
+[02:20] <mozartmaid> lol
+[02:20] <LynnSM> <GROAN>
+[02:20] <AlishaK2> groan
+[02:20] <VickiM> lol
+[02:20] <VirginiaR> Anyone have a face-palm smilie handy?
+[02:20] <Corrina> LOL
+[02:20] <mozartmaid> Lynn, are you going first or am I?
+[02:20] <LynnSM> I am.
+[02:20] <AlishaK2> I'm not sure I'm done groaning, actually
+[02:20] <mozartmaid> k, thought so
+[02:21] * Becky__ has quit IRC (Signed off)
+[02:21] <VirginiaR> Is this where we clap?
+[02:21] <LynnSM> Shadow's a terrific character.
+[02:21] * Mouserocks claps wildly
+[02:21] <Mouserocks> Yay, Shadow!
+[02:21] <Classicalla> I love stories with animals!
+[02:21] <Mouserocks> (and by extension, ML) ;)
+[02:22] <mozartmaid> :)
+[02:22] <VirginiaR> Anyone who would make Lois kick Clark out of bed must be a good character.
+[02:22] <LynnSM> Was he the butt of a lot of jokes?
+[02:22] <mozartmaid> high-hat
+[02:22] <mozartmaid> as in on a drum
+[02:22] <Meadowlark> Loved Shadow
+[02:22] <AntiKryptoni> LOL!
+[02:22] <ChiefPam> oh, that's awful
+[02:22] <Mouserocks> HAHA! terrible...
+[02:22] <LynnSM> Ugh.
+[02:22] <AlishaK2> Told you I wasn't done groaning...
+[02:22] * VickiM groans
+[02:22] <Corrina> Iolanthe - you need to write comedy!
+[02:22] <VirginiaR> Iolanthe, what??
+[02:23] <mozartmaid> lol
+[02:23] * VickiM groans again
+[02:23] * mib_4wfb87 has joined #kerthchat
+[02:23] <Mouserocks> Ba-dum-bum!
+[02:23] <VirginiaR> Gee, I was going to guess LexLabs
+[02:23] * ChiefPam joins the groaning chorus
+[02:23] <Mouserocks> lol!
+[02:23] <mozartmaid> ha ha, touche Virgina
+[02:23] <IolantheAlia> Actually that's quite a good response, Virginia!
+[02:24] <VirginiaR> Yea!!! Lynn!!
+[02:24] <ChiefPam> okay, that one I have to read...
+[02:24] <lncroxmysox> Haha, the explanation we were all waiting for since 1994
+[02:24] <mozartmaid> this was brilliant Lynn!
+[02:24] <VickiM> How did I miss that one?
+[02:24] <LynnSM> Thanks!
+[02:24] <Mouserocks> Perfect explanation, Lynn! Loved it!
+[02:24] * mib_4wfb87 has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[02:25] <LynnSM> I am happy to report that my son, whose egg allergy inspired the story, has since outgrown the allergy.
+[02:25] <VirginiaR> Um... DC, you were too busy have Lois hit Clark with a 2x4
+[02:25] <LynnSM> And he *loves* eggs. Especially hard boiled. :)
+[02:25] <mozartmaid> hmm... fanfic works miraculous cures? :D
+[02:25] <VickiM> good for him. :)  Yay!
+[02:25] <ChiefPam> Not even a raisin!
+[02:25] <AlishaK2> Hey!
+[02:25] <VickiM> Virginia, you'll be happy to know that I am posting chapter 10 after the Kerths - a few hours early :)
+[02:25] <Mouserocks> hahha! ouch!
+[02:25] <Meadowlark> Oh, a joke, like a raisen  
+[02:26] <lncroxmysox> Woe is Jimmy
+[02:26] <mozartmaid> lol
+[02:26] * AlishaK2 is looking for her royalty cheque
+[02:26] <VirginiaR> I loved Alisha Raisen joke!
+[02:26] <VickiM> lol
+[02:26] <mozartmaid> getting a lot of mileage out of that raisin ;)
+[02:26] <Mouserocks> lol!
+[02:26] <LynnSM> Where's the punch line?
+[02:27] <VickiM> The raisin heard 'round the world :)
+[02:27] <VirginiaR> I think it slid onto the floor, Lynn
+[02:27] <mozartmaid> lol
+[02:27] <LynnSM> <groan>
+[02:27] <VickiM> lol Io
+[02:27] <mozartmaid> ha ha
+[02:27] <ChiefPam> oy... where are you getting these?
+[02:27] <lncroxmysox> *throws fish*
+[02:27] <AntiKryptoni> LOL, Vicki!
+[02:27] <LynnSM> Did Io just make a spectacle of herself?
+[02:27] <mozartmaid> <groan>
+[02:27] <Mouserocks> even i can't take that much cheese!
+[02:27] <IolantheAlia> Groan!
+[02:27] <ChiefPam> lol, Lynn
+[02:27] <amberlea> I suspect they came from the Fozzie the Bear joke book
+[02:27] <VickiM> lol, Lynn!
+[02:27] <mozartmaid> lol
+[02:27] <Mouserocks> ;) kidding. of course i can.
+[02:27] <AlishaK2> well done Lynn
+[02:27] <mozartmaid> Fozzie! Love it!
+[02:27] <hachiban> Oy!
+[02:27] <VirginiaR> Well, Io, at least you didn't go to Clark's.  If he can't tell regular vision from Supes...
+[02:28] <mozartmaid> wacka wacka wacka!
+[02:28] * VickiM offers Mouse a cracker to help with the cheese
+[02:28] <Classicalla> You are a riot, Iolanthe.
+[02:28] <LynnSM> And no Waldorf or Statler around anywhere.
+[02:28] <IolantheAlia> amberlea - how did you guess?
+[02:28] <VirginiaR> Yeah, Cheese of the Montha, anyone?
+[02:28] <VirginiaR> <<ducking>>
+[02:28] <ChiefPam> lol
+[02:28] <amberlea> because Fozzie jokes are awesome, of course!  :)
+[02:28] <VickiM> oooh, gouda one, Virginia ;)
+[02:29] <mozartmaid> lol
+[02:29] <ChiefPam> lol, Vicki
+[02:29] <lncroxmysox> Okay you all are getting out of hand
+[02:29] * VickiM hides under the couch
+[02:29] <mozartmaid> WofL was great
+[02:29] <Mouserocks> lol! 
+[02:29] <Mouserocks> and its not even late enough for me to be punchy yet!
+[02:29] <VickiM> same here, Mouse ;)
+[02:29] <VirginiaR> WoL was terrific!
+[02:30] * lncroxmysox takes AWAY the silverware
+[02:30] <ChiefPam> groan...
+[02:30] <VickiM> snork @ Io
+[02:30] <LynnSM> Holy Swiss cheese, Batman. These jokes are awful!
+[02:30] <CarolM> groan
+[02:30] <mozartmaid> sax and violins -- rolls eyes
+[02:30] * Mouserocks mutters about when dinner's ready
+[02:30] <VirginiaR> LOL, Io
+[02:30] <IolantheAlia> I've been collecting corny jokes all year!
+[02:30] <VirginiaR> Must be all the holes, Robin
+[02:30] <mozartmaid> lol
+[02:30] <VickiM> lol
+[02:30] <Mouserocks> LOL!
+[02:30] <VirginiaR> Keep looking, Io, I'm sure you'll find one
+[02:30] <mozartmaid> how punny ;)
+[02:30] <AntiKryptoni> Are you stalling because they lost the envelope, Iolanthe? :)
+[02:31] <ChiefPam> okay, that one was funny <g>
+[02:31] <Classicalla> Nope.  Envelope not lost.  
+[02:31] <mozartmaid> this was a cute fic
+[02:31] * Mouserocks puts down the torch
+[02:32] <VirginiaR> Thanks
+[02:32] <LynnSM> Not often we see a story written in Perry's POV. This was a good one.
+[02:32] <mozartmaid> ooh good word!
+[02:32] <VickiM> was saying before that Yodeler's Song was one of the first I read on the boards, if memory serves, Virginia
+[02:32] <AntiKryptoni> Good story, Virginia!
+[02:32] <Classicalla> Yep, I always figured Perry figured it out when he saw Clark trying to go out the window in the supply room.
+[02:32] <VirginiaR> Well, at least I didn't scare Vicki away, phew!
+[02:32] <VickiM> lol nope - hard to scare me away when I enjoy torturing characters :)
+[02:32] <LynnSM> Ugh.
+[02:33] <hachiban> Agh!
+[02:33] <AntiKryptoni> Oh for crying out loud...
+[02:33] * VickiM groans
+[02:33] <Mouserocks> XD
+[02:33] * ChiefPam hands out pitchforks
+[02:33] <VickiM> lol
+[02:33] * lncroxmysox takes one
+[02:33] * AlishaK2 wonders why she's stayed up for these jokes
+[02:33] <LynnSM> LOL. Good one.
+[02:33] <AntiKryptoni> Thanks, Pan, I was looking for one of these.
+[02:33] * mozartmaid wonders the same, Alisha ;)
+[02:33] <hachiban> My torch won'l light ...
+[02:33] <ChiefPam> Mouse is in charge of the torches
+[02:33] <Mouserocks> LOL! I think the responses are funnier than some of the jokes...
+[02:34] <VickiM> oh no!  you gave Mouse the power of fire????
+[02:34] <AntiKryptoni> Here's a match.
+[02:34] <IolantheAlia> I agree, and I'm telling the jokes!
+[02:34] <lncroxmysox> Are the Kerths always longer than the Oscars?
+[02:34] <Mouserocks> Torches, get your torches here!
+[02:34] <VirginiaR> I'll take one Mouse
+[02:34] <LynnSM> The jokes are matchless.
+[02:34] <mozartmaid> I think I missed BSB by MLT. will put on to-read list...
+[02:34] * VickiM puts on The Mob Song from Beauty and the Beast
+[02:34] <AntiKryptoni> Give me a few--my family wants some as well.
+[02:34] <AntiKryptoni> Great one, Vicki!
+[02:34] <Mouserocks> I'm a dangerous one with fire. I'm deviously evil enough already. 
+[02:34] * ChiefPam hums along...
+[02:34] <AntiKryptoni> Kill the beast!
+[02:34] <VickiM> lol
+[02:34] <Mouserocks> you dont need to fan my flames... XD
+[02:35] <AntiKryptoni> Here's a belated LOL, Lynn!
+[02:35] <lncroxmysox> ...
+[02:35] <AMCiotola> Boy, the dragging things out never gets old ...
+[02:35] <ChiefPam> tough category apparently
+[02:36] <LynnSM> Congratulations, ML!
+[02:36] <ChiefPam> Congrats, ML!!
+[02:36] <lncroxmysox> Canines rule!
+[02:36] <VickiM> Congrats, ML and Shadow!
+[02:36] <mozartmaid> congrats ML
+[02:36] <AlishaK2> Congrats ML
+[02:36] <Corrina> Congrats, MLT
+[02:36] <LynnSM> The rest of us didn't stand a dog of a chance!
+[02:36] <mozartmaid> woof!
+[02:36] <VirginiaR> Yea! Shadow!
+[02:36] <hachiban> Congrats ML! Loved Shadow!
+[02:36] <AntiKryptoni> Go, dogs!
+[02:36] <Mouserocks> Congrats ML! Loved Shadow! 
+[02:36] <Classicalla> Congrats!!
+[02:36] <Meadowlark> Great presentation, Iolanthe!
+[02:36] <IolantheAlia> Congrats, ML!
+[02:36] <Mouserocks> Agreed- great presentation!
+[02:36] <ChiefPam> So I guess we can put down the pitchforks now...
+[02:36] <Corrina> Is this the first time an animal has won a Kerth? Well,  ML won it, but you know what I mean
+[02:37] * Mouserocks reluctantly puts aside torches
+[02:37] <Corrina> Iolanthe - you've just shown everyone that you should be writing more
+[02:37] <VickiM> lol good thing, Pam - I just burnt myself on the torch :p
+[02:37] <ChiefPam> Might be.  Though I remember Meredith Knight did a great job with a ficus one year...
+[02:37] <VickiM> Io, you need to crank out some comedy stories :)
+[02:37] <Classicalla> Can't wait to see the presentation that Lynn and MozartMaid have for us!
+[02:38] <IolantheAlia> Thanks.  But all my jokes were plagiarized from Fozzie Bear.
+[02:38] <Mouserocks> Yes! Please! I'm a sucker for cheese! (if you couldnt tell)
+[02:38] <Meadowlark> Wasnt there a story from the POV of Lois' fish one year?
+[02:38] <ChiefPam> Probably
+[02:38] <lncroxmysox> There was one from her cat once I remember:)
+[02:38] <VirginiaR> Is that because you're a mouse, Mouse?
+[02:38] <IolantheAlia> LOL
+[02:38] <VickiM> lol
+[02:39] <lncroxmysox> This was the toughest category this year.
+[02:39] <Mouserocks> Haha! Didn't even catch that one!
+[02:39] <lncroxmysox> For me.
+[02:39] <VickiM> Congrats on the nom, AntiK!
+[02:39] <Mouserocks> Both of you deserve a hearty congrats!
+[02:39] <Classicalla> Congrats to the noms!
+[02:39] <IolantheAlia> I wanted to split my vote and vote for both of them, but the darn voting form wouldn't allow it!
+[02:40] <AntiKryptoni> Congrats to you, Vicki!
+[02:40] <ChiefPam> Xena crossover, lol
+[02:40] * VickiM hugs AntiK as the tension mounts :)
+[02:40] <AMCiotola> I do that on purpose, Io ;)
+[02:40] <VirginiaR> I figured Anti-K had been here for years, her stuff is so good!
+[02:40] <lncroxmysox> Whoever wins I want MORE FICS out of both of you ASAP!
+[02:40] <IolantheAlia> Yes, it would probably be a pain to have to count half-votes
+[02:41] <VickiM> lol LNC
+[02:41] <IolantheAlia> I agree with lncroxmysox
+[02:41] * lncroxmysox rolls drums
+[02:41] * Mouserocks considers embezzling half votes in the style of "Superman 3"
+[02:41] <VirginiaR> DC, you always keep me on my toes (especially during Xena crossover)
+[02:41] <VickiM> Wahoo!!!! You go, girl!!!!
+[02:41] <lncroxmysox> Yayyy!
+[02:41] <IolantheAlia> Congrats AK!  And congrats DC!
+[02:41] <ChiefPam> Congrats to both of you for being nominated
+[02:41] <Corrina> Congratulations, Anti-K
+[02:41] <LynnSM> Congratulations, Anti-K!
+[02:41] <ChiefPam> and congrats to AK for winning!
+[02:41] <VickiM> aww, thanks Virginia
+[02:41] <AlishaK2> Well done Anti-k
+[02:42] <hachiban> Congratulations to both new authors!
+[02:42] <Mouserocks> Congrats, Anti-K! and to DC! both so deserving!
+[02:42] <VickiM> Gongrats AntiK!!!!  YAY!!!!  Knew you'd take it!
+[02:42] <lncroxmysox> You guys rock!
+[02:42] <AntiKryptoni> Thank you! Thanks to all of you--I really don't know what to say. I can't believe Vicki didn't get this!
+[02:42] <Corrina> And congrats also to Vicki
+[02:42] <lncroxmysox> *applause*
+[02:43] <ChiefPam> Seriously, without awesome new writers coming in, this fandom would have died off years ago.  You're both terrific additions to the fandom.
+[02:43] <mozartmaid> ok, kids, it's been fun, but I must sign off!
+[02:43] <ChiefPam> night!
+[02:43] <VickiM> aww, thanks guys :)  
+[02:43] <VickiM> night Mozart
+[02:43] <LynnSM> Good night, MM. It was fun co-presenting.
+[02:43] <hachiban> night!
+[02:43] <mozartmaid> night all!
+[02:43] <AntiKryptoni> Good night, mozartmaid! Thanks for the great presentation!
+[02:43] <AlishaK2> night MM
+[02:43] <AntiKryptoni> Thanks, Lynn, for your wonderfully kind words!
+[02:43] <IolantheAlia> Good night Mozartmaid!  
+[02:43] <Mouserocks> Nite, MM!
+[02:43] <ChiefPam> great speech
+[02:43] <AMCiotola> night Mozartmaid
+[02:43] <VirginiaR> Congrats, Anti-K!
+[02:43] <mozartmaid> thanks -- congrats Anti-K on all your awards tonight! well-deserved!
+[02:43] <Chrispat> Congrats to all the winners and nominees :)
+[02:43] <mozartmaid> thanks!
+[02:44] <VickiM> Beautiful speech, AntiK!
+[02:44] <mozartmaid> have fun all... I will try to come by the boards more often ;)
+[02:44] <Mouserocks> Good speech, Anti-K!
+[02:44] <ChiefPam> so you should
+[02:44] <LynnSM> Aw. Another wonderful speech.
+[02:44] <Mouserocks> please do, MM!
+[02:44] <hachiban> Good speech!
+[02:44] <VickiM> AntiK is going to need a new addition to her house for all of the shiny awards
+[02:44] <ChiefPam> (says the person who's rarely seen there anymore...)
+[02:44] <mozartmaid> lol Pam
+[02:44] * amberlea is now known as for_Virginia
+[02:44] <mozartmaid>  I do have a fic I started that Corrina started to beta... maybe this will nudge me to take another stab at it ;)
+[02:45] <IolantheAlia> YES!
+[02:45] <AntiKryptoni> Thanks, everyone--I couldn't get this far without you!
+[02:45] <LynnSM> If it doesn't, then how about this? NUDGE, NUDGE!
+[02:45] <Corrina> I was going to suggest you get back to that!
+[02:45] <mozartmaid> ha ha, thanks guys!
+[02:45] <hachiban> Sorry about the spotty posts. I'm trying to multitask. Dog needed out, cat needed food, fixing hair to take my brother bowling and attend the Kerths. Argh!
+[02:45] <VickiM> AntiK is also a wonderful beta reader, not just the Best New Author :)
+[02:45] <mozartmaid> we'll see how the muse does with a little nudging ;)
+[02:45] <AntiKryptoni> Wow, Vicki, I need to hire you as my publicist!
+[02:46] <VickiM> LOL!
+[02:46] <LynnSM> I'll second that. She gave me some really good pointers on the fic I've been working on off and on all year.
+[02:46] <Mouserocks> Woo-hoo! 
+[02:46] <mozartmaid> ok, night for real now! ;)
+[02:46] <AntiKryptoni> Seriously, I wish we could have tied on this award! Love your stories!
+[02:46] * mozartmaid has left #kerthchat
+[02:46] * Mouserocks drools at Virginia's commercial
+[02:46] <AntiKryptoni> Wow, thanks, Lynn--glad the comments helped!
+[02:46] <VickiM> awww, thanks hun!
+[02:46] <VickiM> lol @ commerical
+[02:47] <IolantheAlia> "non-defunct newspaper"?  LOL
+[02:47] <Classicalla> I think Virginia should post these commercials as little mini-fics!
+[02:47] * AMCiotola has quit IRC (Signed off)
+[02:47] <Mouserocks> Seconded!
+[02:48] <VirginiaR> <<blushing>> uh... gee... thanks. :-)
+[02:48] <ChiefPam> too good for you, lol
+[02:48] <AntiKryptoni> Great commercial--but shouldn't we have a boycott on Luthor? :)
+[02:48] * AMCiotola has joined #kerthchat
+[02:48] <VickiM> Ditto that, Classicalla
+[02:48] * ChiefPam has quit IRC (Signed off)
+[02:48] <LynnSM> I guess that's one place Clark does *not* shop for his ties.
+[02:48] * ChiefPam has joined #kerthchat
+[02:49] <AMCiotola> re
+[02:49] <ChiefPam> re
+[02:49] * for_Virginia is now known as amberlea
+[02:49] <VickiM> what?  we're supposed to boycott the sociopath?
+[02:49] <AntiKryptoni> It might be recommended for your health.
+[02:49] <ChiefPam> that'll just tick him off
+[02:49] * Mouserocks raises hand
+[02:49] <Mouserocks> I wasnt aware of that plan...
+[02:49] <VickiM> lol
+[02:49] <VirginiaR> Um... Actually, he does, Lynn... But that was before he knew Luthor was, well, Luthor.
+[02:50] <ChiefPam> Yay, behind the scenes hard workers!
+[02:50] <LynnSM> Oops.
+[02:51] <IolantheAlia> Yes, thanks K-Comm!  You've done a wonderful job!
+[02:51] * VickiM gives KComm a standing ovation
+[02:51] <Corrina> Good point, Amber.  I'm sure many of us enjoying the ceremony have no idea what is needed to make something like this work.  Great job.
+[02:51] <AMCiotola> no applause, just throw money ;)
+[02:51] * LynnSM applauds
+[02:51] <lncroxmysox> Yayyy
+[02:51] * ChiefPam throws money
+[02:51] <Mouserocks> Thank you, K-Comm!
+[02:51] <AlishaK2> Thank you K-Comm
+[02:51] <AntiKryptoni> Thanks, everyone! Great job!
+[02:51] <VirginiaR> Anti-K, if you want to tell Luthor that we're boycotting him, I'll completely understand.  I'll miss you, but I'll understand.
+[02:51] * AMCiotola catches it
+[02:51] <VickiM> Thanks, KComm for making this lovely event happen!
+[02:51] <ChiefPam> Thanks, K-Comm!
+[02:51] <LynnSM> LOL Virginia.
+[02:51] <AntiKryptoni> LOL, Vicki! I'll bring SUperman with me.
+[02:51] <VickiM> lol Virginia
+[02:51] <ChiefPam> lol, Virginia
+[02:51] <AntiKryptoni> Maybe Lois, too--then we'll watch Luthor's downfall, literally.
+[02:52] <AntiKryptoni> Virginia, I mean, sorry about that! (blushing)
+[02:52] * VickiM gives Luthor a solid 6 on his swan dive off the high-rise
+[02:52] <IolantheAlia> Vicki, are you grading on the diving scale or on the gymnastics scale?
+[02:52] <VirginiaR> But, Vicki, he didn't scream!
+[02:52] <lncroxmysox> Luthor IS a graceful jumper. Just look how he turned into a bouquet as he went down.
+[02:52] <VickiM> His form was a little off ;)
+[02:53] <ChiefPam> lol
+[02:53] <VirginiaR> Yea, K-Comm.
+[02:53] <AntiKryptoni> LOL!
+[02:53] <ChiefPam> somebody snatched his body in midair
+[02:53] <LynnSM> You might say that his performace was a let-down?
+[02:53] <VirginiaR> LOL
+[02:53] <IolantheAlia> groan
+[02:53] * VickiM is laughing like a loon all alone in her den
+[02:53] * Mouserocks facepalms
+[02:53] <VirginiaR> Someone wanted his body?  I mean, besides Mrs. Luthor?
+[02:53] <Classicalla> And thank you, Karen, for keeping everything going on IRC.  
+[02:53] <LynnSM> Gretchen Kelly.
+[02:54] <Mouserocks> XD
+[02:54] <ChiefPam> nice haiku, Amber :)
+[02:54] <VickiM> man, we are a *punchy* group tonight
+[02:54] <lncroxmysox> ok we're good
+[02:54] <VickiM> I love it
+[02:54] <lncroxmysox> right amount of syllables
+[02:54] <LynnSM> A novel approach.
+[02:54] <hachiban> Never was good at haikus. 
+[02:54] <ChiefPam> you counted?
+[02:54] <IolantheAlia> I think next year we should demand that Amber introduce the category with a sonnet
+[02:54] <LynnSM> (A very short novel.)
+[02:55] <VickiM> lol, Io
+[02:55] <hachiban> I'm sensing a trend.
+[02:55] <VickiM> awwww
+[02:55] <VirginiaR> Clark glowed in the dark for Lois?
+[02:55] <lncroxmysox> He's shiny
+[02:55] <VickiM> one of his lesser known abilities ;)
+[02:55] <AntiKryptoni> And Then There was Light.
+[02:55] <LynnSM> Must be all that solar energy he absorbed.
+[02:55] <VirginiaR> He really needed a bath
+[02:55] <AlishaK2> glow-in-the-dark ties
+[02:55] <hachiban> His red shorts are shiny.
+[02:55] <VirginiaR> LOL, Alisha
+[02:56] <LynnSM> 'cause he really was smitten?
+[02:56] <VickiM> lol Alisha
+[02:56] <ChiefPam> lol, good rhyme for "written"
+[02:56] <AntiKryptoni> LOl!
+[02:56] <hachiban> lol!
+[02:56] <Classicalla> We've mentioned Clark's ties.  Does anyone know how to find the site that listed his ties?  I thought it could be found on WayBack but I can't find it there.
+[02:57] <VickiM> Next year, Amber should introduce it to a choergraphed dance number that is posted to youtube ;)
+[02:57] <ChiefPam> lol
+[02:57] <hachiban> AAAAAGH!
+[02:57] <LynnSM> There was a site that listed his ties? Did it include a screen capture of each of them?
+[02:57] <AntiKryptoni> Poetry Slam?
+[02:57] <ChiefPam> There was a site, yeah
+[02:57] <Classicalla> Yes, it did, Lynn.
+[02:57] <IolantheAlia> Let's see...haiku... limerick... ode... I'm waiting for sestina!
+[02:57] <VickiM> ooh, I'd be interested in that link, if someone has it
+[02:57] <Mouserocks> ooh! me three!
+[02:57] <LynnSM> I'd love to see that site. (What can I saw? I'm a site-see-er.)
+[02:58] <ChiefPam> search for "clark kent's ties" and see what comes up
+[02:58] <lncroxmysox> The Ultimate Difinitive Guide to Clark Kent's Ties:)
+[02:58] <AntiKryptoni> Wheew! I mean, what a shame.
+[02:58] <VickiM> badda-bam!
+[02:58] <hachiban> Just as well. I'm running out of time here.
+[02:58] <ChiefPam> dang, you offer me an ode,and then just pull it away...
+[02:58] <LynnSM> Amber was afraid the poems would be getting "ode"?
+[02:58] <VirginiaR> I liked Clark's ties <<ducking>>
+[02:58] <IolantheAlia> LOL
+[02:58] <Classicalla> The site usually comes up as being not available, but I used to be able to find it at Wayback.
+[02:58] <Classicalla> I liked most of them, too.
+[02:59] <Meadowlark> For Clark's ties try here:  http://replay.waybackmachine.org/20090109100812/http://www.chantico.com/alastor/ckties/
+[02:59] <AntiKryptoni> So did I, Virginia. LOL, Lynn
+[02:59] <AlishaK2> Virginia - so do I
+[02:59] <VirginiaR> Yea, Anti-K!
+[02:59] <IolantheAlia> I always like in fanfics when the writers make reference to Clark's ties.
+[02:59] <VirginiaR> Yea, MLT!
+[02:59] <lncroxmysox> Oooh someone should do a Tumblr with CK's ties, ala the Cosby Sweater Project
+[02:59] <LynnSM> Oooh. The site just came up for me. I'll have to bookmark it to look at tomorrow. Thanks for the tip.
+[02:59] <VickiM> ooooh shiney new site to play with!!!
+[02:59] <VirginiaR> Yea, Sue!
+[03:00] <Mouserocks> Yay Anti-K, ML, Sue S, Terry and Corrina!
+[03:00] <VickiM> or a Twitter account as CK's ties
+[03:00] <AntiKryptoni> Congratulations, all!
+[03:00] <VirginiaR> Yea! Terry!  Very difficult catagory.  Thanks for the lend of the pin, LabRat!
+[03:00] <ChiefPam> Congrats all
+[03:00] <VickiM> Congrats to al the Nominees!!
+[03:00] <VirginiaR> Can you imagine what Clark's Ties would say on Twitter?
+[03:00] <IolantheAlia> Again, a very tough category to vote in!
+[03:00] <ChiefPam> I'm sure they'd be loud
+[03:00] <VickiM> lol
+[03:00] <Mouserocks> haha!
+[03:00] <VirginiaR> Yea, Female Hawk!
+[03:01] <hachiban> I always have more trouble with Best Overall than all the others put together.
+[03:01] <LynnSM> Congratulations, Corrina! And congratulations to all the winners. And thanks for the stories.
+[03:01] <IolantheAlia> Congrats Corrina!
+[03:01] <VickiM> Cograts, Corrina!!!!!
+[03:01] <ChiefPam> Knew it!  Congrats, Corrina!
+[03:01] <Classicalla> Congrats, Female Hawk!!!
+[03:01] <Mouserocks> Woo-hoo! Congrats Female Hawk! And to everyone who won tonight!
+[03:01] <lncroxmysox> *~*~*~*~*yayy
+[03:01] <AntiKryptoni> Congratulations!
+[03:01] <AlishaK2> Congrats Corrina
+[03:01] <LynnSM> Another fantastic year of reading.
+[03:01] <hachiban> Congratulations Corina!
+[03:01] <VirginiaR> Congratulations, Corrina!
+[03:01] <Classicalla> And here's at least part of the tie site: http://web.archive.org/web/20071011214739/http://chantico.com/alastor/ckties/
+[03:01] <Mouserocks> Definitely. Gotta reread for fun!
+[03:01] <VirginiaR> Terrific Story!  Actually, they all were/.
+[03:03] <ChiefPam> We do have so many terrific authors, and more every year...
+[03:04] <VirginiaR> Blame Clark.  He has a magnetic personality.
+[03:04] <ChiefPam> Hah, that must be it
+[03:04] <VickiM> I agree, Virginia
+[03:04] <ChiefPam> And then Perry makes everybody stick to high writing standards
+[03:04] <VickiM> my muse is *smitten* with him
+[03:04] <ChiefPam> and Lois scares off the pretenders
+[03:04] <AntiKryptoni> LOL!
+[03:05] <VirginiaR> Does Jimmy do research, because sometimes, I really could use some help there?
+[03:05] <ChiefPam> it may depend on which Jimmy you're talking to...
+[03:05] <IolantheAlia> LOL
+[03:06] <VirginiaR> YEA! to all those who FDK!
+[03:06] <VickiM> Will he get us take-out to keep us fed and happy as we write?
+[03:06] <AntiKryptoni> Definitely!
+[03:07] <lncroxmysox> Okay now I'm hungry
+[03:07] <VickiM> lol, sorry
+[03:07] <LynnSM> Now, if onlu I could get him to round up my wandering muse...
+[03:07] <VirginiaR> Forget research, I want take-out!  Just avoid any place with Ralph in the title, please.
+[03:07] <lncroxmysox> It's dinnertime in my TZ:)
+[03:07] <ChiefPam> WTG, Greg!
+[03:07] <AntiKryptoni> Ahh...
+[03:07] <VickiM> Lojack your muse ;)
+[03:07] <LynnSM> Awww...
+[03:07] <AlishaK2> Lynn, wonder if my muse is with yours...
+[03:07] <Mouserocks> Mine too... want thai food. Or chinese food. 
+[03:07] <VickiM> awww, so sweet Corrina!  Shout out to Greg!
+[03:08] <lncroxmysox> *claps*
+[03:08] <Corrina> Thanks, everyone!
+[03:08] <hachiban> Go Greg!
+[03:08] <LynnSM> Maybe thy're at an amusement park?
+[03:08] <VickiM> don't ask me...mine went on a 6 year sabatical without my permission
+[03:08] <ChiefPam> I'm betting Tahiti.  We should fly there and look
+[03:08] <AlishaK2> Knowing my muse, they could be anywhere, and I mean *any*where
+[03:08] <LynnSM> Superman airline?
+[03:08] <VirginiaR> According to Lynn, Goo looks like Clark so maybe they're just following him around, that's why Corrina's stories are so good.
+[03:08] <VickiM> check under the couch cushions - lost stuff *always* winds up there
+[03:09] <CarolM> my muse tends to like the caribbean... who's with me?
+[03:09] <LynnSM> Actually, I made a point of never describing the muses' appearance, since I had no idea how Corrina envisioned Goo.
+[03:09] <ChiefPam> Okay, I guess I've got to go... kids are yelling "mooo-ooom"
+[03:09] <VickiM> Ok!  Mine's not lost, but maybe she wants a friend!
+[03:09] <ChiefPam> I've had a wonderful time tonight, thanks everyone!
+[03:09] <VickiM> Night Pam :)
+[03:09] <CarolM> night pam!
+[03:09] <LynnSM> Night.
+[03:09] <VirginiaR> Oh, I thought the Superman in your story was Goo in disguise... 
+[03:09] <AntiKryptoni> Good night!
+[03:09] * ChiefPam has quit IRC (Read error: Connection reset by peer)
+[03:09] <Mouserocks> Nite Pam!
+[03:09] <Mouserocks> Drat.
+[03:09] <hachiban> Well, as much fun as this has been, I need to get my brother to his Saturday bownling. It was wonderful being here, and let's hope next year is as much fun!
+[03:09] <LynnSM> Nope. Superman was Clark Kent in disguise.
+[03:09] <hachiban> bowling
+[03:10] <VickiM> Night, Nan
+[03:10] <VirginiaR> LOL
+[03:10] <LynnSM> An interesting interpretation, though.
+[03:10] <Mouserocks> Night Nan. 
+[03:10] <hachiban> Night everyonw!
+[03:10] <AlishaK2> Bye nan
+[03:10] <hachiban> e
+[03:10] <Chrispat> Bye Nan
+[03:10] <VirginiaR> Thanks for all the wonderful stories Nan
+[03:10] <LynnSM> Good night, Nan.
+[03:10] <VickiM> btw, thanks for the CK tie link - so fun!
+[03:10] <hachiban> I've got Chris's problem. I can't type. Maybe I need a new keyboard.
+[03:10] <Chrispat> lol
+[03:10] <hachiban> Night everyonw.
+[03:10] <Chrispat> Nan, we should get together again sometime
+[03:11] <hachiban> Agh!
+[03:11] <hachiban> Everyone!
+[03:11] <AntiKryptoni> Thanks to all for the great ceremony! The certificates are beautiful!
+[03:11] <VirginiaR> Yep, blame the keyboard, that's always a good excuse when the muse is off flying around
+[03:11] <LynnSM> I'll second Corrina's thanks to the entire K-Comm. What a fun evening!
+[03:11] <amberlea> whew! we made it  :)
+[03:11] <Mouserocks> Congrats to all the winners and nominees and everyone who wrote/read a story this year! It's provided me with a lot of procrastination fodder! Gotta go, though!
+[03:11] <VickiM> This was so much fun!  What a great evening!
+[03:11] <VirginiaR> So, since I missed the first 2 hours.  Did anyone win?
+[03:11] <Chrispat> We still watch an ep every Saturday in #lanekent. Everyone is welcome :)
+[03:11] * Mouserocks waves bye
+[03:11] <VickiM> night Mouse - chapter 10 is up for your viewing pleasure
+[03:11] <hachiban> We should, Chris. Let me know. And now, it's really good night. I have to get the dog in, shut the cat in the bedroom and take off.
+[03:11] <Chrispat> lol
+[03:12] <Chrispat> Say Hi to Jimmy :)
+[03:12] * Meadowlark2 has joined #kerthchat
+[03:12] <hachiban> I will.
+[03:12] <Mouserocks> Ooh! Great! an early chap from Vicki! Now I've got to go so I can read it...
+[03:12] <VickiM> lol
+[03:12] * hachiban has quit IRC (Signed off)
+[03:12] <LynnSM> Hi Meadowlark. I fear your timing is a bit off. The ceremony just ended.
+[03:12] * VickiM sees cartoon-like dust flying from Mouse's heels
+[03:12] * Mouserocks has left #kerthchat
+[03:13] <VirginiaR> Are you showing Lois & Clarks Tonight??
+[03:13] * Meadowlark has quit IRC (Ping timeout)
+[03:13] <VirginiaR> I thought that was set for tomorrow.
+[03:14] <Chrispat> Um. Depends, We might postpone it to next week
+[03:14] <amberlea> thanks to everyone who presented or sent me a speech!
+[03:14] <LynnSM> Have a good evening all. It's been a lot of fun. :)
+[03:14] <Chrispat> I was thinking of asking Lane to be there
+[03:14] <Chrispat> He owes us a visit
+[03:15] <amberlea> night Lynn!
+[03:15] <VirginiaR> Bye, Lynn
+[03:15] <Chrispat> Bye Lynn
+[03:15] <LynnSM> Good night, Amber, and thanks again.
+[03:15] <IolantheAlia> Bye Lynn
+[03:15] <lncroxmysox> Nite everyone:)
+[03:15] <lncroxmysox> (or 'day)
+[03:15] * mib_oug5s8 has joined #kerthchat
+[03:15] <VirginiaR> This was fun, Amber, Thanks.
+[03:15] <LynnSM> Good night all.
+[03:15] <amberlea> Night lnc!
+[03:15] <Chrispat> Bye Amber
+[03:15] * AlishaK2 is going to bed now. Night all & congrats to winners & nominees once again
+[03:15] * lncroxmysox has quit IRC (Signed off)
+[03:16] <VickiM> night everyone who is leaving
+[03:16] <amberlea> Night Alisha!
+[03:16] <Chrispat> Bye all :)
+[03:16] * LynnSM has quit IRC (Read error: EOF from client)
+[03:16] * Chrispat has left #kerthchat
+[03:16] <VirginiaR> Looks like everyone is signing off, I'll check the boards for the winners, then.  Bye.
+[03:16] * AlishaK2 has left #kerthchat
+[03:16] <VickiM> night Virgina
+[03:16] <VickiM> Virginia*
+[03:16] <VirginiaR> Anyway, I hear that Ch. 10 is up...
+[03:16] * VickiM has shifty eyes
+[03:17] <VirginiaR> Night, Vicki (Shifty eyes?_
+[03:17] <VickiM> maaaaaaybe :p
+[03:17] * lwf has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[03:19] * mib_oug5s8 has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[03:19] <AMCiotola> I'm out of here as well, night all.
+[03:19] <amberlea> goodnight!
+[03:19] * AMCiotola has quit IRC (Signed off)
+[03:21] * VirginiaR has left #kerthchat
+[03:22] * mib_q15i0s has joined #kerthchat
+[03:22] <VickiM> Ooh!  Anti-K sent me Chapter 16 back!  Can't wait to see what's in it!
+[03:24] <VickiM> okay folcs, I'm heading out.  Been staring at the monitor for way too long
+[03:24] <IolantheAlia> Good night Vicki
+[03:24] <IolantheAlia> Good night all!
+[03:24] * IolantheAlia has quit IRC (Read error: EOF from client)
+[03:25] <VickiM> Congrats again to all of the winners and nominees - see you around the boards!
+[03:25] <amberlea> night!
+[03:25] * VickiM has quit IRC (Signed off)
+[03:26] <amberlea> my time is up too...see everyone around the boards!  it's been fun!  :)
+[03:27] <CarolM> night amber!
+[03:27] <amberlea> night Carol!  Glad you made it!
+[03:27] * amberlea has quit IRC (Quit)
+[03:27] * Meadowlark2 has left #kerthchat
+[03:36] * mib_q15i0s has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[03:38] * mib_cxbgez has joined #kerthchat
+[03:56] * mib_cxbgez has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[04:27] * Corrina has left #kerthchat
+[04:43] * mib_0hegxj has joined #kerthchat
+[04:45] * mib_0hegxj has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[04:52] * Classicalla has left #kerthchat
+[05:02] * IolantheAlia has joined #kerthchat
+[05:03] * IolantheAlia has left #kerthchat
+[05:04] * IolantheAlia has joined #kerthchat
+[05:05] * IolantheAlia has quit IRC (Signed off)
+[05:06] * IolantheAlia has joined #kerthchat
+[05:06] * IolantheAlia has quit IRC (Signed off)
+[06:16] * mib_bnwcz0 has joined #kerthchat
+[06:16] <mib_bnwcz0> wow. didn't expect anyone to be here
+[06:16] <mib_bnwcz0> this is shayne
+[06:17] * mib_bnwcz0 has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[06:29] * mib_zlwdrz has joined #kerthchat
+[06:38] * mib_zlwdrz has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[06:46] * AntiKryptoni has left #kerthchat
+[09:35] * mib_iydsd4 has joined #kerthchat
+[09:37] * mib_iydsd4 has quit IRC (Quit: http://www.mibbit.com ajax IRC Client)
+[10:11] * Disconnected
+Session Close: Sun Apr 15 10:11:01 2012
+
+Session Start: Sat Apr 12 21:50:43 2014
+Session Ident: #kerthchat
+[21:50] * Now talking in #kerthchat
+[21:50] * Topic is 'It's Kerth Day!'
+[21:50] * Set by amberlea on Sat Apr 12 20:08:21
+[21:50] <VirginiaR> Let's try this again
+[21:50] <amberlea> Mouse, I see you in the awards channel
+[21:50] <DarthMichael> Hi Guys!
+[21:50] <Mouserocks> Hi michael!
+[21:50] <VickiM> Hi Michael!
+[21:51] <NostalgiaKic> Hi Michael
+[21:51] <BobB> Hi Michael.
+[21:51] <Mouserocks> Ok, good, thanks amber just confused for a  minute :P
+[21:51] <amberlea> no problem  :)
+[21:51] <KateB> I can see you on kearthawards Vicki. Good job.
+[21:51] <VirginiaR> Yea! People!  It's amazing what a "a" in front of awards can do?  Darn.  Phone!
+[21:51] <KateB> Sorry, Virginia not Vicky
+[21:51] <KellyM> lol  that's okay, I had it spelled "kertawards"
+[21:51] <VickiM> lol
+[21:52] <NostalgiaKic> Oh dear, my brother says his flat is leaking like a sieve. Not good
+[21:52] <VickiM> Hukd on foniks reely wurkd for us
+[21:52] <amberlea> does anyone here have the sounds installed? I have them, but I'm not going to mess with them if no one else has them
+[21:52] <KellyM> not me.
+[21:53] <KellyM> kvirc doesn't do sounds
+[21:53] <BobB> I have sounds.  At least, they are supposed to be here,
+[21:53] <VirginiaR> Hi Michael!
+[21:53] <VickiM> I have them
+[21:53] <NostalgiaKic> Nope... I was going to, but decided it was way too early to try and remember how to use them lol
+[21:53] <Mouserocks> i decided to try out the sounds this year, but then my speakers broke :(((
+[21:53] <VickiM> aww
+[21:53] <VirginiaR> I'm back.  Kids out of the house.  Hubby called into work.  :(  But at least I made it!
+[21:54] <KellyM> it's sunny, breezy and 80 here
+[21:54] <KellyM> I'm tempted to take the laptop outside
+[21:54] [amberlea SOUND]
+[21:54] <VirginiaR> Sounds like here, Kelly.  Ma Nature has decided to go from winter to spring.
+[21:54] <BobB> I heard that!  :)
+[21:54] <VirginiaR> Sorry, summer
+[21:54] <NostalgiaKic> It's not even dawn yet here lol
+[21:54] <VickiM> I'm stealing time while the girls nap and my hubby chats with his folks (who are here)
+[21:55] <VickiM> It's 70 here and goooooorgeous
+[21:55] <VirginiaR> I think sounds are above my learning curve skill level.
+[21:55] * VickiM is super happy
+[21:55] <Mouserocks> Nice Vicki! 70's here to i love it!
+[21:55] <KellyM> Sue would be here, but she's lounging on a beach at the moment
+[21:55] <amberlea> nice excuse  :)
+[21:55] * KKent has joined #kerthchat
+[21:55] <KateB> it's 78 here
+[21:56] <Mouserocks> Five minutes out people. Last chance for snacks and bathroom breaks!!
+[21:56] <VickiM> so, fun fact, hubby and Ashley are both in Batman/girl clothes today, Kayla and I are rocking Superman/girl 
+[21:56] <VickiM> lol
+[21:56] <VirginiaR> Okay.  Next technical question.  My kerthchat and kerth awards are within the same window and I can't see both at the same time.  Is there a way to separate them?  Or do I need to start over with a new window?
+[21:56] <KKent> Hey everyone.  I made it.  This is so wierd.
+[21:56] <KateB> I don't have sounds
+[21:56] <KellyM> And i'm watching the Cardinals steamroller the Cubs
+[21:57] <VirginiaR> Hi KatherineKent (that's who KKent is, right?)
+[21:57] <Corrina> Hi Victoria
+[21:57] <VickiM> shrink them and stack them on on top of the other within the main window, Virginia
+[21:57] <KKent> Yup thats me.  Although KK will do for short - or Vic
+[21:57] <KellyM> I have 3 chat windows opwn
+[21:57] <KellyM> open, even
+[21:57] <DarthMichael> Virginia, depending on what kind of chat program you use, there might be an option for that in the window-menu in the menu bar
+[21:57] <amberlea> just don't get lost!  :)
+[21:58] <VickiM> Kells, are you in lanekent too?
+[21:58] <KellyM> yup
+[21:58] <VickiM> kk
+[21:58] <VirginiaR> I've got it now.  Thanks.
+[21:58] * Meadowlark has joined #kerthchat
+[21:59] <VirginiaR> VickiM are you DC?
+[21:59] * KenJ has joined #kerthchat
+[21:59] <VickiM> I am!
+[21:59] <VickiM> Ji Ken
+[21:59] <VickiM> Hi even
+[21:59] <NostalgiaKic> Hi Ken :)
+[21:59] <VirginiaR> Just trying to everybody straight.  Hi Ken
+[21:59] <BobB> Hi Ken!
+[21:59] * DarthMichael waves
+[21:59] <VirginiaR> show off
+[21:59] <NostalgiaKic> Ok, I'm flipping cold. Stupid toowoomba weather lol
+[21:59] * DarthMichael blushes
+[22:00] <KenJ> Greetings all!
+[22:00] * VickiM high fives Michael
+[22:00] <DarthMichael> Virginia, you can to the slash followed by "me", a space, and then the text to to actionss
+[22:00] * Mouserocks is wondering how Michael did that
+[22:00] <Mouserocks> Haha, got it!
+[22:01] <DarthMichael> Vicki, also watched HIMYM?
+[22:01] <VickiM> nope
+[22:01] <VirginiaR> Thanks, Michael
+[22:01] <Mouserocks> ME! I DO!
+[22:01] * amberlea changes topic to 'It's time!'
+[22:01] <DarthMichael> *G*, remember that last high-five?
+[22:01] * VirginiaR jumps up and down
+[22:02] <Mouserocks> The high five to end all high fives!
+[22:02] * DarthMichael looks around who gave Virignia the extra chocolate
+[22:02] <DarthMichael> yeah
+[22:02] <NostalgiaKic> Drat, my last jacket that actually fits no longer does up over the bump lol
+[22:02] <VirginiaR> Lois.
+[22:02] <KellyM> won't be long now, Nost  :)
+[22:02] <Mouserocks> high infinity!
+[22:02] <VickiM> NK - that's why I was glad to be huge in the summer ;)
+[22:02] <KellyM> You raided Lois' stash???
+[22:02] <DarthMichael> Now now, Virginia, we all know that would be untrue. 
+[22:02] <VirginiaR> She always has an extra bar sticking out of her... /ugh/  Give it back, Lois!
+[22:03] <NostalgiaKic> 3 full days, that's all that's left
+[22:03] <VickiM> Lois has extra?  
+[22:03] * VickiM raids desk
+[22:03] <DarthMichael> unless... does she have webbing?
+[22:03] * KellyM passes out cookies and milk
+[22:03] <VickiM> oooh, Oreos!
+[22:03] <Mouserocks> Looks like it's starting!
+[22:03] <KellyM> chocochip
+[22:03] <VirginiaR> Yum!  Thanks, DC
+[22:03] <DarthMichael> the dark ones!
+[22:04] <VickiM> dark ones for dark writers?
+[22:04] <VirginiaR> Lois just grumbled define "extra".
+[22:04] * DarthMichael grown adorable horns
+[22:04] <Mouserocks> gosh darnit, now i want chocolate...
+[22:04] * VickiM has a dozie or 3 up her sleeve that she is attempting to write
+[22:04] * VirginiaR applauds kerth com for all their hard work.
+[22:04] * VickiM applauds with Virginia
+[22:04] * Mouserocks applauds too
+[22:05] * Deja_Vu also applauds
+[22:05] * DarthMichael Teal'C voice
+[22:05] <DarthMichael> Indeed
+[22:05] <KellyM> LOLOL
+[22:06] <VirginiaR> Yikes!  That's me!  What do I do?
+[22:06] * DarthMichael applauds some more for the MC
+[22:06] * VickiM claps for Virginia
+[22:06] <NostalgiaKic> Yay Virginia!
+[22:06] <VirginiaR> Does this mean I should start?
+[22:06] <DarthMichael> ooooh, that's just like General...Ooo... what was his name? the commander of the Hoth blockade
+[22:06] * KellyM hands you a glass of 'water'
+[22:06] <amberlea> yes, please  :(
+[22:07] <amberlea> I mean :)
+[22:07] <KellyM> *snarf*
+[22:07] <Deja_Vu> haha
+[22:07] <VickiM> lol
+[22:08] <DarthMichael> oooh Virginia's telling story!
+[22:08] * KKent chuckles
+[22:08] * DarthMichael stis back down and settles in for long haul
+[22:08] <BobB> ?? No mic?
+[22:08] <KellyM> Project your voice!
+[22:09] <DarthMichael> someone wrap it in a DFCB wrapper and lets Lois loose in the room?
+[22:09] * KellyM takes in a breath, and belts out a tone to rattle the windows
+[22:09] <VickiM> lol
+[22:10] * VickiM looks for a bullhorn for Virginia
+[22:10] <KellyM> ah, the power of the (little) people
+[22:10] <KellyM> I'm getting odd characters, - anyone else?
+[22:10] <KellyM> And I don't mean Virginia
+[22:11] * Mouserocks groans
+[22:11] * Meadowlark groans for Virginia
+[22:11] <DarthMichael> oh, right.
+[22:11] <DarthMichael> Duh!
+[22:11] <VickiM> lol
+[22:11] * DarthMichael claps
+[22:11] <DarthMichael> yeah, someohting to do with the enociding and Viringia's word doing more than standard ANSI stuff
+[22:11] <KellyM> right
+[22:11] <DarthMichael> with her presentation
+[22:12] <KellyM> it's the curly quotes
+[22:12] <VirginiaR> I'll try to delete them. Sorry.
+[22:12] <KellyM> no go on  :)
+[22:12] <KellyM> lol
+[22:13] <KKent> lol
+[22:13] <KellyM> so modest
+[22:13] <VickiM> bwhahaha
+[22:13] <VickiM> I don't see anything weird <shrugs>
+[22:13] <KellyM> LOL
+[22:13] <KellyM> *doesn't look*
+[22:14] <NostalgiaKic> brb
+[22:14] <KellyM> Your stories?  Your longer-than-war-and-peace stories?
+[22:15] * KKent claps at Virginias dance
+[22:17] <KellyM> We all knew Virginia was long-winded
+[22:17] * DarthMichael lol
+[22:17] <VickiM> hehe
+[22:18] <Deja_Vu> haha
+[22:19] <KellyM> lol
+[22:19] * VickiM watches the man in the back of the room groan and pass out
+[22:19] * VickiM drags Clark off, but to her own place
+[22:19] * KellyM picks up Clark and sneaks off with him
+[22:19] <KellyM> hey!
+[22:19] * KKent groans at the melodramatics
+[22:19] * VickiM grins wolfishly at Kelly
+[22:20] * KellyM takes Charlie instead
+[22:20] <VickiM> fair enough
+[22:20] <KellyM> or Anton.  *thud*
+[22:20] * DarthMichael is suprised that nobody has claimed Anton
+[22:20] * KellyM drumroll
+[22:20] <KKent> No I bagsy Anton
+[22:20] <KellyM> Yay!!!!
+[22:21] * KKent applauds and whistles
+[22:21] <KellyM> Way to go Corrina!
+[22:21] * DarthMichael stands up to applaud
+[22:21] <Mouserocks> Congrats, Corrina!
+[22:21] <BobB> Congratuations Corrina.
+[22:21] * Deja_Vu applauds
+[22:21] * DarthMichael loudly
+[22:21] * VickiM applauds enthusiastically
+[22:21] <Deja_Vu> Congrats, Corrina!!
+[22:21] <VickiM> Congrats!!!
+[22:21] * amberlea changes topic to 'Best Super Short winner: One Small Detail by Female Hawk!'
+[22:22] <KellyM> I always thought the freckle would be thing thing to give him away  ;)
+[22:23] <VirginiaR> Only to someone who you wouldn't expect to be looking at Clark's mouth.
+[22:23] <KKent> Yeah we all notice it ... but maybe that's becasue we spend so much time staring at it
+[22:23] <VickiM> mmmmmmmmmmmmmmmmmmmm
+[22:23] * Mouserocks drools
+[22:24] <KellyM> mmmhmmm
+[22:24] * DarthMichael is suprised that there's a partner next to Lois
+[22:24] * VickiM hands out drool towels
+[22:24] * KellyM gets out the mop
+[22:24] <Mouserocks> haha, sorry guys :)
+[22:24] * Mouserocks is not the least bit sorry
+[22:24] <VickiM> lol
+[22:25] <Deja_Vu> hahah
+[22:25] * VickiM breaks out the chocolate and wine and chocolate wine
+[22:25] <KKent> lol
+[22:25] <VirginiaR> They sell chocolate wine around here.
+[22:25] <KellyM> hmm.  Cheese and crackers?
+[22:25] <Mouserocks> yum... another week though on the wine, Vicki!
+[22:25] <VickiM> It's...interesting, to say the least
+[22:25] * VirginiaR returns to seat
+[22:25] <NostalgiaKic> back
+[22:26] <KellyM> wb :)
+[22:26] <VirginiaR> It's usually better when aged, Mouse.  ;)
+[22:26] <KellyM> except if it's rose  ;)
+[22:26] <NostalgiaKic> Thanks- Becky woke up, had to resettle her
+[22:26] * DarthMichael claps for Ken
+[22:27] * VickiM applauds
+[22:27] * VirginiaR applauds
+[22:27] * KKent applauds as KenJ steps up
+[22:27] <KellyM> lol
+[22:27] <Mouserocks> haha, hope so Virginia :P this is the last b-day i plan on commemorating
+[22:27] <NostalgiaKic> I could hear her from the loungeroom, meanwhile Kev is asleep right next to her
+[22:27] * VirginiaR glad she didn't do that
+[22:27] <VickiM> lol
+[22:27] <KellyM> Says the guy who posts a sotry part every other day  lol
+[22:27] <KateB> */"KateB" applauds
+[22:28] * VirginiaR doesn't think Ken's sorry at all. :D
+[22:28] <KateB> Congrats
+[22:28] <VirginiaR> Yikes!  8?  Really?
+[22:28] <KKent> wow
+[22:28] <VickiM> wow
+[22:28] <VickiM> I hadn't realized that
+[22:28] <Mouserocks> me neither
+[22:28] <Mouserocks> good turn out this year 
+[22:29] <VickiM> yeah
+[22:29] * VirginiaR applauds NostalgiaKick
+[22:29] * VirginiaR applauds Queenie
+[22:29] <NostalgiaKic> Thanks :)
+[22:29] * VirginiaR applauds Sue
+[22:29] * VirginiaR applauds Tank, hands starting to get tired
+[22:29] * VirginiaR applauds DC
+[22:29] <VickiM> lol
+[22:30] * VirginiaR applauds KK
+[22:30] <VirginiaR> it must be hard to be running against yourself
+[22:30] <VickiM> lol
+[22:30] <KKent> yup lol
+[22:31] <VickiM> I think that happened with two or so of mine last year - weird
+[22:31] * KateB applauds all the authors
+[22:31] <VirginiaR> Got to agree with Ken there
+[22:31] * KKent bites fingernails nervously
+[22:31] * VirginiaR Hands chocolate bar from Lois's stash, since she's gone off to rescue Clark from Sue's closet
+[22:31] <KellyM> lol  Last year I read 98 of the 112 stories.  In 2 weeks.
+[22:31] <Deja_Vu> wow
+[22:31] <KKent> my goodness.  Wow
+[22:31] <VirginiaR> Kelly didn't sleep 
+[22:31] <VickiM> oh, that's right!  I remember you doing that!
+[22:32] <KellyM> Talk about bleary-eyed
+[22:32] <NostalgiaKic> That's a lot of fic 
+[22:32] <VirginiaR> Sorry. Chocolate bar was for KK
+[22:32] <KellyM> *drumroll*
+[22:32] <Deja_Vu> lol
+[22:32] <KellyM> Amber!
+[22:32] <VickiM> uh-oh, I hear crying on the monitor
+[22:32] <KKent> lol
+[22:32] <DarthMichael> Amber should hand it to you via a new window
+[22:33] <VirginiaR> Maybe he's just building up the suspense.
+[22:33] <KKent> yeah, I think I've had enough of the suspense now
+[22:33] * VirginiaR hands another chocolate bar to KK
+[22:33] <NostalgiaKic> He's killing us lol
+[22:33] * VickiM sips wine
+[22:33] * KKent munches on the chocolate bar
+[22:33] <KKent> Thanks
+[22:34] <VirginiaR> You need to save some nails for your other nominations
+[22:34] <KKent> lol
+[22:34] <KellyM> Someone poke Amber  LOL
+[22:34] <amberlea> Ken, you should have a query window
+[22:34] <VirginiaR> Not too fast for me, Ken.  But then I type fast too.
+[22:34] * VirginiaR lol, applauds Ken's dance
+[22:35] * KellyM hums a little tune
+[22:35] <KKent> Seems like each presenter is doing a dance.  Is it a requirement?
+[22:35] * VickiM takes a flower from the little vase on the table and tosses it on stage
+[22:35] <Mouserocks> darn. gotta go. might be back later, but just in case, the list is up tonight right?
+[22:35] <amberlea> Ken, try to message me "/msg amberlea envelope please"
+[22:35] <VickiM> bye Mouse!
+[22:35] <KellyM> Bye Mousie
+[22:35] <Deja_Vu> bye Mouse!!
+[22:35] <NostalgiaKic> Bye Mouse :)
+[22:35] <KKent> bye
+[22:35] * DarthMichael waves bye
+[22:35] <amberlea> the list will be up as soon as we're done (I think)! bye Mouse!
+[22:35] <KellyM> Mouse, you can email me, I'll have the log
+[22:35] <VirginiaR> Miss you already, mouse!  Happy studying!
+[22:36] <KellyM> or that LOL
+[22:36] <KateB> by Mouse
+[22:36] <KellyM> Ken, double click on Amber's name and type something to her
+[22:36] <VirginiaR> Don't award shows always have a musical number? ;)
+[22:37] [amberlea SOUND]
+[22:37] * VickiM no longer has fingernails left, sweeps away pile of chewed nails with her foot, hoping no one notices
+[22:37] <DarthMichael> Ken's going to sing "I've got a crush on you"?
+[22:37] <KKent> rofl
+[22:37] * VirginiaR emergency chocolate bar to DC
+[22:37] <NostalgiaKic> Eeew lol
+[22:37] <KellyM> ;)  I've done that
+[22:37] <VickiM> hehehehe
+[22:37] * VirginiaR that is HANDS to DC
+[22:37] <VickiM> <grin>
+[22:38] <VickiM> thanks, Virgini
+[22:38] <VickiM> Virginia even
+[22:38] <VirginiaR> It's like the Golden Globes, only with more chocolate
+[22:38] <amberlea> Ken, I just emailed you  :)
+[22:38] <VickiM> chocolate makes everything better
+[22:38] <VirginiaR> I agree
+[22:38] * VickiM pours a glass of wine for Virginia
+[22:38] <KKent> yup
+[22:38] <NostalgiaKic> Yup, definitely!
+[22:38] <VirginiaR> Thanks!
+[22:38] * VirginiaR cheers!
+[22:39] * VickiM clinks glasses wth Virginia, mine cracks and leaks....damn
+[22:39] <amberlea> maybe next year we should have a Kerth Ceremony rehearsal  :)
+[22:39] <DarthMichael> funny tidbit: Lindt chocolate has a kind that is wrapped as golden globes
+[22:39] * VirginiaR glad she doesn't have to drive home afterwards
+[22:39] <KellyM> lol
+[22:39] * Mouserocks has quit IRC (Ping timeout)
+[22:39] <KellyM> She did, Ken :)
+[22:39] * KellyM perks up, listening
+[22:39] <VirginiaR> Aren't all Lindt Chocolates globes of different colors?
+[22:40] <KellyM> ICE CREAM TRUCK!
+[22:40] <KKent> woo hoo
+[22:40] <DarthMichael> yeah, depending on the type of chocoalte
+[22:40] * VickiM hands a coupld of dollars to Kelly
+[22:40] <KellyM> *runs out the door*
+[22:40] <VickiM> get me a vanilla chocolate chip
+[22:40] <VirginiaR> Ooooh, he's got the winner's name!
+[22:40] <amberlea> maybe we should've had a commercial break planned!  :)
+[22:40] <DarthMichael> tie?
+[22:41] <VirginiaR> Sorry, I presented this year.
+[22:41] <KKent> hmmm
+[22:41] <KellyM> a tie???
+[22:41] <VickiM> wow
+[22:41] <NostalgiaKic> Wow
+[22:41] * VirginiaR dances! Love ties!
+[22:41] <Corrina> Ties are good.  Ask Clark.
+[22:41] <VickiM> 8 way tie? ;)
+[22:41] <Deja_Vu> haha
+[22:41] <VirginiaR> LOL
+[22:41] <KellyM> Me too.  *Clark's*.....
+[22:41] <KKent> are they like Clark's ties?
+[22:41] <VickiM> Clark's ties need to be burned
+[22:41] <KellyM> noooo!
+[22:41] <VickiM> lol
+[22:41] <Deja_Vu> awww - I like Clark's ties
+[22:41] <VickiM> most of them
+[22:41] <Deja_Vu> ;)
+[22:41] <VirginiaR> Love clark's ties
+[22:41] <NostalgiaKic> Some of his ties are appalling
+[22:41] <VirginiaR> Yea!  KK
+[22:41] <VickiM> he does have a couple of nice one
+[22:41] <KellyM> Yay KKent!!!
+[22:41] <Corrina> Yay! Victoria!
+[22:41] <DarthMichael> I believe Lois would like to burn his ties. and the rest of his clothes, too
+[22:42] * KKent drops her mouth open
+[22:42] <NostalgiaKic> Yay, KKent!
+[22:42] <KellyM> ANd yay Sue, who's not here!
+[22:42] * VickiM applauds
+[22:42] <VirginiaR> Yea!  Sue!
+[22:42] <Deja_Vu> Congrats to KK and Sue!!!
+[22:42] <VickiM> Congrats you guys!!!
+[22:42] <Corrina> Congrats, Sue!
+[22:42] <BobB> Yay KK & Sue!
+[22:42] * DarthMichael stands up and applauds
+[22:42] * VirginiaR applauds to KK and Sue!
+[22:42] * Deja_Vu applauds as well
+[22:42] * NostalgiaKic claps for KK and Sue
+[22:42] * amberlea changes topic to 'Best Short Story: Katherine Kent and Sue S!'
+[22:43] <KateB> Congrats KK and Sue
+[22:43] * VirginiaR jaw drops open
+[22:43] * KateB applauds
+[22:44] <KellyM> LOL!  Your first and a winner!
+[22:44] <BobB> PM was a heck of a first!
+[22:44] <VirginiaR> That girl has talent
+[22:44] <KKent> I have written for years, but mostly in the Smallville genere
+[22:45] <DarthMichael> so, Katherine, no pressure for future LnC action ;)
+[22:45] <Corrina> Well done, Victoria. :)
+[22:45] <KateB> Great job KK
+[22:45] * VirginiaR applauds
+[22:45] <KKent> Thank you
+[22:46] <KellyM> oh oh, DM is up!
+[22:46] * VirginiaR applauds
+[22:46] <KellyM> lol  
+[22:46] * KKent claps
+[22:46] <VirginiaR> LOL, black cape
+[22:46] <Deja_Vu> Woo!
+[22:46] * KateB applauds
+[22:46] <KellyM> *hands you the inhaler*
+[22:46] <VirginiaR> Ooooh.  He's impersonating Stern!
+[22:46] <Deja_Vu> hahahah
+[22:47] <VickiM> hehehe
+[22:47] <KellyM> LOL
+[22:47] * KKent falls of chair laughing
+[22:48] * VirginiaR glances down wondering how he could see my shorts under my full length evening gown
+[22:48] * VirginiaR blushes
+[22:48] <VirginiaR> Oh, THAT kind of shorts.
+[22:48] <Deja_Vu> hahaha
+[22:48] <VickiM> hehehe
+[22:48] * KKent is still on the floor laughing
+[22:49] * VirginiaR applauds Ken
+[22:49] * VirginiaR applauds all nominees because my hands are getting tired
+[22:49] * KKent gets up again and sit quietly
+[22:49] * KateB chuckles
+[22:50] * Deja_Vu stands up and applauds loudly
+[22:50] <KellyM> Yay!!!  Corrina!!
+[22:50] * VirginiaR applauds Corrina
+[22:50] * VickiM claps wildly
+[22:50] * KKent applauds and whistles
+[22:50] <Deja_Vu> Wooohoo!!! Congrats, Corrina!!!
+[22:50] <VickiM> Congrats!!!
+[22:50] <BobB> Yay Corrina!
+[22:50] <NostalgiaKic> Yay Corrina! :)
+[22:50] <KenJ>  Congrats Corrina!
+[22:50] <KKent> Yay!  Fab
+[22:50] * KateB hands KKent a glass of wine
+[22:50] * amberlea changes topic to 'Best Mid-Length Story: Female Hawk!'
+[22:51] <KateB> Congrats Corrina
+[22:51] * VirginiaR surprised that Corrina still gets surprised at winning
+[22:51] * KKent gulps down the wine then gets hiccups
+[22:51] * Deja_Vu laughs at VirginiaR
+[22:52] * KateB joins Virginia in her surprise
+[22:52] <VirginiaR> I enjoyed the buttered chicken
+[22:52] <KKent> who didn't!!!!
+[22:53] <VirginiaR> Even my hubby, the chef, loved it when we tried it at an Indian restaurant last summer.
+[22:53] <KateB> I don't think Clark even tasted it
+[22:53] <KellyM> that's because he was too besotted  ;)
+[22:53] <VirginiaR> A great chef always tastes.
+[22:53] * VirginiaR winks
+[22:53] <VirginiaR> while he cooks, that is.
+[22:54] * VirginiaR hands Corrina another mug of black tea
+[22:54] <Corrina> Thanks Virginia.  It's too early for wine where I am!
+[22:54] <Deja_Vu> hahaha
+[22:54] * KellyM likes chai
+[22:55] * VirginiaR applauds presenter and winner
+[22:55] * KKent cheers
+[22:55] * VirginiaR whistles for Amber's hard work
+[22:55] * Deja_Vu applauds Amber
+[22:56] <DarthMichael> Our MC!
+[22:56] <KellyM> Verbose.  Yeah, that describes a couple of us in here
+[22:56] <VirginiaR> It's how all my stories end up being so long
+[22:56] <KellyM> LOL
+[22:56] * KateB applauds Amber
+[22:57] <VirginiaR> That, and I don't have an inner editor.  She quit.
+[22:57] * VirginiaR blushes
+[22:57] <KellyM> Locked her in the closet, did you?
+[22:57] <VirginiaR> Well, she saw that Clark had his own...
+[22:57] <KellyM> hehehehe
+[22:57] <DarthMichael> and wanted to get in there with him?
+[22:58] <VirginiaR> Apparently, only Sue has the key.  And she only lets him out for sunshine breaks.
+[22:58] <Corrina> Great story, Bob.
+[22:58] * VirginiaR applauds Bob
+[22:58] * BobB Stands and waves.
+[22:58] <KateB> wonderful story Bob
+[22:58] * VirginiaR applauds all nominees
+[22:59] * DarthMichael blushes about terrible backlog
+[22:59] <Corrina> I miss your stories, DJV.
+[22:59] <BobB> Morgana was trying to get in but couldn't get chat to work.  :(
+[22:59] <KenJ> Morgana can't be with us because of a deqath in the family.
+[22:59] <VirginiaR> You'd love it, Michael.  Bob got his Evil Badge on that one.
+[22:59] <DarthMichael> ooooooo
+[22:59] <VirginiaR> oh. dear.
+[22:59] <KellyM> I love that title  lol
+[23:00] <Deja_Vu> :)  I'm hoping to get back into the fandom one day, Corrina. Maybe when things are less crazy. :D
+[23:00] <Deja_Vu> Yeah, that's one of the best titles ever.
+[23:00] * Nan has joined #kerthchat
+[23:00] <DarthMichael> Hi Nan!
+[23:00] <KellyM> Hi Nan!
+[23:00] <VirginiaR> Hi Nan!  Just in time!
+[23:00] <DarthMichael> You've just in time for Vampires!
+[23:00] <Nan> Hi. Finally got my computer online!
+[23:00] * KKent applauds and whistles
+[23:00] <KellyM> lol  Yay, Terry!
+[23:00] * VirginiaR applauds Terry's excellent story
+[23:00] * Deja_Vu applauds loudly
+[23:01] <BobB> Yay Terry!  Good choice for winner!
+[23:01] <DarthMichael> Congratulations, Terry!
+[23:01] * VickiM applauds
+[23:01] <Corrina> Terry!
+[23:01] <KateB> Congrats Terry
+[23:01] <VickiM> Congrats, Terry!
+[23:01] <KenJ> Way to go Terry!
+[23:01] <Corrina> That was a great title.
+[23:01] <Deja_Vu> Congratulations, Terry!!
+[23:01] <VirginiaR> It was so Lois.
+[23:01] <KellyM> Nan, how is Texas?
+[23:01] <Nan> HIk!
+[23:02] <KateB> hi Nan, you made it
+[23:02] <Nan> Hold on. I have to get onto kerthawards, too
+[23:03] <VirginiaR> Lex Luthor volunteers to come up one stage and model some of his custom suits.
+[23:04] <NostalgiaKic> Why are they all double breasted? It bugs me
+[23:04] * VickiM puts glasses on Michael *poof* he's a different person
+[23:04] <VirginiaR> To hide all of his breasts.
+[23:04] * VirginiaR ducks
+[23:04] <VickiM> err...Amber...brain fail
+[23:05] <VirginiaR> only 75%
+[23:05] <VirginiaR> ?
+[23:05] <KateB> wow
+[23:05] <KellyM> The statistics you are about to see in this segment are wholly fictional and made up out of whole cloth.
+[23:05] <amberlea> don't miss the disclaimer  :)
+[23:05] <Nan> Hi, Kelly. Texas is great! Where we are it's green and beautiful. I love it.
+[23:05] <KKent> Well, it depends on if you are classing the Revelation as the main plot point.  It's bound to happen even in stories where the plot is something else entirely
+[23:05] <VirginiaR> Hey!  I can understand math like that!
+[23:05] <BobB> I think I've had a revelation to SOMEONE in almost every story I've written.
+[23:06] <VirginiaR> Someone should write a story about Clark learning Clark's Superman
+[23:06] <KKent> lol
+[23:06] * KateB chuckles
+[23:06] <Corrina> ASU?
+[23:06] <VirginiaR> I've written ONE where she wasn't mad.  But it was an Nfic.
+[23:06] <KellyM> One of my favs was when someone else realizes that he's Superman, and everyone at the DP knows and has to tell the newbie NOT to tell Clark
+[23:06] <Nan> I have no sound, but at least I'm here
+[23:06] <BobB> Clark learning Clark's secret. I actually have one that has not been published.
+[23:06] * KKent nods
+[23:07] <KellyM> And now that Amber has blinded us with math....
+[23:07] <VirginiaR> That's a good one, Kelly.
+[23:07] <DarthMichael> there's also one on the archives about clark not knowing that he's moonlighting as Superman
+[23:07] <NostalgiaKic> It's too early for statistics lol
+[23:07] <KateB> When can you publish it, Bob?
+[23:08] <NostalgiaKic> brb again
+[23:08] * VirginiaR applauds KatherineKent
+[23:08] * VirginiaR applauds Thomas and Corrina
+[23:08] <BobB> The "story" is all "revelation gimic" and no story.  When I find the stroy, I'll publish it.
+[23:08] <KateB> I'm always waiting for your stories, Bob
+[23:08] * VirginiaR applauds Mozartmaid having just been sucked back into this story again recently.
+[23:09] * VirginiaR applauds Mouse!
+[23:09] * KateB applauds all the authors
+[23:09] <Meadowlark> Well, gimics are good, too
+[23:09] * KKent applauds a nominees then goes back to biting her fingernails again
+[23:09] <VirginiaR> You have fingernails left?
+[23:09] <KKent> nope
+[23:09] <Nan> Congrats!
+[23:10] <KellyM> lol  yay Corrina again!
+[23:10] <VirginiaR> Congratulations, Corrina
+[23:10] * VickiM claps wildly
+[23:10] * DarthMichael applauds
+[23:10] <Deja_Vu> Congrats, Corrina!!!
+[23:10] <VickiM> Congrats!!!
+[23:10] <KKent> Yay, again.  Congrats
+[23:10] <KenJ> Congrats again to Corina!
+[23:10] <NostalgiaKic> back
+[23:10] <DarthMichael> Corrina is going for a record!
+[23:10] * amberlea sets mode: +stin
+[23:10] <KKent> Seems like it *grin*
+[23:10] * VirginiaR passes chocolate sundae with works to Katherine
+[23:11] * amberlea changes topic to 'Best Revelation: Female Hawk!'
+[23:11] <KateB> Congrats Corrina
+[23:11] <Nan> Lol
+[23:12] * KKent stares at eh Sundae thinking ... it's not gonna help, except to pile on the pounds ... then eats it anyway
+[23:12] <KellyM> it's a celebratory sundae
+[23:12] <VirginiaR> It will save what's left of your fingernails.
+[23:12] <Nan> Celebratory sundaes don't count.
+[23:12] <KellyM> Right
+[23:12] <KKent> Ahhh, keep my fingers occupied eh? 
+[23:12] * VirginiaR taps her sundae against Katherine Kent's
+[23:13] <KKent> Oh yeah. Doesn't count, like food from someone else plate *nods*
+[23:13] <Nan> exactly
+[23:13] <NostalgiaKic> Or broken cookies
+[23:13] <VirginiaR> If we overdose on sugar maybe some hero will have to fly us to a hospital.
+[23:13] * DarthMichael laughs
+[23:13] <Meadowlark> I want to thank KK for a new meaning to "wet T-Shirt"  
+[23:13] <Nan> or cookie dough.
+[23:13] <KKent> lol.  You are welcome
+[23:13] <VirginiaR> Wait.  Clark's t-shirt got wet?
+[23:14] <VirginiaR> Yea!  Amber!
+[23:14] * VirginiaR applauds Amber!
+[23:14] * VickiM hands Amber some water - her throat must be getting dry by now
+[23:14] <Deja_Vu> Poor Amber!! Thanks for all your hard work!!
+[23:14] * KellyM wonders if that 'water' is actually 'vodka'
+[23:14] <Deja_Vu> LOL
+[23:14] <VickiM> maaaaaaaybe
+[23:15] <VirginiaR> I doubt vodka would help with a sore throat.  Better make it a White Russian
+[23:15] <VirginiaR> With blended ice
+[23:15] <NostalgiaKic> Water, vodka, they're the same thing right? :P
+[23:15] <Nan> absolutely
+[23:15] <KKent> Look the same to me ... see through
+[23:15] <KellyM> or, as my aunt calls them after she's had a few, 'white wussions'
+[23:15] <amberlea> wait, no one told me I could drink on the job!
+[23:16] <VirginiaR> Ellen Lane suggests putting it in a coffee mug and nobody will know.
+[23:16] * VirginiaR ducks
+[23:16] <VickiM> hehehe
+[23:16] <KellyM> poor Ellen
+[23:17] * VirginiaR applauds. Loved Thomas Mc's story
+[23:17] * VirginiaR whistles!
+[23:17] <VirginiaR> Go, Lynn!  Yea!
+[23:18] <VirginiaR> brb
+[23:19] <Corrina> Congrats, Nan.
+[23:19] <NostalgiaKic> Woohoo, go Nan!
+[23:19] <Nan> Holy sh*t!
+[23:19] * VickiM applauds enthusiastically
+[23:19] <KenJ> Yeah!  Nan!
+[23:19] * KKent applauds and whistles
+[23:19] <KellyM> woot, nan!
+[23:19] <BobB> Congrats, Nan!
+[23:19] <VickiM> Congrats!!!
+[23:19] <KateB> Yay, Way to go Night eagle!!
+[23:19] * VirginiaR applauds Nan!
+[23:19] <VirginiaR> Yea!  Night Eagle!
+[23:20] <Deja_Vu> Congrats!!!
+[23:20] * KateB applauds for Nan and Night Eagle
+[23:20] <DarthMichael> Congrats, Nan!
+[23:21] <KateB> You are kidding Nan, that was an incredible story.
+[23:21] <Meadowlark> Congrats, Nan
+[23:21] <DarthMichael> nah, you're a fixture, Nan!
+[23:22] <VirginiaR> Impossible.  Your characters are amazing, Nan.
+[23:22] * amberlea changes topic to 'Best O/S Character: Nan Smith!'
+[23:23] <KateB> Night Eagle is my favorite "vampire", hands down.
+[23:23] <VickiM> I'm down with any vampire who doesn't sparkle ;)
+[23:23] <Nan> I guess I'll have to write another one to bring Night Eagle his happy ending. Just as soon as i finish Smallville.
+[23:24] <NostalgiaKic> lol @Vicki
+[23:24] <VirginiaR> If she writes it, we will read it.
+[23:25] * KateB claps for Nan and her plants to write these stories
+[23:25] * VirginiaR applauds Ken
+[23:25] <KKent> *whispers* Haven't we seen him up there before?
+[23:26] <KellyM> but lois is 'dead'
+[23:26] <VirginiaR> *whispers* he's wearing glasses this time so we don't recognize him as the same person
+[23:26] <Deja_Vu> hahaha
+[23:26] <KKent> *spoilers*  please don't shout out
+[23:26] <KKent> LOL
+[23:27] <VirginiaR> What is Kelly talking about?
+[23:27] <VirginiaR> What happened to Lois? 8-O
+[23:27] <KellyM> Nothing
+[23:27] <KellyM> !
+[23:27] <KellyM> Don't look!
+[23:27] <KellyM> These are not the droids you're looking for!
+[23:28] * KKent us not biting her fingers this time. She is sat on them
+[23:28] <VirginiaR> HI Lynn!
+[23:28] <VickiM> That only works on the weak min....oooh, a penny!
+[23:28] <VirginiaR> Droids?
+[23:28] * VirginiaR glances under Michael's cape.
+[23:28] * KellyM uses the Jedi mind trick
+[23:28] <VirginiaR> I don't see any droids
+[23:28] * KateB laughs
+[23:29] <KellyM> Another TIE??
+[23:29] <VirginiaR> Wait.  Ken has gotten the envelope?  Already?
+[23:29] <KellyM> DRUM ROLLS (away)
+[23:29] * KellyM runs after it
+[23:29] <VickiM> hehehe
+[23:29] <KKent> lol
+[23:29] <Nan> Congratulations. We, of course, are looking forward to many more stories now.
+[23:29] * VickiM gives Kelly wine to go with her cheese
+[23:29] * VirginiaR applauds KatherineKent!
+[23:29] <KellyM> woot!!!
+[23:29] <BobB> Good job KK!!
+[23:29] <KKent> no no no no.  It can't be,
+[23:29] * DarthMichael looks around and sets up guns to shoot TIEs down
+[23:29] <Corrina> Yay! Victoria!!!!!
+[23:29] <VirginiaR> Yea!  Katherine!
+[23:30] * VickiM claps
+[23:30] <KateB> Yay, way to goKK
+[23:30] <Deja_Vu> WOoo!!! Congrats!!!!
+[23:30] <KellyM> /me picks Victoria up off the floor
+[23:30] <VickiM> Congrats!!!!!
+[23:30] * KellyM picks Victoria up off the floor
+[23:30] * DarthMichael applauds
+[23:30] <NostalgiaKic> Congrats!!!
+[23:30] <KateB> You deserved it, great stories, all of them.
+[23:30] * KellyM hands you tissues cuz I think you're about to need them
+[23:30] * amberlea changes topic to 'BNA: Katherine Kent!'
+[23:31] <VirginiaR> *whispers* turn the card over.
+[23:31] <KellyM> Awwww
+[23:32] <Deja_Vu> awwww
+[23:32] <Nan> lol
+[23:32] <VirginiaR> Thanks, Corrina.  You've now inspired your new competition.
+[23:32] * VirginiaR applauds KK
+[23:32] <Corrina> I'm so glad you came to join us, Victoria.
+[23:33] <KenJ> I'm done.  Gotta go!
+[23:33] <amberlea> Thank you, Ken!
+[23:33] <KellyM> Bye Ken!!
+[23:33] * DarthMichael waves
+[23:33] <KKent> bye
+[23:33] <VirginiaR> Thanks and bye, Ken!
+[23:33] <BobB> Bye Ken
+[23:33] * VirginiaR waves
+[23:33] <KateB> Great job Ken
+[23:33] <Corrina> Good job, Ken.
+[23:33] <NostalgiaKic> Bye Ken
+[23:33] <Nan> Thanks, Ken!
+[23:33] <VickiM> bye Ken
+[23:33] * KenJ has left #kerthchat
+[23:35] <KateB> KK looks like dangerous competition.
+[23:35] * VirginiaR wonders how a pair of glasses has made Amber look so different
+[23:35] <KellyM> Hi Morgana!
+[23:35] <DarthMichael> it's the blonde wig, actually
+[23:36] <KKent> Morgana's a blonde?!
+[23:36] <amberlea> you guys are good at this  :)
+[23:36] <VirginiaR> Oh.  It was a hair cut, not glasses.  Silly me.
+[23:36] <DarthMichael> no idea, but I didn't want to say red, just becuse Lois used a red one
+[23:36] <VirginiaR> I love that song. /sigh/
+[23:37] * KellyM hum
+[23:37] <KellyM> s
+[23:37] <VirginiaR> Lois and Clark?
+[23:37] * VirginiaR ducking, again.
+[23:37] <KKent> yup
+[23:37] <DarthMichael> Lois and Lex?
+[23:37] <DarthMichael> Lois and Dan?
+[23:37] <BobB> Boo!
+[23:37] <KKent> bleurgh
+[23:38] <DarthMichael> Cat and Jimmy?
+[23:38] <NostalgiaKic> Eww
+[23:38] <KellyM> Perry and Lex
+[23:38] <VirginiaR> We need a best torture scene. /checks spelling.  Got it write this time./
+[23:38] <KKent> runs away screaming
+[23:38] <VickiM> oooh, I like the idea, Virginia!!!!
+[23:38] <KellyM> Jimmy and Lex?
+[23:38] <VickiM> Jimmy and Clark?  ;)
+[23:38] <Nan> ewwww
+[23:38] * DarthMichael laughs
+[23:38] * VickiM ducks
+[23:38] <DarthMichael> LOIS: Clark and Superman?
+[23:39] <VirginiaR> You'd have to get them in the same room first.
+[23:39] <VickiM> lol
+[23:39] <NostalgiaKic> Clark and Vatman? :P
+[23:39] <DarthMichael> there's stories about that on the dark side
+[23:39] <KellyM> lol  I think i've read that fic....
+[23:39] <KKent> beware the Dark side of the fic
+[23:40] <VickiM> but...fun things happen, in the dark...and the dark side has cookies
+[23:40] <KKent> oooo cookies
+[23:40] <VirginiaR> It's like California.  'You can check out any time you like, but you can never leave...'
+[23:40] <VirginiaR> Especially, if you're following a Sue S. story.
+[23:40] <Nan> Yay!
+[23:41] * VirginiaR ducking.
+[23:41] <KKent> Hey, there's a place we refer to on the Smallville boards .. Gutterville.  I think I live there
+[23:41] * KateB applauds all the authors
+[23:41] * VickiM claps
+[23:41] <VickiM> Congrats, Sue!
+[23:41] <Nan> Sue stories are always great stories.
+[23:41] <KellyM> Yay Sue!!!!!!!!
+[23:41] * DarthMichael applauds
+[23:41] <Deja_Vu> Woo! Congrats, Sue!!
+[23:41] * VirginiaR applauds Sue!
+[23:41] * KKent applauds and whistles
+[23:41] <NostalgiaKic> Yay for Sue!
+[23:41] * amberlea changes topic to 'Best First Kiss: Sue S!'
+[23:41] <KateB> Congrats Sue, the queen of smut
+[23:41] <VirginiaR> She's going to wish she hadn't gone on vacation.
+[23:41] <KellyM> Naw
+[23:42] <DarthMichael> now now, Lois almost kept herself completely dressed in that one ;)
+[23:42] <KellyM> she was dying to go on vacay
+[23:42] <Nan> A little smut can be a good thing.
+[23:42] <VickiM> lol
+[23:42] <VickiM> smut is fun
+[23:42] * VirginiaR applauds Amber's multiple personality joke
+[23:43] <DarthMichael> let's hope sue brings back a heapin' bit of it for Anton and Lola to paly with
+[23:43] <VirginiaR> Aren't we all dying to go on vacation?
+[23:43] <KellyM> Anton and Lola
+[23:43] * KateB chuckles
+[23:43] <KellyM> *fans self*
+[23:43] <VirginiaR> And maybe a little second honeymoon.
+[23:43] <VickiM> Okay, folcs, I need to head out...Kelly, I'll try to catch you later on lanekent
+[23:43] <VickiM> bye all
+[23:43] <KKent> bye
+[23:43] * DarthMichael waves
+[23:43] <VickiM> great seeing you all
+[23:43] <KellyM> I sent Sue a present in regards to A Nice Girl
+[23:43] * VirginiaR waves bye-bye.
+[23:43] <KellyM> Okay, MommyThing!
+[23:44] * VickiM has quit IRC (Signed off)
+[23:44] <NostalgiaKic> Bye Vicki :)
+[23:44] <KateB> Bye Vicky
+[23:44] <VirginiaR> Wow! Already!.
+[23:44] <NostalgiaKic> Drat, missed her
+[23:44] <KellyM> it was a signed pic Dean, in a black leather jacket....
+[23:44] * KKent drools
+[23:44] <Corrina> Belated congrats to Sue.  Son got home from night shift.  Had to make him coffee.
+[23:44] <KellyM> he wrote "Keep Writing!" on it  ;)
+[23:44] <KKent> Wow
+[23:45] <VirginiaR> That should inspire Sue
+[23:45] <KellyM> I love Dean, he's a sweetheart
+[23:45] <KKent> Does he know what she does to him in her imagination before he wrote that!!!!
+[23:45] <KellyM> Yes  LOL
+[23:45] * DarthMichael grins evilly
+[23:45] <VirginiaR> It's probably best if he doesn't know
+[23:45] <KellyM> I told him about Anton
+[23:45] <KellyM> he was....intrigued!
+[23:45] <KKent> I would have loved to have seen that
+[23:46] * NostalgiaKic has quit IRC (Signed off)
+[23:46] <DarthMichael> TEMPUS: So, me?
+[23:46] <DarthMichael> LEX: No, *me*!
+[23:46] <VirginiaR> LEX: No, she means me!
+[23:47] <VirginiaR> LOIS: DUH! ME1
+[23:47] <VirginiaR> !
+[23:47] * KKent chuckles in the corner
+[23:47] <KellyM> lol
+[23:47] <DarthMichael> LEX: ????
+[23:47] <Deja_Vu> hehehe
+[23:47] <DarthMichael> TEMPUS: ???????
+[23:47] <VirginiaR> LOIS: /hands them both arrest warrants care of Henderson./
+[23:47] <DarthMichael> ALT-LOIS: I'm *not* optional
+[23:48] * VirginiaR jumps up and down! Thinking she's finally a winner!
+[23:48] * VirginiaR applauds self as reader
+[23:48] <KellyM> woot!
+[23:48] <KellyM> lol
+[23:49] <VirginiaR> which is why Michael is always the best!
+[23:49] * DarthMichael blushes some more
+[23:49] <Deja_Vu> yes!!
+[23:49] <Nan> I love Michael's feedback.
+[23:49] <KKent> Hey, he's on the Wacky-Kerth awards for commenting!!!!!
+[23:49] <VirginiaR> Well deserved honor.
+[23:50] <Deja_Vu> Michael's feedback is definitely the best!
+[23:50] <DarthMichael> awww... guys...!
+[23:50] <VirginiaR> *mumbles* or their continuing story as the case maybe
+[23:51] <DarthMichael> Well... at least one of teh Telenovelas was on air for 20 years or so
+[23:51] <KateB> Michael should win for FDK
+[23:51] <VirginiaR> Yes, at least, my saga isn't about Vampires (which is in reference to that soap opera and not Nan's story).
+[23:52] * VirginiaR claps for Bob and Corrina's stories
+[23:52] * VirginiaR claps for Deja Vu and MozartMaid's stories
+[23:52] * VirginiaR claps for Morgana and Terry's stories
+[23:53] * KateB claps for all
+[23:53] * VirginiaR claps for Nan story and Terry's other story
+[23:53] * VirginiaR rubs lotion on chapped hands
+[23:54] <Nan> lol
+[23:54] <KellyM> Corrina!!
+[23:54] <Deja_Vu> Woohoo!!!! Congrats, Corrina!!!!!
+[23:54] * KKent stands and applauds
+[23:54] <Nan> Congrats, Female Hawkk!
+[23:54] <VirginiaR> Congratulations, Corrina!
+[23:54] <BobB> Yay Corrina!
+[23:54] <DarthMichael> Congratulations, again, Corrina!
+[23:54] <KateB> Congrats Corrina
+[23:54] * Deja_Vu applauds, whistles, and pumps her fist in the air
+[23:54] <KateB> She takes all
+[23:54] * amberlea changes topic to 'Best Overall: Female Hawk!'
+[23:56] <VirginiaR> Corrina must be a great beta.
+[23:57] <Deja_Vu> She's an awesome beta!!
+[23:57] * KellyM waves her hands in the air and tosses confetti
+[23:58] <KellyM> The Wedding?
+[23:58] <KKent> Awww.
+[23:59] <KateB> Oh no :(
+[23:59] * DarthMichael starts crying like a baby
+[23:59] <Deja_Vu> awwww
+[23:59] <KellyM> but you'll be back!!
+[23:59] <VirginiaR> Her husband was cloned?
+[23:59] <KKent> We'll miss you.
+[23:59] <DarthMichael> your readers will be here when you get back!
+[23:59] * KateB claps for the amazing oportunity
+Session Time: Sun Apr 13 00:00:00 2014
+[00:00] <VirginiaR> Congrats, Corrina
+[00:00] <KellyM> We'll all still be here :)
+[00:00] <VirginiaR> phew
+[00:01] <KateB> And maybe you will find some time for a super short story
+[00:01] <KKent> You do know, you will have to be back HERE next year to accept the multiple awards for that fic (and Once Bitten) don't you?
+[00:02] <VirginiaR> I have no complaints about LnC readers.
+[00:02] * KateB blushes
+[00:03] <KellyM> Says teh person who is tourmenting us with an epic trilogy
+[00:03] <KKent> Thanks Corrina
+[00:03] <Corrina> LOL, Virginia - my husband wasn't cloned.  Interesting idea, though!
+[00:03] <KellyM> lol
+[00:03] * Deja_Vu applauds Corrina
+[00:03] <DarthMichael> CLARK: Not funny!
+[00:03] <VirginiaR> LEX: I thought it was funny.
+[00:04] <DarthMichael> LEX: Both times!
+[00:04] <VirginiaR> Should I be complaining about readers, Kelly? *huh*
+[00:04] <KellyM> LOL  No
+[00:04] <KellyM> and Thanks to Amber, who managed to put all this together!
+[00:05] <Corrina> In case my terminology wasn't clear, my husband lost his job of 18 years.  But, onwards and upwards!
+[00:05] <BobB> Thank you for doing the heavy, Amber.
+[00:05] <VirginiaR> I'm still amazed that people show up to read my story.
+[00:05] <KKent> Yay.  Thank you Amber
+[00:05] * VirginiaR not worthy of all her readers.
+[00:05] <Corrina> Great job, Amber.
+[00:05] <Deja_Vu> Thanks to Amber and the Kerth Committee and everyone involved in making the Kerth Awards possible!!
+[00:05] * KateB applauds for Amber and her hard work
+[00:05] * VirginiaR applauds Amber for all her hard work. Hands her glass of wine and chocolate bar.
+[00:05] * DarthMichael applauds Amber
+[00:05] <Deja_Vu> And thanks to all the authors of such amazing stories!!
+[00:05] <KellyM> no clones?
+[00:05] <amberlea> Thanks, everyone!
+[00:06] <KellyM> Amber deserves a clone after all that
+[00:06] * amberlea is grateful for such a great community
+[00:06] * amberlea and chocolate and wine :)
+[00:06] <KellyM> lol
+[00:06] <VirginiaR> Only if the Clone cleans Amber's house and cooks her gourmet meal
+[00:06] <KellyM> If y'all aren't bored of IRC, the LaneKent group is watching Man of Steel Bars tonight in about 4 hours or so.
+[00:06] <amberlea> where do I get a clone? I'm on board, Virginia!
+[00:06] <KKent> Well.  It's 5 past 11 here.  I need sleep.  See you all on the boards.
+[00:07] <VirginiaR> LOL
+[00:07] * BobB has left #kerthchat
+[00:07] <amberlea> bye KK!
+[00:07] <DarthMichael> Victoria: add another hour over here...
+[00:07] <VirginiaR> In 4 hours, I'm supposed to have a date with my hubby... if they let him leave work.
+[00:07] <DarthMichael> see you guys! it's been a blast
+[00:07] <Deja_Vu> Goodnight!! I'm leaving myself!
+[00:07] <amberlea> bye Michael, thank you!
+[00:07] <KellyM> Bye everyone!!!
+[00:07] * KKent has quit IRC (Signed off)
+[00:07] <VirginiaR> Bye, Michael!
+[00:07] <amberlea> night Deja!
+[00:07] <Deja_Vu> Bye bye!!
+[00:07] <Nan> Back to unpacking boxes. Thanks again to everyone who read the Vampire Murders.
+[00:07] <VirginiaR> Bye, All!
+Session Close: Sun Apr 13 00:07:53 2014
