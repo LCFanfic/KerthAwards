@@ -9905,7 +9905,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Now we have @Darth_Michael back on stage for Best Mid-Length Story!",
+      "content": "Now we have @Darth_Michael as Morgana back on stage for Best Mid-Length Story!",
       "author": {
         "id": "626532094436179971",
         "name": "ksarasara",
@@ -9955,27 +9955,14 @@
       "isPinned": false,
       "content": "Morgana could not be here this evening, but she wrote a presentation for this next award.",
       "author": {
-        "id": "970692266417061968",
-        "name": "darth_michael",
+        "id": "MorganaID",
+        "name": "Morgana",
         "discriminator": "0000",
-        "nickname": "Darth_Michael",
+        "nickname": "Morgana (sock)",
         "color": null,
         "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/MorganaID/MorganaAvatar.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -9992,27 +9979,14 @@
       "isPinned": false,
       "content": "Hello to this happy crowd of FoLC’s! Let me just say, I coulda, shoulda woulda , But I can’t take my eyes off of you as an award winning Undercover reporter it was kinda hard to save a slice of pie for me.",
       "author": {
-        "id": "970692266417061968",
-        "name": "darth_michael",
+        "id": "MorganaID",
+        "name": "Morgana",
         "discriminator": "0000",
-        "nickname": "Darth_Michael",
+        "nickname": "Morgana (sock)",
         "color": null,
         "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/MorganaID/MorganaAvatar.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -10074,27 +10048,14 @@
       "isPinned": false,
       "content": "*Crickets chirp … the audience did not get the joke!*",
       "author": {
-        "id": "970692266417061968",
-        "name": "darth_michael",
+        "id": "MorganaID",
+        "name": "Morgana",
         "discriminator": "0000",
-        "nickname": "Darth_Michael",
+        "nickname": "Morgana (sock)",
         "color": null,
         "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/MorganaID/MorganaAvatar.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -10111,27 +10072,14 @@
       "isPinned": false,
       "content": "*Nervous presenter clears throat and says, “Okay, moving right along…”*",
       "author": {
-        "id": "970692266417061968",
-        "name": "darth_michael",
+        "id": "MorganaID",
+        "name": "Morgana",
         "discriminator": "0000",
-        "nickname": "Darth_Michael",
+        "nickname": "Morgana (sock)",
         "color": null,
         "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/MorganaID/MorganaAvatar.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -10193,27 +10141,14 @@
       "isPinned": false,
       "content": "This award goes to those writers who decided to leave the short story behind.",
       "author": {
-        "id": "970692266417061968",
-        "name": "darth_michael",
+        "id": "MorganaID",
+        "name": "Morgana",
         "discriminator": "0000",
-        "nickname": "Darth_Michael",
+        "nickname": "Morgana (sock)",
         "color": null,
         "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/MorganaID/MorganaAvatar.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -10230,27 +10165,14 @@
       "isPinned": false,
       "content": "They wanted to stretch their writing abilities by prolonging the story, giving it more of a punch and seeing where it lands.",
       "author": {
-        "id": "970692266417061968",
-        "name": "darth_michael",
+        "id": "MorganaID",
+        "name": "Morgana",
         "discriminator": "0000",
-        "nickname": "Darth_Michael",
+        "nickname": "Morgana (sock)",
         "color": null,
         "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/MorganaID/MorganaAvatar.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -10267,27 +10189,14 @@
       "isPinned": false,
       "content": "Whether its time travel, digging up a story while under the radar, dealing with an old boyfriend or a little boy ‘hearing’ from his father, these nominees have hit the mark.",
       "author": {
-        "id": "970692266417061968",
-        "name": "darth_michael",
+        "id": "MorganaID",
+        "name": "Morgana",
         "discriminator": "0000",
-        "nickname": "Darth_Michael",
+        "nickname": "Morgana (sock)",
         "color": null,
         "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/MorganaID/MorganaAvatar.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -10304,27 +10213,14 @@
       "isPinned": false,
       "content": "The Nominees for the **Best Mid-Length Story** are:\n* Could’a, Should’a, Would’a – Toomi8\n* Can’t Take My Eyes Off Of You - by Socomama and KSaraSara\n* Undercover Reporter - JadedEvie\n* Save A Slice of Pie for Me – SuperBek",
       "author": {
-        "id": "970692266417061968",
-        "name": "darth_michael",
+        "id": "MorganaID",
+        "name": "Morgana",
         "discriminator": "0000",
-        "nickname": "Darth_Michael",
+        "nickname": "Morgana (sock)",
         "color": null,
         "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/MorganaID/MorganaAvatar.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -10341,27 +10237,14 @@
       "isPinned": false,
       "content": "*Presenter accepts envelope, smiles, rips it out and says:*",
       "author": {
-        "id": "970692266417061968",
-        "name": "darth_michael",
+        "id": "MorganaID",
+        "name": "Morgana",
         "discriminator": "0000",
-        "nickname": "Darth_Michael",
+        "nickname": "Morgana (sock)",
         "color": null,
         "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/MorganaID/MorganaAvatar.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -10378,27 +10261,14 @@
       "isPinned": false,
       "content": "The winner is *Save A Slice of Pie For Me* by SuperBek!",
       "author": {
-        "id": "970692266417061968",
-        "name": "darth_michael",
+        "id": "MorganaID",
+        "name": "Morgana",
         "discriminator": "0000",
-        "nickname": "Darth_Michael",
+        "nickname": "Morgana (sock)",
         "color": null,
         "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/MorganaID/MorganaAvatar.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -10415,27 +10285,14 @@
       "isPinned": false,
       "content": "Congratulations @Bek !",
       "author": {
-        "id": "970692266417061968",
-        "name": "darth_michael",
+        "id": "MorganaID",
+        "name": "Morgana",
         "discriminator": "0000",
-        "nickname": "Darth_Michael",
+        "nickname": "Morgana (sock)",
         "color": null,
         "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/MorganaID/MorganaAvatar.png?size=512"
       },
       "attachments": [],
       "embeds": [],
