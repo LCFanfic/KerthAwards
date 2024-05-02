@@ -16190,6 +16190,75 @@
         }
       ],
       "mentions": []
+    },
+    {
+      "id": "1231743375812857926",
+      "type": "Default",
+      "timestamp": "2024-04-21T23:08:25.479+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi!",
+      "author": {
+        "id": "232218647068803072",
+        "name": "jessblueowl",
+        "discriminator": "0000",
+        "nickname": "Blueowl",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/232218647068803072/2c051d3734d31b05d0199c9e85eeba9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD70",
+            "code": "smiling_face_with_3_hearts",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f970.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "626532094436179971",
+              "name": "ksarasara",
+              "discriminator": "0000",
+              "nickname": "KSaraSara",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/70d39427343d606b75c3bef73e912542.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1231743714737782784",
+      "type": "Default",
+      "timestamp": "2024-04-21T23:09:46.285+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry I missed it all. Have been preparing the house for family coming this week",
+      "author": {
+        "id": "232218647068803072",
+        "name": "jessblueowl",
+        "discriminator": "0000",
+        "nickname": "Blueowl",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/232218647068803072/2c051d3734d31b05d0199c9e85eeba9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
     }
   ],
   "messageCount": 381
