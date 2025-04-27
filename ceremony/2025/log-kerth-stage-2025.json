@@ -8436,7 +8436,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Uhh, no, sorry. Anyway, the nominations are:",
+      "content": "Uhh, no, sorry. Anyway, the nominations for **Best Dramatic Story** are:",
       "author": {
         "id": "863096418641379398",
         "name": "lovetvfan",
@@ -8467,199 +8467,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "2023 Ficathon: Don’t Let Me See You Hurt for lovetvfan by bakasi",
-      "author": {
-        "id": "863096418641379398",
-        "name": "lovetvfan",
-        "discriminator": "0000",
-        "nickname": "lovetvfan",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 2,
-          "users": [
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1365747285455147221",
-      "type": "Default",
-      "timestamp": "2025-04-26T17:52:07.21+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Breaking Point by Kathryn84",
-      "author": {
-        "id": "863096418641379398",
-        "name": "lovetvfan",
-        "discriminator": "0000",
-        "nickname": "lovetvfan",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 2,
-          "users": [
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1365747346285134045",
-      "type": "Default",
-      "timestamp": "2025-04-26T17:52:21.713+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "IBM: All Fallen Down by JadedEvie",
-      "author": {
-        "id": "863096418641379398",
-        "name": "lovetvfan",
-        "discriminator": "0000",
-        "nickname": "lovetvfan",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "♥️",
-            "code": "hearts",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2665.svg"
-          },
-          "count": 1,
-          "users": [
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            }
-          ]
-        },
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 1,
-          "users": [
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1365747419903693002",
-      "type": "Default",
-      "timestamp": "2025-04-26T17:52:39.265+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Undercover Reporter: Resurrection by JadedEvie",
+      "content": "- **2023 Ficathon: Don’t Let Me See You Hurt for lovetvfan** by bakasi\n- **Breaking Point** by Kathryn84\n- **IBM: All Fallen Down** by JadedEvie\n- **Undercover Reporter: Resurrection** by JadedEvie",
       "author": {
         "id": "863096418641379398",
         "name": "lovetvfan",
@@ -8975,7 +8783,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Undercover Reporter: Resurrection by JadedEvie!!!",
+      "content": "**Undercover Reporter: Resurrection** by JadedEvie!!!",
       "author": {
         "id": "863096418641379398",
         "name": "lovetvfan",
