@@ -17239,7 +17239,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees are:",
+      "content": "The nominees for **Best Original Fanart** are:",
       "author": {
         "id": "928344033418412093",
         "name": "annabtg",
@@ -17276,118 +17276,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "**Music Video: I Will Always Love You by Whitney Houston by Aurore**",
-      "author": {
-        "id": "928344033418412093",
-        "name": "annabtg",
-        "discriminator": "0000",
-        "nickname": "AnnaBtG",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1365770682847465524",
-      "type": "Default",
-      "timestamp": "2025-04-26T19:25:05.583+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "**Graphics: 2024 Kerth Banners by Carrie Rene**",
-      "author": {
-        "id": "928344033418412093",
-        "name": "annabtg",
-        "discriminator": "0000",
-        "nickname": "AnnaBtG",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1365770723804712990",
-      "type": "Default",
-      "timestamp": "2025-04-26T19:25:15.348+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "**Music Video: Elevator Shenannigans, a compilation to Stricken by No Doubt by Krista**",
-      "author": {
-        "id": "928344033418412093",
-        "name": "annabtg",
-        "discriminator": "0000",
-        "nickname": "AnnaBtG",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "950610497726717962",
-            "name": "admin",
-            "color": null,
-            "position": 8
-          },
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1365770767794573382",
-      "type": "Default",
-      "timestamp": "2025-04-26T19:25:25.836+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "**Music Video: Dream Worth Keeping by Sheena Easton (from the Fern Gully soundtrack) by lovetvfan**",
+      "content": "- **Music Video: I Will Always Love You by Whitney Houston** by Aurore\n - **Graphics: 2024 Kerth Banners** by Carrie Rene\n - **Music Video: Elevator Shenannigans, a compilation to Stricken by No Doubt** by Krista\n - **Music Video: Dream Worth Keeping by Sheena Easton (from the Fern Gully soundtrack)** by lovetvfan",
       "author": {
         "id": "928344033418412093",
         "name": "annabtg",
@@ -17583,7 +17472,7 @@
       "timestampEdited": "2025-04-26T19:27:25.301+00:00",
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "**Music Video: Dream Worth Keeping by Sheena Easton (from the Fern Gully soundtrack) by lovetvfan** !!!",
+      "content": "**Music Video: Dream Worth Keeping by Sheena Easton (from the Fern Gully soundtrack)** by lovetvfan !!!",
       "author": {
         "id": "928344033418412093",
         "name": "annabtg",
