@@ -18203,100 +18203,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Bakasi",
-      "author": {
-        "id": "veritycantare",
-        "name": "Verity (Puffytiger)",
-        "discriminator": "0000",
-        "nickname": "Verity (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1365772709048357005",
-      "type": "Default",
-      "timestamp": "2025-04-26T19:33:08.667+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Darth Michael",
-      "author": {
-        "id": "veritycantare",
-        "name": "Verity (Puffytiger)",
-        "discriminator": "0000",
-        "nickname": "Verity (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83D\uDE0A",
-            "code": "blush",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60a.svg"
-          },
-          "count": 1,
-          "users": [
-            {
-              "id": "970692266417061968",
-              "name": "darth_michael",
-              "discriminator": "0000",
-              "nickname": "Darth_Michael",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/970692266417061968/b0bd7ae076fe75a1de363ea459db5da3.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1365772770994028695",
-      "type": "Default",
-      "timestamp": "2025-04-26T19:33:23.436+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "JadedEvie",
-      "author": {
-        "id": "veritycantare",
-        "name": "Verity (Puffytiger)",
-        "discriminator": "0000",
-        "nickname": "Verity (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1365772820126367867",
-      "type": "Default",
-      "timestamp": "2025-04-26T19:33:35.15+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Morgana",
+      "content": "Nominated for **Best Commenter / Feedback Giver** are:\n- **Bakasi**\n- **Darth Michael**\n- **JadedEvie**\n- **Morgana**",
       "author": {
         "id": "veritycantare",
         "name": "Verity (Puffytiger)",
@@ -18532,7 +18439,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Darth Michael!!!!",
+      "content": "**Darth Michael**!!!!",
       "author": {
         "id": "863096418641379398",
         "name": "lovetvfan",
