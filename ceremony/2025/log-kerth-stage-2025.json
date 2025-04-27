@@ -12837,7 +12837,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees are…",
+      "content": "The nominees for **Best Kiss** are…",
       "author": {
         "id": "MorganaID",
         "name": "Morgana",
@@ -12861,100 +12861,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "- 110 Kisses: You Made Your Choice (1/1—a standalone in collection of ficlets) by KSaraSara",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1365757907987071017",
-      "type": "Default",
-      "timestamp": "2025-04-26T18:34:19.819+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "- 2023 Ficathon: Christmas Lights for KSaraSara by JadedEvie",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1365757968091582495",
-      "type": "Default",
-      "timestamp": "2025-04-26T18:34:34.149+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "- Falling For a Farm Boy by Female Hawk",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1365758011770929192",
-      "type": "Default",
-      "timestamp": "2025-04-26T18:34:44.563+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "- First Kiss by AmandaK",
+      "content": "- **110 Kisses: You Made Your Choice (1/1—a standalone in collection of ficlets)** by KSaraSara\n- **2023 Ficathon: Christmas Lights for KSaraSara** by JadedEvie\n- **Falling For a Farm Boy** by Female Hawk\n- **First Kiss** by AmandaK",
       "author": {
         "id": "MorganaID",
         "name": "Morgana",
@@ -13026,7 +12933,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "110 Kisses: You Made Your Choice (1/1—a standalone in collection of ficlets) by KSaraSara",
+      "content": "**110 Kisses: You Made Your Choice (1/1—a standalone in collection of ficlets)** by KSaraSara",
       "author": {
         "id": "MorganaID",
         "name": "Morgana",
