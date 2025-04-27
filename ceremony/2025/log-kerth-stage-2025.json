@@ -14659,7 +14659,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees are…",
+      "content": "The nominees for **Best Mid-Length or Long Story (over 51kB)** are…",
       "author": {
         "id": "949027374442373140",
         "name": "bakasi_",
@@ -14690,100 +14690,7 @@
       "timestampEdited": "2025-04-26T18:55:29.175+00:00",
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "- 2023 Ficathon: Planes, Trains and Deep Fried Mars Bars for Queen of the Capes by lovetvfan",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1365763321160269944",
-      "type": "Default",
-      "timestamp": "2025-04-26T18:55:50.42+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "- Advent Calendar for folcs by Kathryn84",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1365763393243582474",
-      "type": "Default",
-      "timestamp": "2025-04-26T18:56:07.606+00:00",
-      "timestampEdited": "2025-04-26T18:56:20.588+00:00",
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "- Falling For a Farm Boy by Female Hawk",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1365763516430160062",
-      "type": "Default",
-      "timestamp": "2025-04-26T18:56:36.976+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "- Undercover Reporter: Resurrection by JadedEvie",
+      "content": "- **2023 Ficathon: Planes, Trains and Deep Fried Mars Bars for Queen of the Capes** by lovetvfan\n- **Advent Calendar for FoLCs** by Kathryn84\n- **Falling For a Farm Boy** by Female Hawk\n- **Undercover Reporter: Resurrection** by JadedEvie",
       "author": {
         "id": "949027374442373140",
         "name": "bakasi_",
@@ -15020,7 +14927,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Falling For a Farm Boy by Female Hawk",
+      "content": "**Falling For a Farm Boy** by Female Hawk",
       "author": {
         "id": "949027374442373140",
         "name": "bakasi_",
