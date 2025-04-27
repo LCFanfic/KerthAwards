@@ -4651,7 +4651,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "This year’s nominees for Best super-short are",
+      "content": "This year’s nominees for the **Best Super-Short Story** are",
       "author": {
         "id": "949027374442373140",
         "name": "bakasi_",
@@ -4682,163 +4682,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "IBM: All Fallen Down by JadedEvie",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 1,
-          "users": [
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1365738348882428006",
-      "type": "Default",
-      "timestamp": "2025-04-26T17:16:36.565+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "An Icy Reception by Queen of the Capes",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 1,
-          "users": [
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1365738408894402731",
-      "type": "Default",
-      "timestamp": "2025-04-26T17:16:50.873+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Love, Houdini by bakasi",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1222667332707422299",
-            "name": "Ceremony Speaker",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 1,
-          "users": [
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1365738458982912032",
-      "type": "Default",
-      "timestamp": "2025-04-26T17:17:02.815+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Out Of The Fire by Toomi8",
+      "content": "- **IBM: All Fallen Down** by JadedEvie\n- **An Icy Reception** by Queen of the Capes\n- **Love, Houdini** by bakasi\n- **Out Of The Fire** by Toomi8",
       "author": {
         "id": "949027374442373140",
         "name": "bakasi_",
@@ -5091,7 +4935,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Out of the Fire by @Toomi",
+      "content": "**Out of the Fire** by @Toomi",
       "author": {
         "id": "949027374442373140",
         "name": "bakasi_",
