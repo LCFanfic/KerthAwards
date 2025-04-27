@@ -5464,7 +5464,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees for Best Elseworlds/AU Story are:",
+      "content": "The nominees for **Best Elseworlds/AU Story** are:",
       "author": {
         "id": "queenofthecapes._27212",
         "name": "QueenoftheCapes",
@@ -5488,105 +5488,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "- District K: Injustice by AmandaK",
-      "author": {
-        "id": "queenofthecapes._27212",
-        "name": "QueenoftheCapes",
-        "discriminator": "0000",
-        "nickname": "QueenoftheCapes (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://discord.com/assets/411d8a698dd15ddf.png"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 2,
-          "users": [
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1365740860343582860",
-      "type": "Default",
-      "timestamp": "2025-04-26T17:26:35.344+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "- Falling For a Farm Boy by Female Hawk",
-      "author": {
-        "id": "queenofthecapes._27212",
-        "name": "QueenoftheCapes",
-        "discriminator": "0000",
-        "nickname": "QueenoftheCapes (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://discord.com/assets/411d8a698dd15ddf.png"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "♥️",
-            "code": "hearts",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2665.svg"
-          },
-          "count": 1,
-          "users": [
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1365740925174808757",
-      "type": "Default",
-      "timestamp": "2025-04-26T17:26:50.801+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "- Lois and The Spaceship by 90stvfangirl",
+      "content": "- **District K: Injustice** by AmandaK\n- **Falling For a Farm Boy** by Female Hawk\n- **Lois and The Spaceship** by 90stvfangirl",
       "author": {
         "id": "queenofthecapes._27212",
         "name": "QueenoftheCapes",
