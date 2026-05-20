@@ -4003,7 +4003,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "and now, the nominees for Best Micro-Short Story are...",
+      "content": "and now, the nominees for **Best Micro-Short Story** are...",
       "author": {
         "id": "427655654291800065",
         "name": "veritycantare",
@@ -4034,100 +4034,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Computer Troubles by Queen of the Capes – 1 kB (149 words)",
-      "author": {
-        "id": "427655654291800065",
-        "name": "veritycantare",
-        "discriminator": "0000",
-        "nickname": "Verity (Puffytiger)",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408254447074803784",
-            "name": "Role Manager",
-            "color": null,
-            "position": 12
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497626872287199334",
-      "type": "Default",
-      "timestamp": "2026-04-25T15:54:30.915+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "(did she channel her Kerth nomination for the intro???)",
-      "author": {
-        "id": "427655654291800065",
-        "name": "veritycantare",
-        "discriminator": "0000",
-        "nickname": "Verity (Puffytiger)",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408254447074803784",
-            "name": "Role Manager",
-            "color": null,
-            "position": 12
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497626914142290071",
-      "type": "Default",
-      "timestamp": "2026-04-25T15:54:40.894+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Lights and Music by bakasi – 4 kB (702 words)",
-      "author": {
-        "id": "427655654291800065",
-        "name": "veritycantare",
-        "discriminator": "0000",
-        "nickname": "Verity (Puffytiger)",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408254447074803784",
-            "name": "Role Manager",
-            "color": null,
-            "position": 12
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497626969683136582",
-      "type": "Default",
-      "timestamp": "2026-04-25T15:54:54.136+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Pancakes and Power Outages by 90stvfangirl – 3 kB (419 words)",
+      "content": "- **Computer Troubles** by Queen of the Capes – 1 kB (149 words) – (did she channel her Kerth nomination for the intro???)\n- **Lights and Music** by bakasi – 4 kB (702 words)\n- **Pancakes and Power Outages** by 90stvfangirl – 3 kB (419 words)",
       "author": {
         "id": "427655654291800065",
         "name": "veritycantare",
@@ -4250,7 +4157,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Lights and Music by bakasi !!!",
+      "content": "**Lights and Music** by bakasi !!!",
       "author": {
         "id": "427655654291800065",
         "name": "veritycantare",
@@ -5541,7 +5448,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees for Best Revelation Story are:",
+      "content": "The nominees for **Best Revelation Story** are:",
       "author": {
         "id": "jessblueowl",
         "name": "Blueowl",
@@ -5585,53 +5492,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Falling for You (2025SF for JadedEvie) by kSaraSara",
-      "author": {
-        "id": "jessblueowl",
-        "name": "Blueowl",
-        "discriminator": "0000",
-        "nickname": "Blueowl (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/232218647068803072/2c051d3734d31b05d0199c9e85eeba9f.png?size=512"
-      },      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497628564311511251",
-      "type": "Default",
-      "timestamp": "2026-04-25T16:01:14.325+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "A Whole New World (2025SF for BlindPassenger) by 90stvfangirl",
-      "author": {
-        "id": "jessblueowl",
-        "name": "Blueowl",
-        "discriminator": "0000",
-        "nickname": "Blueowl (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/232218647068803072/2c051d3734d31b05d0199c9e85eeba9f.png?size=512"
-      },      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497628642065518815",
-      "type": "Default",
-      "timestamp": "2026-04-25T16:01:32.863+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Youngest Reporter (2025SF for 90sTVFanGirl) by Queen of the Capes",
+      "content": "- **Falling for You** (2025SF for JadedEvie) by kSaraSara\n- **A Whole New World** (2025SF for BlindPassenger) by 90stvfangirl\n- **Youngest Reporter** (2025SF for 90sTVFanGirl) by Queen of the Capes",
       "author": {
         "id": "jessblueowl",
         "name": "Blueowl",
@@ -5828,7 +5689,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Best Revelation\nFalling for You (2025SF for JadedEvie) by kSaraSara",
+      "content": "Best Revelation\n**Falling for You** (2025SF for JadedEvie) by kSaraSara",
       "author": {
         "id": "764673712095494185",
         "name": "crdatema77",
@@ -7433,7 +7294,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees for Best Comedy Story are:",
+      "content": "The nominees for **Best Comedy Story** are:",
       "author": {
         "id": "932111692685533245",
         "name": "toomi_lcsg1",
@@ -7580,7 +7441,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Cacophony by Idontknowwhatthatmeans5678 / SonicMessiah",
+      "content": "- **Cacophony** by Idontknowwhatthatmeans5678 / SonicMessiah",
       "author": {
         "id": "932111692685533245",
         "name": "toomi_lcsg1",
@@ -8008,113 +7869,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Nope by SuperBek",
-      "author": {
-        "id": "932111692685533245",
-        "name": "toomi_lcsg1",
-        "discriminator": "0000",
-        "nickname": "Toomi (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/932111692685533245/9fa6377690afd46e9c2d7fda5ebe96aa.png??size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83C\uDF89",
-            "code": "tada",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
-          },
-          "count": 2,
-          "users": [
-            {
-              "id": "1044700558864429229",
-              "name": "blg1987",
-              "discriminator": "0000",
-              "nickname": "blg1987",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1044700558864429229/0d743c73071a5e06caf3ee802ac2f30b.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497631283671732266",
-      "type": "Default",
-      "timestamp": "2026-04-25T16:12:02.671+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "A Whole New World by 90stvfangirl",
-      "author": {
-        "id": "932111692685533245",
-        "name": "toomi_lcsg1",
-        "discriminator": "0000",
-        "nickname": "Toomi (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/932111692685533245/9fa6377690afd46e9c2d7fda5ebe96aa.png??size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83C\uDF89",
-            "code": "tada",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
-          },
-          "count": 2,
-          "users": [
-            {
-              "id": "1044700558864429229",
-              "name": "blg1987",
-              "discriminator": "0000",
-              "nickname": "blg1987",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1044700558864429229/0d743c73071a5e06caf3ee802ac2f30b.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497631345407688784",
-      "type": "Default",
-      "timestamp": "2026-04-25T16:12:17.39+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Youngest Reporter by Queen of the Capes",
+      "content": "- **Nope** by SuperBek\n- **A Whole New World** by 90stvfangirl\n- **Youngest Reporter** by Queen of the Capes",
       "author": {
         "id": "932111692685533245",
         "name": "toomi_lcsg1",
@@ -13092,7 +12847,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees for the Best Kiss story are:\n110 Kisses: This Isn't Fair by KSaraSara \nFade to Black: Pilot (The Interview) by lovetvfan \nThe Proposal by JadedEvie",
+      "content": "The nominees for the **Best Kiss** story are:\n- **110 Kisses: This Isn't Fair** by KSaraSara \n- **Fade to Black: Pilot (The Interview)** by lovetvfan \n- **The Proposal** by JadedEvie",
       "author": {
         "id": "1044700558864429229",
         "name": "blg1987",
@@ -13307,7 +13062,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The Proposal by JadedEvie!!!!",
+      "content": "**The Proposal** by JadedEvie!!!!",
       "author": {
         "id": "1044700558864429229",
         "name": "blg1987",
@@ -15884,7 +15639,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees for Best Super-Short Story (5-10kb) are:\nThe Lab Incident by Blind Passenger\nNope by SuperBek\nThe Youngest Reporter by Queen of the Capes",
+      "content": "The nominees for **Best Super-Short Story (5-10kb)** are:\n- **The Lab Incident** by Blind Passenger\n- **Nope** by SuperBek\n- **The Youngest Reporter** by Queen of the Capes",
       "author": {
         "id": "MorganaID",
         "name": "Morgana",
@@ -16055,7 +15810,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Youngest Reporter (2025SF for 90sTVFanGirl) by Queen of the Capes",
+      "content": "**Youngest Reporter** (2025SF for 90sTVFanGirl) by Queen of the Capes",
       "author": {
         "id": "928344033418412093",
         "name": "annabtg",
@@ -17701,7 +17456,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "when everyone has calmed down we can move on to the The nominees for Best Episode Adaptation are:",
+      "content": "when everyone has calmed down we can move on to the The nominees for **Best Episode Adaptation** are:",
       "author": {
         "id": "1355526994573525255",
         "name": "idontknowwhatthatmeans5678",
@@ -17852,211 +17607,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Fade to Black: Pilot (The Interview) by lovetvfan",
-      "author": {
-        "id": "1355526994573525255",
-        "name": "idontknowwhatthatmeans5678",
-        "discriminator": "0000",
-        "nickname": "Idon'tknowwhatthatmeans5678",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408253038724120606",
-            "name": "Ficathon",
-            "color": null,
-            "position": 10
-          },
-          {
-            "id": "1408255415090937957",
-            "name": "SuperWriMo",
-            "color": null,
-            "position": 9
-          },
-          {
-            "id": "1408255647409242194",
-            "name": "Sprinters",
-            "color": null,
-            "position": 6
-          },
-          {
-            "id": "1408255691579199528",
-            "name": "WordNerd",
-            "color": null,
-            "position": 5
-          },
-          {
-            "id": "1408255733497335819",
-            "name": "Beta",
-            "color": null,
-            "position": 4
-          },
-          {
-            "id": "1458579027987140723",
-            "name": "Kerth Awards",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497640166821597295",
-      "type": "Default",
-      "timestamp": "2026-04-25T16:47:20.579+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Girls Really Do Solve Everything by Darth Michael",
-      "author": {
-        "id": "1355526994573525255",
-        "name": "idontknowwhatthatmeans5678",
-        "discriminator": "0000",
-        "nickname": "Idon'tknowwhatthatmeans5678",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408253038724120606",
-            "name": "Ficathon",
-            "color": null,
-            "position": 10
-          },
-          {
-            "id": "1408255415090937957",
-            "name": "SuperWriMo",
-            "color": null,
-            "position": 9
-          },
-          {
-            "id": "1408255647409242194",
-            "name": "Sprinters",
-            "color": null,
-            "position": 6
-          },
-          {
-            "id": "1408255691579199528",
-            "name": "WordNerd",
-            "color": null,
-            "position": 5
-          },
-          {
-            "id": "1408255733497335819",
-            "name": "Beta",
-            "color": null,
-            "position": 4
-          },
-          {
-            "id": "1458579027987140723",
-            "name": "Kerth Awards",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83D\uDE06",
-            "code": "laughing",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f606.svg"
-          },
-          "count": 1,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497640213244018821",
-      "type": "Default",
-      "timestamp": "2026-04-25T16:47:31.647+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "IBM: Signs by JadedEvie",
-      "author": {
-        "id": "1355526994573525255",
-        "name": "idontknowwhatthatmeans5678",
-        "discriminator": "0000",
-        "nickname": "Idon'tknowwhatthatmeans5678",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408253038724120606",
-            "name": "Ficathon",
-            "color": null,
-            "position": 10
-          },
-          {
-            "id": "1408255415090937957",
-            "name": "SuperWriMo",
-            "color": null,
-            "position": 9
-          },
-          {
-            "id": "1408255647409242194",
-            "name": "Sprinters",
-            "color": null,
-            "position": 6
-          },
-          {
-            "id": "1408255691579199528",
-            "name": "WordNerd",
-            "color": null,
-            "position": 5
-          },
-          {
-            "id": "1408255733497335819",
-            "name": "Beta",
-            "color": null,
-            "position": 4
-          },
-          {
-            "id": "1458579027987140723",
-            "name": "Kerth Awards",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497640266796896376",
-      "type": "Default",
-      "timestamp": "2026-04-25T16:47:44.415+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Something Worth Fighting For by Abigail Ellen Kent",
+      "content": "- **Fade to Black: Pilot (The Interview)** by lovetvfan\n- **Girls Really Do Solve Everything** by Darth Michael\n- **IBM: Signs** by JadedEvie\n- **Something Worth Fighting For** by Abigail Ellen Kent",
       "author": {
         "id": "1355526994573525255",
         "name": "idontknowwhatthatmeans5678",
@@ -18433,7 +17984,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Fade to Black: Pilot (The Interview) by lovetvfan",
+      "content": "**Fade to Black: Pilot (The Interview)** by lovetvfan",
       "author": {
         "id": "1355526994573525255",
         "name": "idontknowwhatthatmeans5678",
@@ -19358,7 +18909,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees for Best Challenge Story are",
+      "content": "The nominees for **Best Challenge Story** are",
       "author": {
         "id": "764673712095494185",
         "name": "crdatema77",
@@ -19395,7 +18946,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "A Bird in Hand for KSaraSara by Blg1987,\nBut Who’s Got You? For AmandaK by LoveTVFan,\nCacophony For BlueOwl by Idon’tknowwhaththatmeans5678/SonicMessiah\nFalling for You For JadedEvie by KSaraSara\nAnd\nSleight of Hand for QueenoftheCaps by JadedEvie.",
+      "content": "- **A Bird in Hand** for KSaraSara by Blg1987,\n- **But Who’s Got You?** for AmandaK by LoveTVFan,\n- **Cacophony** for BlueOwl by Idon’tknowwhaththatmeans5678/SonicMessiah\n- **Falling for You** for JadedEvie by KSaraSara\n- **Sleight of Hand** for QueenoftheCaps by JadedEvie.",
       "author": {
         "id": "764673712095494185",
         "name": "crdatema77",
@@ -19619,7 +19170,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Sleight of Hand (2025SF for QueenoftheCapes) by JadedEvie",
+      "content": "**Sleight of Hand** (2025SF for QueenoftheCapes) by JadedEvie",
       "author": {
         "id": "764673712095494185",
         "name": "crdatema77",
@@ -22830,7 +22381,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "And now on to what everyone is waiting for! The nominees are ....",
+      "content": "And now on to what everyone is waiting for! The nominees for **Best Dramatic Story** are ....",
       "author": {
         "id": "427655654291800065",
         "name": "veritycantare",
@@ -22861,100 +22412,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "A Bird in Hand by Blg1987",
-      "author": {
-        "id": "427655654291800065",
-        "name": "veritycantare",
-        "discriminator": "0000",
-        "nickname": "Verity (Puffytiger)",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408254447074803784",
-            "name": "Role Manager",
-            "color": null,
-            "position": 12
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497645379577970869",
-      "type": "Default",
-      "timestamp": "2026-04-25T17:08:03.397+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "But Who's Got You? by LoveTVFan",
-      "author": {
-        "id": "427655654291800065",
-        "name": "veritycantare",
-        "discriminator": "0000",
-        "nickname": "Verity (Puffytiger)",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408254447074803784",
-            "name": "Role Manager",
-            "color": null,
-            "position": 12
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497645414709727375",
-      "type": "Default",
-      "timestamp": "2026-04-25T17:08:11.773+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Found by SuperBek",
-      "author": {
-        "id": "427655654291800065",
-        "name": "veritycantare",
-        "discriminator": "0000",
-        "nickname": "Verity (Puffytiger)",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408254447074803784",
-            "name": "Role Manager",
-            "color": null,
-            "position": 12
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497645449576841544",
-      "type": "Default",
-      "timestamp": "2026-04-25T17:08:20.086+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "If You Only Knew by Carrie Rene",
+      "content": "- **A Bird in Hand** by Blg1987\n- **But Who's Got You?** by LoveTVFan\n- **Found** by SuperBek\n- **If You Only Knew** by Carrie Rene",
       "author": {
         "id": "427655654291800065",
         "name": "veritycantare",
@@ -23093,7 +22551,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "But Who's Got You? by @lovetvfan !!!!",
+      "content": "**But Who's Got You?** by @lovetvfan !!!!",
       "author": {
         "id": "427655654291800065",
         "name": "veritycantare",
@@ -24717,7 +24175,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The Best Short Story nominees are:",
+      "content": "The **Best Short Story** nominees are:",
       "author": {
         "id": "928344033418412093",
         "name": "annabtg",
@@ -24766,7 +24224,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "A Bird in Hand (2025SF for kSaraSara) by Blg1987\nThe Costume Party: A Choose Your Own Adventure Fic by Queen of the Capes\nFalling for You (2025SF for JadedEvie) by kSaraSara \nJust Us This Time (2025SF for LoveTVFan) by Kathryn84\nSanctuary (2025SF for aPurpleOakie) by Kaylle",
+      "content": "- **A Bird in Hand** (2025SF for kSaraSara) by Blg1987\n\n- **The Costume Party: A Choose Your Own Adventure Fic** by Queen of the Capes\n- **Falling for You** (2025SF for JadedEvie) by kSaraSara \n- **Just Us This Time** (2025SF for LoveTVFan) by Kathryn84\n- **Sanctuary** (2025SF for aPurpleOakie) by Kaylle",
       "author": {
         "id": "928344033418412093",
         "name": "annabtg",
@@ -25039,7 +24497,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "A Bird in Hand (2025SF for kSaraSara) by Blg1987 \n&\nFalling for You (2025SF for JadedEvie) by kSaraSara",
+      "content": "- **A Bird in Hand** (2025SF for kSaraSara) by Blg1987 \n- **Falling for You** (2025SF for JadedEvie) by kSaraSara",
       "author": {
         "id": "928344033418412093",
         "name": "annabtg",
@@ -30821,7 +30279,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees for Best Original Character/Supporting character are:",
+      "content": "The nominees for **Best Original Character/Supporting Character** are:",
       "author": {
         "id": "1355526994573525255",
         "name": "idontknowwhatthatmeans5678",
@@ -30882,129 +30340,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Jamie Evans: But Who’s Got You? By lovetvfan",
-      "author": {
-        "id": "1355526994573525255",
-        "name": "idontknowwhatthatmeans5678",
-        "discriminator": "0000",
-        "nickname": "Idon'tknowwhatthatmeans5678",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408253038724120606",
-            "name": "Ficathon",
-            "color": null,
-            "position": 10
-          },
-          {
-            "id": "1408255415090937957",
-            "name": "SuperWriMo",
-            "color": null,
-            "position": 9
-          },
-          {
-            "id": "1408255647409242194",
-            "name": "Sprinters",
-            "color": null,
-            "position": 6
-          },
-          {
-            "id": "1408255691579199528",
-            "name": "WordNerd",
-            "color": null,
-            "position": 5
-          },
-          {
-            "id": "1408255733497335819",
-            "name": "Beta",
-            "color": null,
-            "position": 4
-          },
-          {
-            "id": "1458579027987140723",
-            "name": "Kerth Awards",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497655898892669069",
-      "type": "Default",
-      "timestamp": "2026-04-25T17:49:51.397+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Mayson Drake: A Different Perspective by Krista/FragmentedSandwiches",
-      "author": {
-        "id": "1355526994573525255",
-        "name": "idontknowwhatthatmeans5678",
-        "discriminator": "0000",
-        "nickname": "Idon'tknowwhatthatmeans5678",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408253038724120606",
-            "name": "Ficathon",
-            "color": null,
-            "position": 10
-          },
-          {
-            "id": "1408255415090937957",
-            "name": "SuperWriMo",
-            "color": null,
-            "position": 9
-          },
-          {
-            "id": "1408255647409242194",
-            "name": "Sprinters",
-            "color": null,
-            "position": 6
-          },
-          {
-            "id": "1408255691579199528",
-            "name": "WordNerd",
-            "color": null,
-            "position": 5
-          },
-          {
-            "id": "1408255733497335819",
-            "name": "Beta",
-            "color": null,
-            "position": 4
-          },
-          {
-            "id": "1458579027987140723",
-            "name": "Kerth Awards",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497655948414812183",
-      "type": "Default",
-      "timestamp": "2026-04-25T17:50:03.204+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Jonathan and Martha Kent: Found by SuperBek",
+      "content": "- **Jamie Evans: But Who’s Got You?** By lovetvfan\n- **Mayson Drake: A Different Perspective** by Krista/FragmentedSandwiches\n- **Jonathan and Martha Kent: Found** by SuperBek",
       "author": {
         "id": "1355526994573525255",
         "name": "idontknowwhatthatmeans5678",
@@ -31179,7 +30515,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Jonathan and Martha Kent: Found by SuperBek",
+      "content": "**Jonathan and Martha Kent: Found** by SuperBek",
       "author": {
         "id": "1355526994573525255",
         "name": "idontknowwhatthatmeans5678",
@@ -33264,7 +32600,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Narrator: “Umm, right. Anyway, here are the nominees for best Mid-Length fic”:",
+      "content": "Narrator: “Umm, right. Anyway, here are the nominees for **Best Mid-Length Story**”:",
       "author": {
         "id": "863096418641379398",
         "name": "lovetvfan",
@@ -33288,79 +32624,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Fade to Black: Pilot (The Interview) by lovetvfan – 155 kB (29,402 words)",
-      "author": {
-        "id": "863096418641379398",
-        "name": "lovetvfan",
-        "discriminator": "0000",
-        "nickname": "lovetvfan (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497658726784569555",
-      "type": "Default",
-      "timestamp": "2026-04-25T18:01:05.619+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "The Proposal by JadedEvie – 95 kB (16,522 words)",
-      "author": {
-        "id": "863096418641379398",
-        "name": "lovetvfan",
-        "discriminator": "0000",
-        "nickname": "lovetvfan (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497658757784666214",
-      "type": "Default",
-      "timestamp": "2026-04-25T18:01:13.01+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "The Ruse by Socomama – 183 kB (32,739 words)",
-      "author": {
-        "id": "863096418641379398",
-        "name": "lovetvfan",
-        "discriminator": "0000",
-        "nickname": "lovetvfan (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497658790835785760",
-      "type": "Default",
-      "timestamp": "2026-04-25T18:01:20.89+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Sleight of Hand (2025SF for QueenoftheCapes) by JadedEvie – 137 kB (24,937 words)",
+      "content": "- **Fade to Black: Pilot (The Interview)** by lovetvfan – 155 kB (29,402 words)\n- **The Proposal** by JadedEvie – 95 kB (16,522 words)\n- **The Ruse** by Socomama – 183 kB (32,739 words)\n- **Sleight of Hand** (2025SF for QueenoftheCapes) by JadedEvie – 137 kB (24,937 words)",
       "author": {
         "id": "863096418641379398",
         "name": "lovetvfan",
@@ -33492,7 +32756,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The Ruse by @Socomama !!!",
+      "content": "**The Ruse** by @Socomama !!!",
       "author": {
         "id": "427655654291800065",
         "name": "veritycantare",
@@ -34688,7 +33952,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "This year, three have been nominated for 2026’s Best Elseworlds/AU story. The nominees for Best Elseworlds/AU story are:",
+      "content": "This year, three have been nominated for 2026’s Best Elseworlds/AU story. The nominees for **Best Elseworlds/AU Story** are:",
       "author": {
         "id": "jessblueowl",
         "name": "Blueowl",
@@ -34712,7 +33976,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "A Bird in Hand (2025SF for kSaraSara) by Blg1987\nBut Who's Got You? (2025SF for Amanda K) by LoveTVFan \nFound by SuperBek",
+      "content": "- **A Bird in Hand** (2025SF for kSaraSara) by Blg1987\n- **But Who's Got You?** (2025SF for Amanda K) by LoveTVFan \n- **Found** by SuperBek",
       "author": {
         "id": "jessblueowl",
         "name": "Blueowl",
@@ -34854,7 +34118,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "A Bird in Hand (2025SF for kSaraSara) by Blg1987 !!!",
+      "content": "**A Bird in Hand** (2025SF for kSaraSara) by Blg1987 !!!",
       "author": {
         "id": "928344033418412093",
         "name": "annabtg",
@@ -36830,7 +36094,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "That being said, the nominees for Best Waffy Story are:\nCravings by aPurpleOkie\nLights and Music by Bakasi\nThe Proposal by JadedEvie\nThe Ruse by Socomama",
+      "content": "That being said, the nominees for **Best Waffy Story** are:\n\n- **Cravings** by aPurpleOkie\n- **Lights and Music** by Bakasi\n- **The Proposal** by JadedEvie\n- **The Ruse** by Socomama",
       "author": {
         "id": "932379268095299624",
         "name": "morgana4007",
@@ -36955,7 +36219,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Best Waffy\nThe Ruse by Socomama",
+      "content": "Best Waffy\n**The Ruse** by Socomama",
       "author": {
         "id": "764673712095494185",
         "name": "crdatema77",
@@ -37925,7 +37189,7 @@
       "timestampEdited": "2026-04-25T18:24:35.613+00:00",
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees for Best Long Story are...",
+      "content": "The nominees for **Best Long Story** are...",
       "author": {
         "id": "427655654291800065",
         "name": "veritycantare",
@@ -37956,100 +37220,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "But Who's Got You? (2025SF for Amanda K) by LoveTVFan – 230 kB (43,755 words)",
-      "author": {
-        "id": "427655654291800065",
-        "name": "veritycantare",
-        "discriminator": "0000",
-        "nickname": "Verity (Puffytiger)",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408254447074803784",
-            "name": "Role Manager",
-            "color": null,
-            "position": 12
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497663379249037424",
-      "type": "Default",
-      "timestamp": "2026-04-25T18:19:34.853+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Found by SuperBek – 228 kB (42,208 words)",
-      "author": {
-        "id": "427655654291800065",
-        "name": "veritycantare",
-        "discriminator": "0000",
-        "nickname": "Verity (Puffytiger)",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408254447074803784",
-            "name": "Role Manager",
-            "color": null,
-            "position": 12
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497663413466173694",
-      "type": "Default",
-      "timestamp": "2026-04-25T18:19:43.011+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Stuck in the Dark by aPurpleOkie – 409 kB (71,368 words)",
-      "author": {
-        "id": "427655654291800065",
-        "name": "veritycantare",
-        "discriminator": "0000",
-        "nickname": "Verity (Puffytiger)",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408254447074803784",
-            "name": "Role Manager",
-            "color": null,
-            "position": 12
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "1497663449361154230",
-      "type": "Default",
-      "timestamp": "2026-04-25T18:19:51.569+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "When You're Not Strong by lovetvfan – 369 kB (68,686 words)",
+      "content": "\n- **But Who's Got You?** (2025SF for Amanda K) by LoveTVFan – 230 kB (43,755 words)\n- **Found** by SuperBek – 228 kB (42,208 words)\n- **Stuck in the Dark** by aPurpleOkie – 409 kB (71,368 words)\n- **When You're Not Strong** by lovetvfan – 369 kB (68,686 words)",
       "author": {
         "id": "427655654291800065",
         "name": "veritycantare",
@@ -38180,7 +37351,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "But Who's Got You? by @lovetvfan !!!",
+      "content": "**But Who's Got You?** by @lovetvfan !!!",
       "author": {
         "id": "427655654291800065",
         "name": "veritycantare",
@@ -40478,7 +39649,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees for the Best NFic story are: \nIn the Depths of My Eyes by Bakasi \nFade to Black: Pilot (The Interview) by lovetvfan \nI'm Right Here by Krista / FragmentedSandwiches",
+      "content": "The nominees for the **Best NFic Story** are: \n- **In the Depths of My Eyes** by Bakasi \n- **Fade to Black: Pilot (The Interview)** by lovetvfan \n- **I'm Right Here** by Krista / FragmentedSandwiches",
       "author": {
         "id": "949027374442373140",
         "name": "bakasi_",
@@ -40749,7 +39920,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Fade to Black: Pilot (The Interview) by lovetvfan",
+      "content": "**Fade to Black: Pilot (The Interview)** by lovetvfan",
       "author": {
         "id": "949027374442373140",
         "name": "bakasi_",
@@ -42677,7 +41848,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "So, without further ado, our nominees for Best New Author are:",
+      "content": "So, without further ado, our nominees for **Best New Author** are:",
       "author": {
         "id": "1194703813462986818",
         "name": "kuehnermama",
@@ -42720,143 +41891,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Abigail Ellen Kent",
-      "author": {
-        "id": "1194703813462986818",
-        "name": "kuehnermama",
-        "discriminator": "0000",
-        "nickname": "AmandaK",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408253038724120606",
-            "name": "Ficathon",
-            "color": null,
-            "position": 10
-          },
-          {
-            "id": "1408255415090937957",
-            "name": "SuperWriMo",
-            "color": null,
-            "position": 9
-          },
-          {
-            "id": "1458579027987140723",
-            "name": "Kerth Awards",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/1194703813462986818/d01b0d0f9ae6b9b5e44827b92b40b8c7.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 10,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            },
-            {
-              "id": "863096418641379398",
-              "name": "lovetvfan",
-              "discriminator": "0000",
-              "nickname": "lovetvfan",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "949027374442373140",
-              "name": "bakasi_",
-              "discriminator": "0000",
-              "nickname": "bakasi",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/2010e9921eaa8a2278c2ed0a6ce7f9f2.png?size=512"
-            },
-            {
-              "id": "1044700558864429229",
-              "name": "blg1987",
-              "discriminator": "0000",
-              "nickname": "blg1987",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1044700558864429229/0d743c73071a5e06caf3ee802ac2f30b.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1184654759148396565",
-              "name": "jadedevie",
-              "discriminator": "0000",
-              "nickname": "JadedEvie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1184654759148396565/4a855887eda24eadac55c0c029bd9003.png?size=512"
-            },
-            {
-              "id": "1273378734359187583",
-              "name": "queenofthecapes._27212",
-              "discriminator": "0000",
-              "nickname": "QueenoftheCapes",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497669473790988338",
-      "type": "Default",
-      "timestamp": "2026-04-25T18:43:47.905+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Blg1987",
+      "content": "- **Abigail Ellen Kent**\n- **Blg1987**\n- **Idontknowwhatthatmeans5678 / SonicMessiah**\n- **Krista / FragmentedSandwiches**\n- **aPurpleOkie**",
       "author": {
         "id": "1194703813462986818",
         "name": "kuehnermama",
@@ -42994,426 +42029,6 @@
       "mentions": []
     },
     {
-      "id": "1497669540941791283",
-      "type": "Default",
-      "timestamp": "2026-04-25T18:44:03.915+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Idontknowwhatthatmeans5678 / SonicMessiah",
-      "author": {
-        "id": "1194703813462986818",
-        "name": "kuehnermama",
-        "discriminator": "0000",
-        "nickname": "AmandaK",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408253038724120606",
-            "name": "Ficathon",
-            "color": null,
-            "position": 10
-          },
-          {
-            "id": "1408255415090937957",
-            "name": "SuperWriMo",
-            "color": null,
-            "position": 9
-          },
-          {
-            "id": "1458579027987140723",
-            "name": "Kerth Awards",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/1194703813462986818/d01b0d0f9ae6b9b5e44827b92b40b8c7.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 10,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            },
-            {
-              "id": "863096418641379398",
-              "name": "lovetvfan",
-              "discriminator": "0000",
-              "nickname": "lovetvfan",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "949027374442373140",
-              "name": "bakasi_",
-              "discriminator": "0000",
-              "nickname": "bakasi",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/2010e9921eaa8a2278c2ed0a6ce7f9f2.png?size=512"
-            },
-            {
-              "id": "1044700558864429229",
-              "name": "blg1987",
-              "discriminator": "0000",
-              "nickname": "blg1987",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1044700558864429229/0d743c73071a5e06caf3ee802ac2f30b.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1184654759148396565",
-              "name": "jadedevie",
-              "discriminator": "0000",
-              "nickname": "JadedEvie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1184654759148396565/4a855887eda24eadac55c0c029bd9003.png?size=512"
-            },
-            {
-              "id": "1273378734359187583",
-              "name": "queenofthecapes._27212",
-              "discriminator": "0000",
-              "nickname": "QueenoftheCapes",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
-            },
-            {
-              "id": "1331473092555571286",
-              "name": "hatcherfan",
-              "discriminator": "0000",
-              "nickname": "Julie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1331473092555571286/3d59908466b5b304f20c48ba0e61beee.png?size=512"
-            }
-          ]
-        },
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83C\uDF89",
-            "code": "tada",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
-          },
-          "count": 1,
-          "users": [
-            {
-              "id": "1044700558864429229",
-              "name": "blg1987",
-              "discriminator": "0000",
-              "nickname": "blg1987",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1044700558864429229/0d743c73071a5e06caf3ee802ac2f30b.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497669587309953205",
-      "type": "Default",
-      "timestamp": "2026-04-25T18:44:14.97+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Krista / FragmentedSandwiches",
-      "author": {
-        "id": "1194703813462986818",
-        "name": "kuehnermama",
-        "discriminator": "0000",
-        "nickname": "AmandaK",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408253038724120606",
-            "name": "Ficathon",
-            "color": null,
-            "position": 10
-          },
-          {
-            "id": "1408255415090937957",
-            "name": "SuperWriMo",
-            "color": null,
-            "position": 9
-          },
-          {
-            "id": "1458579027987140723",
-            "name": "Kerth Awards",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/1194703813462986818/d01b0d0f9ae6b9b5e44827b92b40b8c7.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 9,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            },
-            {
-              "id": "863096418641379398",
-              "name": "lovetvfan",
-              "discriminator": "0000",
-              "nickname": "lovetvfan",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "1044700558864429229",
-              "name": "blg1987",
-              "discriminator": "0000",
-              "nickname": "blg1987",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1044700558864429229/0d743c73071a5e06caf3ee802ac2f30b.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1184654759148396565",
-              "name": "jadedevie",
-              "discriminator": "0000",
-              "nickname": "JadedEvie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1184654759148396565/4a855887eda24eadac55c0c029bd9003.png?size=512"
-            },
-            {
-              "id": "1273378734359187583",
-              "name": "queenofthecapes._27212",
-              "discriminator": "0000",
-              "nickname": "QueenoftheCapes",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
-            },
-            {
-              "id": "1331473092555571286",
-              "name": "hatcherfan",
-              "discriminator": "0000",
-              "nickname": "Julie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1331473092555571286/3d59908466b5b304f20c48ba0e61beee.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497669629630218431",
-      "type": "Default",
-      "timestamp": "2026-04-25T18:44:25.06+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "aPurpleOkie",
-      "author": {
-        "id": "1194703813462986818",
-        "name": "kuehnermama",
-        "discriminator": "0000",
-        "nickname": "AmandaK",
-        "color": null,
-        "isBot": false,
-        "roles": [
-          {
-            "id": "1408253038724120606",
-            "name": "Ficathon",
-            "color": null,
-            "position": 10
-          },
-          {
-            "id": "1408255415090937957",
-            "name": "SuperWriMo",
-            "color": null,
-            "position": 9
-          },
-          {
-            "id": "1458579027987140723",
-            "name": "Kerth Awards",
-            "color": null,
-            "position": 1
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/1194703813462986818/d01b0d0f9ae6b9b5e44827b92b40b8c7.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 10,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            },
-            {
-              "id": "863096418641379398",
-              "name": "lovetvfan",
-              "discriminator": "0000",
-              "nickname": "lovetvfan",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "949027374442373140",
-              "name": "bakasi_",
-              "discriminator": "0000",
-              "nickname": "bakasi",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/2010e9921eaa8a2278c2ed0a6ce7f9f2.png?size=512"
-            },
-            {
-              "id": "1044700558864429229",
-              "name": "blg1987",
-              "discriminator": "0000",
-              "nickname": "blg1987",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1044700558864429229/0d743c73071a5e06caf3ee802ac2f30b.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1184654759148396565",
-              "name": "jadedevie",
-              "discriminator": "0000",
-              "nickname": "JadedEvie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1184654759148396565/4a855887eda24eadac55c0c029bd9003.png?size=512"
-            },
-            {
-              "id": "1273378734359187583",
-              "name": "queenofthecapes._27212",
-              "discriminator": "0000",
-              "nickname": "QueenoftheCapes",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
-            },
-            {
-              "id": "1331473092555571286",
-              "name": "hatcherfan",
-              "discriminator": "0000",
-              "nickname": "Julie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1331473092555571286/3d59908466b5b304f20c48ba0e61beee.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
       "id": "1497669708697305219",
       "type": "Default",
       "timestamp": "2026-04-25T18:44:43.911+00:00",
@@ -43532,7 +42147,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Blg1987!",
+      "content": "**Blg1987**!",
       "author": {
         "id": "1194703813462986818",
         "name": "kuehnermama",
@@ -45246,7 +43861,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees for Best Original Fanart are:",
+      "content": "The nominees for **Best Original Fanart** are:",
       "author": {
         "id": "928344033418412093",
         "name": "annabtg",
@@ -45295,7 +43910,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "TikTok Videos by 90stvfangirl\nPodcast by FoLCs Forever\nMusic Video: Miss Independent by lovetvfan",
+      "content": "- **TikTok Videos** by 90stvfangirl\n- **Podcast** by FoLCs Forever\n- **Music Video: Miss Independent** by lovetvfan",
       "author": {
         "id": "928344033418412093",
         "name": "annabtg",
@@ -45527,7 +44142,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Podcast by FoLCs Forever !",
+      "content": "**Podcast** by FoLCs Forever !",
       "author": {
         "id": "928344033418412093",
         "name": "annabtg",
@@ -48113,7 +46728,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "This year's nominees for Best Commenter/Feedback Giver are:",
+      "content": "This year's nominees for **Best Commenter/Feedback Giver** are:",
       "author": {
         "id": "588362199051927562",
         "name": "kaylle.",
@@ -48137,467 +46752,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "90stvfangirl",
-      "author": {
-        "id": "588362199051927562",
-        "name": "kaylle.",
-        "discriminator": "0000",
-        "nickname": "Kaylle (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/588362199051927562/2b87d31651cebe7d53b024e5e60970c3.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 10,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            },
-            {
-              "id": "863096418641379398",
-              "name": "lovetvfan",
-              "discriminator": "0000",
-              "nickname": "lovetvfan",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "949027374442373140",
-              "name": "bakasi_",
-              "discriminator": "0000",
-              "nickname": "bakasi",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/2010e9921eaa8a2278c2ed0a6ce7f9f2.png?size=512"
-            },
-            {
-              "id": "1044700558864429229",
-              "name": "blg1987",
-              "discriminator": "0000",
-              "nickname": "blg1987",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1044700558864429229/0d743c73071a5e06caf3ee802ac2f30b.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1184654759148396565",
-              "name": "jadedevie",
-              "discriminator": "0000",
-              "nickname": "JadedEvie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1184654759148396565/4a855887eda24eadac55c0c029bd9003.png?size=512"
-            },
-            {
-              "id": "1273378734359187583",
-              "name": "queenofthecapes._27212",
-              "discriminator": "0000",
-              "nickname": "QueenoftheCapes",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497675388376187113",
-      "type": "Default",
-      "timestamp": "2026-04-25T19:07:18.052+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Bakasi",
-      "author": {
-        "id": "588362199051927562",
-        "name": "kaylle.",
-        "discriminator": "0000",
-        "nickname": "Kaylle (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/588362199051927562/2b87d31651cebe7d53b024e5e60970c3.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 9,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            },
-            {
-              "id": "758125333542207498",
-              "name": "adamang0661",
-              "discriminator": "0000",
-              "nickname": "peixinho",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/758125333542207498/436246331c771e9a32ec9042b715e686.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "1044700558864429229",
-              "name": "blg1987",
-              "discriminator": "0000",
-              "nickname": "blg1987",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1044700558864429229/0d743c73071a5e06caf3ee802ac2f30b.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1184654759148396565",
-              "name": "jadedevie",
-              "discriminator": "0000",
-              "nickname": "JadedEvie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1184654759148396565/4a855887eda24eadac55c0c029bd9003.png?size=512"
-            },
-            {
-              "id": "1273378734359187583",
-              "name": "queenofthecapes._27212",
-              "discriminator": "0000",
-              "nickname": "QueenoftheCapes",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497675426984890508",
-      "type": "Default",
-      "timestamp": "2026-04-25T19:07:27.257+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "DarthMichael",
-      "author": {
-        "id": "588362199051927562",
-        "name": "kaylle.",
-        "discriminator": "0000",
-        "nickname": "Kaylle (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/588362199051927562/2b87d31651cebe7d53b024e5e60970c3.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 10,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            },
-            {
-              "id": "863096418641379398",
-              "name": "lovetvfan",
-              "discriminator": "0000",
-              "nickname": "lovetvfan",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "949027374442373140",
-              "name": "bakasi_",
-              "discriminator": "0000",
-              "nickname": "bakasi",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/2010e9921eaa8a2278c2ed0a6ce7f9f2.png?size=512"
-            },
-            {
-              "id": "1044700558864429229",
-              "name": "blg1987",
-              "discriminator": "0000",
-              "nickname": "blg1987",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1044700558864429229/0d743c73071a5e06caf3ee802ac2f30b.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1184654759148396565",
-              "name": "jadedevie",
-              "discriminator": "0000",
-              "nickname": "JadedEvie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1184654759148396565/4a855887eda24eadac55c0c029bd9003.png?size=512"
-            },
-            {
-              "id": "1273378734359187583",
-              "name": "queenofthecapes._27212",
-              "discriminator": "0000",
-              "nickname": "QueenoftheCapes",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497675471599698063",
-      "type": "Default",
-      "timestamp": "2026-04-25T19:07:37.894+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "JadedEvie",
-      "author": {
-        "id": "588362199051927562",
-        "name": "kaylle.",
-        "discriminator": "0000",
-        "nickname": "Kaylle (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/588362199051927562/2b87d31651cebe7d53b024e5e60970c3.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 10,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "538110968903893023",
-              "name": "h42el",
-              "discriminator": "0000",
-              "nickname": "Hazel",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/538110968903893023/b6ab940b50928fd36d2e31bdee66a815.png?size=512"
-            },
-            {
-              "id": "626532094436179971",
-              "name": "ksarasara",
-              "discriminator": "0000",
-              "nickname": "KSaraSara",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/626532094436179971/87c0ad76fb5a62da66eb62e7b3762796.png?size=512"
-            },
-            {
-              "id": "863096418641379398",
-              "name": "lovetvfan",
-              "discriminator": "0000",
-              "nickname": "lovetvfan",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "949027374442373140",
-              "name": "bakasi_",
-              "discriminator": "0000",
-              "nickname": "bakasi",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/2010e9921eaa8a2278c2ed0a6ce7f9f2.png?size=512"
-            },
-            {
-              "id": "1044700558864429229",
-              "name": "blg1987",
-              "discriminator": "0000",
-              "nickname": "blg1987",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1044700558864429229/0d743c73071a5e06caf3ee802ac2f30b.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1273378734359187583",
-              "name": "queenofthecapes._27212",
-              "discriminator": "0000",
-              "nickname": "QueenoftheCapes",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497675512733106318",
-      "type": "Default",
-      "timestamp": "2026-04-25T19:07:47.701+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Songbird",
+      "content": "- **90stvfangirl**\n- **Bakasi**\n- **DarthMichael**\n- **JadedEvie**\n- **Songbird**",
       "author": {
         "id": "588362199051927562",
         "name": "kaylle.",
@@ -49126,7 +47281,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Please can DarthMichael and JadedEvie both come to the stage and give their feedback, sorry accept their awards!!",
+      "content": "Please can **DarthMichael** and **JadedEvie** both come to the stage and give their feedback, sorry accept their awards!!",
       "author": {
         "id": "1355526994573525255",
         "name": "idontknowwhatthatmeans5678",
@@ -53832,7 +51987,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "The nominees for the Best Overall story are:",
+      "content": "The nominees for the **Best Overall Story** are:",
       "author": {
         "id": "949027374442373140",
         "name": "bakasi_",
@@ -53856,493 +52011,7 @@
       "timestampEdited": "2026-04-25T19:32:48.528+00:00",
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "But Who's Got You? (2025SF for Amanda K) by lovetvfan",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 5,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1184654759148396565",
-              "name": "jadedevie",
-              "discriminator": "0000",
-              "nickname": "JadedEvie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1184654759148396565/4a855887eda24eadac55c0c029bd9003.png?size=512"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497680109929234654",
-      "type": "Default",
-      "timestamp": "2026-04-25T19:26:03.758+00:00",
-      "timestampEdited": "2026-04-25T19:32:56.16+00:00",
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Fade to Black: Pilot (The Interview) by lovetvfan",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 5,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1184654759148396565",
-              "name": "jadedevie",
-              "discriminator": "0000",
-              "nickname": "JadedEvie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1184654759148396565/4a855887eda24eadac55c0c029bd9003.png?size=512"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497680124139536475",
-      "type": "Default",
-      "timestamp": "2026-04-25T19:26:07.146+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Found by SuperBek",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 6,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "863096418641379398",
-              "name": "lovetvfan",
-              "discriminator": "0000",
-              "nickname": "lovetvfan",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1184654759148396565",
-              "name": "jadedevie",
-              "discriminator": "0000",
-              "nickname": "JadedEvie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1184654759148396565/4a855887eda24eadac55c0c029bd9003.png?size=512"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497680141894160588",
-      "type": "Default",
-      "timestamp": "2026-04-25T19:26:11.379+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "The Proposal by JadedEvie",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 5,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "863096418641379398",
-              "name": "lovetvfan",
-              "discriminator": "0000",
-              "nickname": "lovetvfan",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497680157358559404",
-      "type": "Default",
-      "timestamp": "2026-04-25T19:26:15.066+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "The Ruse by Socomama",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 6,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "863096418641379398",
-              "name": "lovetvfan",
-              "discriminator": "0000",
-              "nickname": "lovetvfan",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1184654759148396565",
-              "name": "jadedevie",
-              "discriminator": "0000",
-              "nickname": "JadedEvie",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1184654759148396565/4a855887eda24eadac55c0c029bd9003.png?size=512"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497680174546686165",
-      "type": "Default",
-      "timestamp": "2026-04-25T19:26:19.164+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Sleight of Hand (2025SF for QueenoftheCapes) by JadedEvie",
-      "author": {
-        "id": "949027374442373140",
-        "name": "bakasi_",
-        "discriminator": "0000",
-        "nickname": "bakasi (sock)",
-        "color": null,
-        "isBot": false,
-        "roles": [],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/949027374442373140/6a865a4967dc0d02d30fa3041cc1f451.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "❤️",
-            "code": "heart",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
-          },
-          "count": 6,
-          "users": [
-            {
-              "id": "427655654291800065",
-              "name": "veritycantare",
-              "discriminator": "0000",
-              "nickname": "Verity (Puffytiger)",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/427655654291800065/e654c786fddf23d322814c52b1d0fdff.png?size=512"
-            },
-            {
-              "id": "863096418641379398",
-              "name": "lovetvfan",
-              "discriminator": "0000",
-              "nickname": "lovetvfan",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/863096418641379398/6b9bf135b7471b304df6a7ea473c8f27.png?size=512"
-            },
-            {
-              "id": "928344033418412093",
-              "name": "annabtg",
-              "discriminator": "0000",
-              "nickname": "AnnaBtG",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/928344033418412093/bb44835d9eccc97a9e22ae7c8230a2f8.png?size=512"
-            },
-            {
-              "id": "1094733421001056347",
-              "name": "mr.pie7103",
-              "discriminator": "0000",
-              "nickname": "BubbleL",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
-            },
-            {
-              "id": "1273378734359187583",
-              "name": "queenofthecapes._27212",
-              "discriminator": "0000",
-              "nickname": "QueenoftheCapes",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
-            },
-            {
-              "id": "1355526994573525255",
-              "name": "idontknowwhatthatmeans5678",
-              "discriminator": "0000",
-              "nickname": "Idon'tknowwhatthatmeans5678",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/1355526994573525255/2c49761887540199ef825b5db28ac9bf.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": []
-    },
-    {
-      "id": "1497680189533065317",
-      "type": "Default",
-      "timestamp": "2026-04-25T19:26:22.737+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "Stuck in the Dark by aPurpleOkie",
+      "content": "**\n- **But Who's Got You?** (2025SF for Amanda K) by lovetvfan\n- **Fade to Black: Pilot (The Interview)** by lovetvfan\n- **Found** by SuperBek\n- **The Proposal** by JadedEvie\n- **The Ruse** by Socomama\n- **Sleight of Hand** (2025SF for QueenoftheCapes) by JadedEvie\n- **Stuck in the Dark** by aPurpleOkie",
       "author": {
         "id": "949027374442373140",
         "name": "bakasi_",
@@ -54586,7 +52255,7 @@
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "But Who's Got You? (2025SF for Amanda K) by LoveTVFan",
+      "content": "**But Who's Got You?** (2025SF for Amanda K) by LoveTVFan",
       "author": {
         "id": "970692266417061968",
         "name": "darth_michael",
